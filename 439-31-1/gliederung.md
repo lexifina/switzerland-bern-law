@@ -1,0 +1,2 @@
+## A1 Interkantonale Kommission «Sport-Künste-Studium» Anhang 1 zur Zusammenarbeitsvereinbarung zwischen den Kantonen Bern und Jura mit dem Ziel, jungen Artistinnen und Artisten sowie jungen Sportlerinnen und Sportlern zu ermöglichen, Schulausbildung und Künstler- oder Sportlerkarriere zu vereinbaren
+## A2 Auswahlkriterien Anhang 2 zur Zusammenarbeitsvereinbarung zwischen den Kantonen Bern und Jura mit dem Ziel, jungen Artistinnen und Artisten sowie jungen Sportlerinnen und Sportlern zu ermöglichen, Schulausbildung und Künstler- oder Sportlerkarriere zu vereinbaren
