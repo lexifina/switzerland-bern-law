@@ -1,0 +1,1 @@
+(Neudruck vom Juni 1977. In diesem Zeitpunkt waren der Vereinbarung beigetreten die Kantone Aargau, Appenzell A.-Rh., Appenzell I.-Rh., Basel-Land, Basel-Stadt, Glarus, Graubünden, Luzern, Nidwalden, Obwalden, St. Gallen, Schaffhausen, Schwyz, Solothurn, Tessin, Thurgau, Uri, Zug und Zürich.)
