@@ -1,0 +1,6 @@
+# Übereinkunft wegen der Herstellung und neuen Umschreibung des Bistums Basel
+vom 26.03.1828
+Da die Übereinkunft vom 12. Märzmonat 1827, betreffend die Wiederherstellung und neue Umschreibung des Bistums Basel, nicht von sämtlichen Kantonen die Genehmigung erhalten hat, namens welcher sie abgeschlossen worden war, – so haben die Hohen Stände Luzern, Bern, Solothurn und Zug durch die Überzeugung der dringenden Notwendigkeit geleitet, dass dem privisorischen Zustande ein Ende gemacht werde, in welchem sich die Bistumsangelegenheiten befinden, sich entschlossen, in so weit es sie beschlägt, der obenerwähnten Übereinkunft, unter den durch die veränderten Umstände notwendig gewordenen Abänderungen, Folge zu geben; zu welchem Ende sie die Unterhandlungen wieder haben erneuern lassen,
+zwischen Herrn Paskal Gizzi, apostolischer Internunzius bei der Schweizerischen Eidgenossenschaft, als von Seite Seiner Heiligkeit, Pabst Leo XII. mit dieser Unterhandlung beauftragt;
+und
+Seiner Exzellenz, Herrn Joseph Karl Amrhyn, Schultheiss der Stadt und Republik Luzern, und Herrn Ludwig von Roll, Staatsrat der Republik Solothurn, als von den Kantonen ermächtigte Kommissarien; welche hierauf, vermöge ihrer frühern in der Zeit ausgewechselten Vollmachten, unter Vorbehalt der Genehmigung ihrer Hohen Kommittenten, über nachstehende Grundlagen übereingekommen sind, als:
