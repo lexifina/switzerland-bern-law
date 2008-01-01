@@ -1,0 +1,4 @@
+# Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen
+vom 05.05.2006
+Die Kantone Uri, Schwyz, Obwalden, Nidwalden, Luzern, Zug, Bern, Solothurn, Basel-Stadt, Basel-Landschaft und Aargau schliessen sich,
+gestützt auf Art. 48 der Schweizerischen Bundesverfassung (BV) und Art. 372 und 377 bis 380 des Schweizerischen Strafgesetzbuches (StGB) sowie Art. 1 des Bundesgesetzes über das Jugendstrafrecht (JStG)mit dem Ziel, Strafurteile verfassungs- und gesetzeskonform, einheitlich und kostengünstig zu vollziehen, die bedarfsgerechte Anzahl Vollzugsplätze gemeinsam zu planen und die Aufgaben beim Bau und beim Betrieb der Vollzugseinrichtungen zu verteilen und zu koordinieren, zum Strafvollzugskonkordat der Nordwest- und Innerschweiz (im Folgenden Konkordat genannt) zusammen.
