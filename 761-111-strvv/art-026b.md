@@ -1,0 +1,2 @@
+# Art. 26b 4. Rücknahme einer Kontrollschildnummer zur unbeschränkten Neuzuteilung
+1 Die Strassenverkehrsbehörde kann eine Kontrollschildnummer zur unbeschränkten Neuzuteilung zurücknehmen und die Kontrollschilder kostenlos gegen solche mit anderer Nummer austauschen. Für die Rücknahme zur unbeschränkten Neuzuteilung kann sie zudem eine Entschädigung bis maximal 2000 Franken ausrichten. Voraussetzung ist die gegenseitige Einigung über die Bedingungen der Rücknahme sowie eine schriftliche Verzichtserklärung der Fahrzeughalterin oder des Fahrzeughalters.

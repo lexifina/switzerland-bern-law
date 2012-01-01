@@ -1,0 +1,4 @@
+# Art. 12d 4. Durchführung der Untersuchung
+1 Die Vertrauensärztinnen und Vertrauensärzte verpflichten sich, die rechtlichen Vorschriften über die Durchführung der vertrauensärztlichen Untersuchungen einzuhalten.
+2 Vertrauensärztinnen und Vertrauensärzte sind verpflichtet, untersuchte Personen, bei denen die Eignung zum sicheren Führen von Motorfahrzeugen wegen körperlicher oder geistiger Krankheiten, Gebrechen oder Suchten nicht mehr besteht, unverzüglich der Strassenverkehrsbehörde zu melden.
+3 Die zu untersuchende Person ist verpflichtet, Auskunft darüber zu erteilen, ob und mit welchem Ergebnis sie zum gleichen Zweck schon von einer anderen Ärztin oder einem anderen Arzt untersucht worden ist. Sie hat die Namen und Adressen der vorbehandelnden Ärztinnen und Ärzte anzugeben und bei der Beschaffung der notwendigen Unterlagen über die Behandlungen und deren Ergebnisse mitzuwirken.

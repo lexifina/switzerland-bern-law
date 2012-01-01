@@ -1,0 +1,3 @@
+# Art. 12g 7. Ausstand
+1 Die Beurteilung eigener Patientinnen und Patienten, von Verwandten oder nahen Bekannten ist den Vertrauensärztinnen und Vertrauensärzten untersagt. Erlaubt bleiben Kontrolluntersuchungen als behandelnde Ärztin oder behandelnder Arzt gemäss Artikel 27 Absatz 1 Buchstaben b und c der Verordnung des Bundesrates vom 27. Oktober 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr (Verkehrszulassungsverordnung, VZV).
+2 Kennt eine Vertrauensärztin oder ein Vertrauensarzt eine zu untersuchende Person aus einer anderen Tätigkeit, so darf sie oder er die Untersuchung nur durchführen, wenn keine Befangenheit vorliegt.

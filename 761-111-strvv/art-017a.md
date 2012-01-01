@@ -1,0 +1,4 @@
+# Art. 17a Vollzugsaufgaben bei besonderen strassenverkehrsrechtlicher Bewilligungen und Fähigkeitsausweise
+1 Die Strassenverkehrsbehörde führt die in der eidgenössischen Gesetzgebung vorgesehene Aufsicht über die Inhaberinnen und Inhaber von besonderen strassenverkehrsrechtlichen Bewilligungen und Fähigkeitsausweisen, die Veranstalter von diesbezüglichen Aus- und Weiterbildungskursen sowie die Durchführung der Kurse.
+2 Sie vollzieht die Aufgaben nach Artikel 26 der Verordnung des Bundesrates vom 15. Juni 2007 über die Zulassung von Fahrzeugführern und Fahrzeugführerinnen zum Personen- und Gütertransport auf der Strasse (Chauffeurzulassungsverordnung, CZV).
+3 Im Rahmen der eidgenössischen Vorschriften kann die Strassenverkehrsbehörde Dritte mit der Durchführung dieser Aufgaben beauftragen. Die Übertragung der Aufgaben erfolgt durch Ermächtigung der Strassenverkehrsbehörde oder aufgrund vertraglicher Vereinbarung.
