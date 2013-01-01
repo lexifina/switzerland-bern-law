@@ -1,0 +1,2 @@
+# Art. 17a Abkommen über pauschale Verkehrsabgaben
+1 Der Regierungsrat oder die von ihm bezeichnete Behörde kann mit Fahrzeughalterinnen und Fahrzeughaltern hinsichtlich Fahrzeugflotten, bei denen sich der Standort der Fahrzeuge aufgrund ihres interkantonalen oder internationalen Einsatzes nur mit sehr grossem Verwaltungsaufwand erheben lässt, Abkommen über pauschale Verkehrsabgaben für diese Fahrzeuge treffen.

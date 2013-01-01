@@ -1,0 +1,3 @@
+# Art. 12b
+1 Für Fahrzeuge, die nach dem Effizienzbewertungssystem des Bundes nicht eindeutig Effizienzkategorie A oder B sind (z.B. Direktimport, mehrere Varianten auf der Typengenehmigung), hat die Fahrzeughalterin oder der Fahrzeughalter die Beurteilungsgrundlagen beizubringen, die es ohne weiteren Mess- und Prüfaufwand ermöglichen, das Fahrzeug einer eindeutigen Effizienzkategorie zuzuordnen.
+2 Wird nach der Inverkehrsetzung der Nachweis erbracht, dass das Fahrzeug einer besseren Effizienzkategorie zuzuordnen ist, wird die Steuer ab dem Zeitpunkt der Inverkehrsetzung, längstens aber ab Beginn der laufenden Steuerperiode neu berechnet. Zu viel bezahlte Beträge werden gutgeschrieben.

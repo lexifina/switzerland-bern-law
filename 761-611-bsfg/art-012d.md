@@ -1,0 +1,2 @@
+# Art. 12d Widerruf von Vergünstigungen, Nachforderung von gewährten Ermässigungen
+1 Der Regierungsrat kann vorsehen, dass zu Unrecht gewährte Vergünstigungen widerrufen und gewährte Ermässigungen von den Begünstigten nachgefordert werden können. Dies gilt namentlich für Fälle, bei denen durch Veränderungen am Fahrzeug das typenspezifische Verbrauchs- und Emissionsverhalten erheblich negativ beeinflusst wurde.
