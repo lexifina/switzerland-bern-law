@@ -1,0 +1,4 @@
+# Art. 29a Wegweisung und Fernhaltung von der gemeinsamen Wohnung in Fällen häuslicher Gewalt
+1 In Fällen häuslicher Gewalt können sich die Wegweisung und die Fernhaltung nach Artikel 29 Absatz 1 Buchstabe f für eine Dauer von 14 Tagen auf die gemeinsame Wohnung und deren unmittelbare Umgebung beziehen.
+2 Die fern zu haltende Person und das Opfer werden auf Beratungsangebote hingewiesen, das Opfer zusätzlich auf die Möglichkeit der Anrufung eines Zivilgerichts.
+3 Hat das Opfer innert 14 Tagen nach Erlass der Wegweisungs- und Fernhaltungsverfügung von der Wohnung ein Zivilgericht um Anordnung von Schutzmassnahmen ersucht, verlängert sich die Fernhaltung automatisch bis zum Entscheid, längstens aber um 14 Tage. Das Zivilgericht setzt die weggewiesene oder fern gehaltene Person sowie die anordnende Polizeibehörde unverzüglich über den Eingang des Gesuchs und den anschliessenden Entscheid in Kenntnis.

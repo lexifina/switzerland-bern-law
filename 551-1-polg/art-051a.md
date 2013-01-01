@@ -1,0 +1,2 @@
+# Art. 51a Einsatz von Bildübermittlungs- und Bildaufzeichnungsgeräten 1 an öffentlichen Orten
+1 Zur Verhinderung und Ahndung von Straftaten können die Gemeinden mit Zustimmung der Kantonspolizei an einzelnen öffentlichen und allgemein zugänglichen Orten, an denen Straftaten begangen worden sind oder an denen mit Straftaten zu rechnen ist, Bildübermittlungs- und Bildaufzeichnungsgeräte für die Videoüberwachung einsetzen.
