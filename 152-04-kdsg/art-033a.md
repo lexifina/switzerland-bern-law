@@ -1,0 +1,6 @@
+# Art. 33a Unabhängigkeit
+1 Die Aufsichtsstelle erfüllt die Aufgaben nach diesem Gesetz selbständig und unabhängig. Sie ist nur der Verfassung und dem Gesetz verpflichtet.
+2 Für die Haushaltführung, die Ausgaben und Ausgabenbewilligungen sowie die Steuerung von Finanzen und Leistungen der kantonalen Aufsichtsstelle gilt die Gesetzgebung über die Steuerung von Finanzen und Leistungen, soweit dieses Gesetz keine besonderen Vorschriften enthält.
+3 Die kantonale Aufsichtsstelle legt jährlich ihre Leistungsziele fest und leitet daraus ihren Bedarf an Ressourcen ab. Sie erstellt den Aufgaben- und Finanzplan und den Voranschlag für ihren Bereich und legt die Produkte und Produktgruppen fest. Der Regierungsrat übernimmt diese unverändert in den Aufgaben- und Finanzplan und Voranschlag des Kantons. Er kann sie zuhanden des Grossen Rates kommentieren.
+4 Die kantonale Aufsichtsstelle entscheidet im Rahmen der mit dem Voranschlag bewilligten Mittel über die Anstellung von Personal. Sie bewilligt die laufenden Betriebsausgaben im Rahmen des Voranschlags abschliessend. Für Investitionen gelten die ordentlichen Ausgabenbefugnisse.
+5 Die Aufsichtsstellen der Gemeinden und der anderen gemeinderechtlichen Körperschaften müssen über hinreichende eigene Ausgabenbefugnisse verfügen, die nicht durch Anordnungen anderer Behörden eingeschränkt werden dürfen.
