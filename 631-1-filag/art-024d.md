@@ -1,0 +1,3 @@
+# Art. 24d 5 Interkantonaler Schulbesuch 5.1 Ausserkantonale Schülerinnen und Schüler
+1 Für Kinder mit zivilrechtlichem Wohnsitz ausserhalb des Kantons trägt der Kanton den Gehaltskostenbeitrag nach Artikel 24b Absatz 2.
+2 Er leistet zudem der Schulortsgemeinde einen Anteil von 30 Prozent des eingenommenen Schulgeldbeitrags als Beitrag für den Schulbetrieb und die Schulinfrastruktur. Wird kein Schulgeldbeitrag eingenommen, entspricht der Beitrag 30 Prozent des jeweiligen Ansatzes gemäss dem Regionalen Schulabkommen vom 23. November 2007 über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA).
