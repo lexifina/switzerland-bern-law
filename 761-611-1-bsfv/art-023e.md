@@ -1,0 +1,3 @@
+# Art. 23e Aufhebung und Rückforderung von Vergünstigungen
+1 Erhält die Bezugsbehörde Kenntnis davon, dass eine Vergünstigung zu Unrecht gewährt wurde, indem durch Veränderungen am Fahrzeug das typenspezifische Verbrauchs- oder Emissionsverhalten erheblich negativ beeinflusst wurde, wird die Vergünstigung widerrufen und gewährte Ermässigungen werden von den Begünstigten nachgefordert.
+2 Die Nachforderung umfasst die Summe aller gewährten Vergünstigungen, unbesehen des Zeitpunkts der Vornahme der technischen Änderung, sofern die Fahrzeughalterin oder der Fahrzeughalter nicht verlässlich nachweisen kann, zu welchem genauen Zeitpunkt die Abänderungen nachträglich vorgenommen worden sind.

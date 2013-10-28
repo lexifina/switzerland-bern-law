@@ -1,0 +1,3 @@
+# Art. 4a Besondere Bezugsmassnahmen
+1 Die Bezugsbehörde kann die Erbringung von Dienstleistungen im Zusammenhang mit der Zulassung von Fahrzeugen zum Strassenverkehr verweigern, soweit offene Forderungen für Verkehrssteuern oder -gebühren gegenüber derselben Fahrzeughalterin oder demselben Fahrzeughalter bestehen. Sie kann die Erbringung der Dienstleistungen von der vorgängigen Bezahlung fälliger Forderungen abhängig machen.
+2 Das Finanzinformationssystem (FIS) liefert die für die Abklärung der Bonität zwingend erforderliche Statusinformation an die Strassenverkehrs- und Schifffahrtsanwendung (SUSA) und aktualisiert diese regelmässig.
