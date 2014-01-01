@@ -1,0 +1,3 @@
+# Art. 37a Delegation von Ausgabenbefugnissen für zeitlich dringende Massnahmen
+1 Für die Finanzierung von Massnahmen zum Schutz des Waldes oder zur Abwehr von Naturgefahren, die der Bekämpfung unmittelbar drohender Gefahren, der Verhinderung bedeutend grösserer Schäden oder bei eingetretenen Ereignissen der ersten Schadensbehebung dienen, werden die Ausgabenbefugnisse des Volkes und des Grossen Rates an den Regierungsrat übertragen, sofern diese Massnahmen keinen Aufschub bis zur Beschlussfassung durch das ordentlicherweise abschliessend zuständige Organ dulden.
+2 Die Finanzkommission des Grossen Rates ist umgehend über den Ausgabenbeschluss zu orientieren.
