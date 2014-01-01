@@ -1,0 +1,2 @@
+# Art. 4a Gesetzestechnischer Nachvollzug von Bestandes- und Gebietsveränderungen
+1 Der Regierungsrat wird ermächtigt, die formalen und redaktionellen Anpassungen in Gesetzen, Dekreten und Grossratsbeschlüssen zu beschliessen, die als Folge der Bildung, der Aufhebung, der Veränderung des Gebiets oder des Zusammenschlusses von Gemeinden nötig sind. Für weitergehende Anpassungen bleibt die Zuständigkeit des Grossen Rates vorbehalten.
