@@ -1,0 +1,3 @@
+# Art. 13a Gemeinden
+1 Die Zugriffsrechte der Aufgabenträger auf Stufe Gemeinde erstrecken sich in der Regel auf die Daten des Gemeindegebietes. Sofern es für die Erfüllung der Aufgabe notwendig ist, kann der Zugriff ausgedehnt werden.
+2 Den Gemeinden des Kantons Bern werden die Grundbuchmeldungen in GRUDIS zur Verfügung gestellt. Sofern eine Gemeinde nicht Benutzerin von GRUDIS gemäss Anhang 2 ist, wird ihr unentgeltlich ein eingeschränktes Zugriffsrecht (Benutzerprofil 18) eingeräumt, welches ihr die Abfrage der Grundbuchmeldung ermöglicht. Das Zugriffsrecht ist auf das jeweilige Gemeindegebiet zu beschränken.

@@ -1,0 +1,4 @@
+# Art. 11b Forschung und Entwicklung
+1 Universitäten, Fachhochschulen und vergleichbaren Bildungseinrichtungen kann auf begründetes Gesuch hin zu wissenschaftlichen Forschungszwecken ein Zugriffsrecht auf GRUDIS erteilt werden. Das Gesuch muss grundlegende Angaben zum wissenschaftlichen Forschungsprojekt, dessen geografischer Ausdehnung sowie dessen zeitliche Dauer enthalten. Im Gesuch ist zu begründen, auf welche Daten gemäss Anhang 1 dieser Verordnung ein Zugriff notwendig ist. Artikel 15 des kantonalen Datenschutzgesetzes vom 19. Februar 1986 (KDSG) bleibt vorbehalten.
+2 Für die Weiterentwicklung, den Betrieb und den Support von GRUDIS kann auf Gesuch kantonalen Behörden oder Dritten ein Zugriffsrecht auf GRUDIS erteilt werden.
+3 Die Gesuche sind bei der in Artikel 15 bezeichneten Stelle einzureichen.

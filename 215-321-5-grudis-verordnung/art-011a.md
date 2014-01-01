@@ -1,0 +1,3 @@
+# Art. 11a Banken und ihnen gleichgestellte Institutionen
+1 Banken, die dem schweizerischen Datenschutzrecht unterstehen und über eine Bewilligung gemäss Artikel 3 Absatz 1 des Bundesgesetzes vom 8. November 1934 über die Banken und Sparkassen (Bankengesetz, BankG) verfügen, können zur Bearbeitung von Kreditgesuchen und -verträgen betreffend grundpfandgesicherte Darlehen online auf GRUDIS zugreifen. Das Zugriffsrecht erstreckt sich sinngemäss auf diejenigen Daten, die sich aus einem Grundbuchauszug im Sinne von Artikel 31 und 32 GBV ergeben.
+2 Die Pensionskassen und die Versicherungen werden den Banken gleichgestellt.
