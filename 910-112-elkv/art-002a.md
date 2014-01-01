@@ -1,0 +1,5 @@
+# Art. 2a Förderung der nachhaltigen Ressourcennutzung
+1 Die Fachstelle Bodenschutz oder im Bereich des Pflanzenschutzes die Fachstelle Pflanzenschutz (Art. 21 Abs. 1) kann Projekte zur Verbesserung der Nachhaltigkeit in der Nutzung natürlicher Ressourcen durch finanzielle Beiträge fördern.
+2 Sie kann sich vertraglich verpflichten, Bewirtschafterinnen und Bewirtschaftern während einer bestimmten Vertragsdauer Förderbeiträge zu entrichten sowie die Kosten für die Vornahme der erforderlichen Kontrollen durch Dritte abzugelten.
+3 Die Förderbeiträge betragen je Massnahme und Jahr höchstens 600 Franken pro Hektare. Der Ansatz wird um die Beiträge gekürzt, die der Bund gegebenenfalls für die gleichen Massnahmen auf derselben Fläche gleichzeitig ausrichtet.
+4 Der Abschluss von Verträgen, mit denen sich die Fachstelle Bodenschutz zur Entrichtung von Förderbeiträgen verpflichtet, erfolgt nach den Vorsorgeprioritäten, die sich aus der Überwachung und Beurteilung des Bodens durch die Fachstelle Bodenschutz ergeben.
