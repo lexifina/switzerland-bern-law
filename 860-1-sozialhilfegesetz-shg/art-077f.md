@@ -1,0 +1,5 @@
+# Art. 77f Abgeltung
+1 Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits- und Fürsorgedirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
+2 Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
+3 Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann dem Leistungserbringer während des Rechnungsjahres auf der Grundlage der festgelegten Aus- und Weiterbildungsleistung periodische Vorschüsse ausrichten.
+4 Der Regierungsrat regelt die Einzelheiten zur Entrichtung der Abgeltung durch Verordnung.

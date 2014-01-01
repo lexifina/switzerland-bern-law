@@ -1,0 +1,3 @@
+# Art. 77d Ausbildungskonzept
+1 Jeder Leistungserbringer erstellt ein Ausbildungskonzept.
+2 Das Ausbildungskonzept beschreibt die betrieblichen Voraussetzungen sowie die Ziele und Schwerpunkte der praktischen Aus- und Weiterbildung in den vom Regierungsrat bezeichneten nichtuniversitären Gesundheitsberufen.
