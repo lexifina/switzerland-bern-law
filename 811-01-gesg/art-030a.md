@@ -1,0 +1,4 @@
+# Art. 30a Notfalldienstpflicht 1 Grundsatz
+1 Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Hebammen und Entbindungspfleger mit Berufsausübungsbewilligung sind verpflichtet, sich an einem Notfalldienst zu beteiligen. Sie sind für die Organisation des ambulanten Notfalldienstes selbst besorgt oder können dessen Organisation den Berufsverbänden übertragen.
+2 In Ortschaften mit mindestens zwei öffentlichen Apotheken sind deren Inhaberinnen und Inhaber verpflichtet, die Notfallversorgung mit Heilmitteln zu gewährleisten.
+3 Die zuständige Stelle der Gesundheits- und Fürsorgedirektion ist über die Organisation des ambulanten Notfalldienstes zu orientieren. Sie regelt die Organisation des ambulanten Notfalldienstes, wenn diese nicht anderweitig sichergestellt ist, und entscheidet bei Streitigkeiten aus der Notfalldienstpflicht.
