@@ -1,0 +1,4 @@
+# Art. 13a 5. Bereich MIP
+1 Die Ausgabenbefugnisse der Vorsteherin oder des Vorstehers des Amts für Migration und Personenstand (MIP) werden für Ausgaben bis zu 10'000 Franken an die Vorsteherinnen und Vorsteher der Abteilungen sowie an die Leiterinnen und Leiter der Ressourcenbereiche entsprechend der ihnen übertragenen Aufgabenbereiche delegiert.
+2 Vorbehalten bleibt in Fällen nach Absatz 1 die vorgängige Zustimmung zu Ausgaben durch die Amtsvorsteherin oder den Amtsvorsteher aufgrund besonderer finanzpolitischer Vorgaben des Grossen Rates oder des Regierungsrates. Sämtliche mit wiederkehrenden Kosten verbundenen Grundsatzentscheide und Aktionen bedürfen der Zustimmung der Amtsvorsteherin oder des Amtsvorstehers.
+3 Im Verhinderungsfalle erstrecken sich die Ausgabenbefugnisse nach den Absätzen 1 und 2 auf die jeweiligen Stellvertreterinnen und Stellvertreter.
