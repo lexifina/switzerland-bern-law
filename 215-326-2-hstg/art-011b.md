@@ -1,0 +1,3 @@
+# Art. 11b 2. Voraussetzungen
+1 Die gestundete Steuer gemäss Artikel 11a Absatz 1 wird nicht erhoben, wenn das Grundstück der Erwerberin oder dem Erwerber als Hauptwohnsitz dient. Ein Hauptwohnsitz ist von der Erwerberin oder vom Erwerber während mindestens zweier Jahre ununterbrochen, persönlich und ausschliesslich zum Wohnzweck zu nutzen.
+2 Der Hauptwohnsitz muss innert einem Jahr ab Grundstückserwerb in der entsprechenden Baute begründet werden, wenn diese bereits besteht. Muss die Baute noch erstellt werden, hat der Bezug innert zwei Jahren ab Grundstückserwerb zu erfolgen. In begründeten Ausnahmefällen können diese Fristen durch das Grundbuchamt erstreckt werden.
