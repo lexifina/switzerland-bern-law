@@ -1,0 +1,3 @@
+# Art. 10d 4. Lastenausgleich
+1 Der Ersatz von Leistungen der Vorsorgeeinrichtungen, die Aufwendungen für Abfindungen und der Aufwand für flankierende Massnahmen unterliegen dem Lastenausgleich, soweit die Aufwendungen des Kantons durch Lehrkräfte der Volksschule verursacht werden.
+2 Ist die verspätete Meldung der Anstellungsbehörde wesentliche Ursache dafür, dass die Vermittlung einer zumutbaren Stelle für die betroffene Lehrkraft nicht möglich war, kann die zuständige Direktion den Träger der Schule verpflichten, die Kosten einer allfälligen Sonderrente oder Abgangsentschädigung dem Kanton ganz oder teilweise zu erstatten.
