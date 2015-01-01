@@ -1,0 +1,6 @@
+# Art. 8h Obligatorische Krankenpflegeversicherung
+1 Personen, die Leistungen der Sozialhilfe beziehen, werden zusätzlich zur ordentlichen Prämienverbilligung gemäss Artikel 11 der Kantonalen Krankenversicherungsverordnung vom 25. Oktober 2000 (KKVV) folgende Leistungen gewährt:
+a bis zum Ende des Kalenderjahres, auf das hin die obligatorische Krankenpflegeversicherung frühestmöglich gewechselt werden kann, ein Betrag, der zusammen mit der ordentlichen Prämienverbilligung der ganzen Prämie der jeweiligen obligatorischen Krankenpflegeversicherung entspricht,
+b nach Ablauf dieses Termins ein Betrag, der zusammen mit der ordentlichen Prämienverbilligung der ganzen Prämie für die obligatorische Krankenpflegeversicherung innerhalb der zehn günstigsten Krankenkassen bei tiefster Franchise nach Alterskategorie und Prämienregion entspricht.
+2 Bei der Berechnung der wirtschaftlichen Hilfe sind Prämienanteile der obligatorischen Krankenpflegeversicherung, welche die ordentliche Prämienverbilligung und den Betrag gemäss Absatz 1 übersteigen, nicht als anrechenbarer Aufwand mit einzubeziehen.
+3 Der Sozialdienst richtet die Prämienanteile, welche die ordentliche Prämienverbilligung übersteigen, direkt dem Krankenversicherer aus.
