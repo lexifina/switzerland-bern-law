@@ -1,0 +1,4 @@
+# Art. 54a 6 Motorfahrzeugarme und motorfahrzeugfreie Wohnüberbauungen 6.1 Mobilitätskonzept
+1 Von der unteren Grenze der Bandbreite nach Artikel 51 kann abgewichen werden bei Wohnüberbauungen mit mindestens zehn Wohnungen, die auf Bewohnerinnen und Bewohner ausgerichtet sind, die sehr wenige oder keine Motorfahrzeuge besitzen.
+2 Der reduzierte Bedarf an Abstellplätzen ist von der Bauherrschaft durch ein Konzept nachzuweisen, das die bestehenden und geplanten Mobilitätsangebote sowie die dauerhafte Sicherung und die Kontrolle der reduzierten Parkplatzbenutzung aufzeigt (Mobilitätskonzept).
+3 Die Mindestzahl der Abstellplätze bestimmt sich nach dem Mobilitätskonzept und der Qualität der Erschliessung mit dem öffentlichen Verkehr. Auf jeden Fall ist für Besucherinnen und Besucher, Menschen mit Behinderung, Notfalldienste, Güterumschlag und dergleichen eine angemessene Zahl von Parkplätzen bereitzustellen.

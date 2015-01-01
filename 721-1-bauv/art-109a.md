@@ -1,0 +1,3 @@
+# Art. 109a 2 Voranfrage
+1 Die Gemeinden können zu Beginn von Planungsarbeiten das Amt für Gemeinden und Raumordnung darum ersuchen, ihnen die für die beabsichtigte Planung wesentlichen Vorgaben und Randbedingungen des übergeordneten Rechts und der übergeordneten Planungen bekannt zu geben. Sie stellen zu diesem Zweck dem Amt einen Beschrieb über die Planung zu, welcher insbesondere die Ziele der Planung und den vorgesehenen Perimeter enthält.
+2 Das Amt für Gemeinden und Raumordnung holt die Stellungnahmen der übrigen beteiligten Fachstellen des Kantons ein. Diese teilen ihre Vorgaben innert Monatsfrist dem Amt für Gemeinden und Raumordnung mit, welches sie koordiniert an die planende Behörde weiterleitet.

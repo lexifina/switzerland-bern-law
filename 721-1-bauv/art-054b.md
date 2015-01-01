@@ -1,0 +1,4 @@
+# Art. 54b 6.2 Durchsetzung des Mobilitätskonzepts
+1 Weichen Grundeigentümerinnen, Grundeigentümer bzw. deren Mieterinnen oder Mieter länger als drei Monate von den Vorgaben des Mobilitätskonzepts ab, setzt die Gemeindebaupolizeibehörde den verantwortlichen Grundeigentümerinnen und Grundeigentümern eine angemessene Frist zur Wiederherstellung des rechtmässigen Zustands.
+2 Wird der rechtmässige Zustand nicht innert der gesetzten Frist wiederhergestellt, kann die Gemeinde bei den verantwortlichen Grundeigentümerinnen und Grundeigentümern pro beanspruchten Parkplatz eine Ersatzabgabe nach Artikel 18 Buchstabe c BauG erheben.
+3 Wird nach Leistung der Ersatzabgabe durch Verzicht auf das Motorfahrzeug oder durch Mieter- oder Eigentümerwechsel das Mobilitätskonzept wieder eingehalten, besteht kein Anspruch auf Rückerstattung der Abgabe.
