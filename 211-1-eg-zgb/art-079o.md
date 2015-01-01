@@ -1,0 +1,2 @@
+# Art. 79o 1.12 Betreten des nachbarlichen Grundes
+1 Der Nachbar hat das Betreten oder die vorübergehende Benützung seines Grundstückes zu gestatten, wenn dies erforderlich ist für die Errichtung oder den Unterhalt von Bauten, Strassen, Pflanzungen längs der Grenze oder von sonstigen Anlagen wie Leitungen. Er ist rechtzeitig zu benachrichtigen und hat Anspruch auf möglichste Schonung und vollen Schadenersatz.
