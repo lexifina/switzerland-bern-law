@@ -1,0 +1,4 @@
+# Art. 1a Bewilligungserfordernis 1 Baubewilligungspflichtige Bauvorhaben
+1 Baubewilligungspflichtig sind alle künstlich geschaffenen und auf Dauer angelegten Bauten, Anlagen und Einrichtungen (Bauvorhaben), die in fester Beziehung zum Erdboden stehen und geeignet sind, die Nutzungsordnung zu beeinflussen, indem sie zum Beispiel den Raum äusserlich erheblich verändern, die Erschliessung belasten oder die Umwelt beeinträchtigen.
+2 Baubewilligungspflichtig sind auch die Zweckänderung und der Abbruch von Bauten, Anlagen und Einrichtungen sowie wesentliche Terrainveränderungen.
+3 Baubewilligungspflichtige Bauvorhaben dürfen erst begonnen werden, wenn die Baubewilligung und die erforderlichen weiteren Bewilligungen oder die Gesamtbewilligung rechtskräftig erteilt sind. Vorbehalten bleiben die Bestimmungen über die vorsorglichen Massnahmen, insbesondere der vorzeitige Baubeginn.

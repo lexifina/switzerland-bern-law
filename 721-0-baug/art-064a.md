@@ -1,0 +1,3 @@
+# Art. 64a 2 Besonderer Landschaftsschutz, Schutz der Baudenkmäler
+1 Die Gemeinden können auf der Grundlage der Inventare gemäss Artikel 10d in ihren Plänen und Vorschriften die Baudenkmäler, die archäologischen Objekte und die übrigen Objekte des besonderen Landschaftsschutzes bezeichnen.
+2 Soweit Baudenkmäler und Objekte des besonderen Landschaftsschutzes (ohne archäologische Objekte) in den Plänen und Vorschriften der Gemeinden bestimmt sind, können im Baubewilligungsverfahren keine weiteren Objekte bezeichnet werden. Für die Änderung des Bestandes der Objekte gelten die Vorschriften über die Planänderung.
