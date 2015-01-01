@@ -1,0 +1,4 @@
+# Art. 129a Arbeitszeitsaldi bei Übertritt oder Beendigung des Arbeitsverhältnisses
+1 Ein positiver oder negativer Arbeitszeitsaldo ist bis zum Übertritt in eine andere Organisationseinheit oder bis zum Austritt aus dem Kantonsdienst möglichst auszugleichen.
+2 Ein positiver Saldo wird finanziell auf der Basis des aktuellen monatlichen Bruttogehalts einschliesslich des Anteils des 13. Monatsgehalts und ohne allfällige Zulagen abgegolten, wenn ein Abbau der Plusstunden aus dienstlichen Gründen, wegen Krankheit, Unfall oder Tod bis zum Übertritt oder bis zur Beendigung des Arbeitsverhältnisses nicht möglich war.
+3 Besteht beim Übertritt bzw. bei der Beendigung des Arbeitsverhältnisses ein negativer Saldo, wird das letzte Gehalt gekürzt. Das zu viel ausgerichtete Gehalt wird auf der Basis des monatlichen Bruttogehalts, zuzüglich Anteil 13. Monatsgehalt und allfällige Zulagen, zurückgefordert.

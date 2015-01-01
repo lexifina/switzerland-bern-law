@@ -1,0 +1,3 @@
+# Art. 84g Zulagen für Nacht- und Wochenenddienst 1 Zulage
+1 Für die Nacht- und Wochenendarbeit gemäss Artikel 130 der nicht höher als Gehaltsklasse 23 eingereihten Mitarbeiterinnen und Mitarbeiter wird eine Zulage ausgerichtet. Der Regierungsrat kann die Zulage nach Berufsgruppen und Art des Einsatzes differenzieren und pauschalieren.
+2 Für das ausschliesslich im Sicherheitsdienst tätige Personal des Freiheitsentzugs ohne Betreuungsaufgaben sowie Mitarbeiterinnen und Mitarbeiter der Wildhut entfällt die Nachtzulage. Die Nachtzulage ist gehaltsmässig mit einer angemessenen Höhereinreihung berücksichtigt. Die Wochenendarbeit ist jedoch zulagenberechtigt.
