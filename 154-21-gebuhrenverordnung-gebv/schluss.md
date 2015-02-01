@@ -1,0 +1,6 @@
+Bern, 22. Februar 1995
+Im Namen des Regierungsrates
+Der Präsident: Annoni
+Der Staatsschreiber: Nuspliger
+Anhänge
+Anhang 01 : Gebührentarif der Staatskanzlei Anhang 02A: Gebührentarif des Direktionssekretariates der Volkswirtschaftsdirektion und ihrer angegliederten Organisationseinheiten Anhang 02B : Gebührentarif des Amtes für Landwirtschaft und Natur (LANAT) Anhang 02C : Gebührentarif des Amtes für Wald (KAWA) Anhang 02D : Ausser Kraft Anhang 02E : Gebührentarif des Amtes für Berner Wirtschaft (beco) Anhang 02F : Gebührentarif für Einsätze kantonaler Sonderstützpunkte sowie für Öl- und ABC-Wehr-Einsätze Anhang 03 : Gebührentarif der Gesundheits- und Fürsorgedirektion Anhang 04A : Gebührentarif der Justiz-, Gemeinde- und Kirchendirektion (mit Ausnahme der Grundbuchämter) Anhang 04B : Gebührentarif der Grundbuchämter Anhang 05A : Gebührentarif der Polizei- und Militärdirektion (ohne SVSA und Kapo) Anhang 05B : Gebührentarif des Strassenverkehrs- und Schifffahrtsamtes (SVSA) Anhang 05C : Gebührentarif Kantonspolizei (Kapo) Anhang 06 : Gebührentarif der Finanzdirektion Anhang 07 : Gebührentarif der Erziehungsdirektion Anhang 08 : Gebührentarif der Bau-, Verkehrs- und Energiedirektion Anhang 09 : Gebührentarif für die Regierungsstatthalterämter Anhang 10 : Gebührentarif der Kindes- und Erwachsenenschutzbehörden

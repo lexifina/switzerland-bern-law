@@ -1,0 +1,2 @@
+# Art. 9a Gebührenreduktion bei gleichartigen Dienstleistungen
+1 Wird für Leistungsempfängerinnen und Leistungsempfänger in einem Arbeitsgang eine Vielzahl gleichartiger Dienstleistungen erbracht oder wird für eine Vielzahl von Leistungsempfängerinnen und Leistungsempfängern eine Dienstleistung in einem Arbeitsgang erbracht, so kann die für die einzelne Dienstleistung ordentlicherweise geschuldete Gebühr maximal um einen Viertel reduziert werden.
