@@ -1,0 +1,2 @@
+# Art. 33t Qualifikationsverfahren und Berufsmaturitätsprüfung
+1 Das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses Informatiker/-in mit Schwerpunkt Applikationsentwicklung sowie die Berufsmaturitätsprüfungen richten sich nach den massgebenden Bestimmungen des Bundes und des Kantons.
