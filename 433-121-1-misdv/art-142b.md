@@ -1,0 +1,2 @@
+# Art. 142b Entschädigung an Schweizerschulen im Ausland
+1 Die Expertentätigkeit an Schweizerschulen im Ausland wird pauschal mit 3000 Franken entschädigt. Diese Entschädigung umfasst Korrektur und Teilnahme an schriftlichen und mündlichen Prüfungen sowie das Verfassen eines Berichts zuhanden der Kantonalen Maturitätskommission. Zusätzlich werden die effektiven Spesen vergütet.
