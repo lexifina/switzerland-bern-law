@@ -1,0 +1,2 @@
+# Art. 9l
+1 Dauert ein befristetes Anstellungsverhältnis mehr als einen Monat, aber weniger als ein Semester, wird ein Ferienanteil an das Gehalt angerechnet.
