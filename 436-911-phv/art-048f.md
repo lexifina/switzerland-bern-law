@@ -1,0 +1,4 @@
+# Art. 48f Weitere finanzielle Mittel
+1 Die Pädagogische Hochschule finanziert sich über den jährlichen Kantonsbeitrag hinaus durch weitere Finanzierungsquellen, insbesondere durch Beiträge für Studierende aus interkantonalen Vereinbarungen sowie durch Drittmittel.
+2 Sämtliche Mittel sind Vermögen der Pädagogischen Hochschule.
+3 Die Pädagogische Hochschule regelt die Bewirtschaftung ihrer Mittel.

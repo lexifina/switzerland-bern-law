@@ -1,0 +1,2 @@
+# Art. 10b Arbeitszeiterfassung, Ferien- und Zeitguthaben, Langzeitkonto
+1 Die Mitglieder der Schulleitung sowie die Dozentinnen und Dozenten sind von der Arbeitszeiterfassung sowie den Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben gemäss Personalgesetzgebung ausgenommen und führen kein Langzeitkonto.
