@@ -6,6 +6,7 @@
 ## 2 Ombudsstelle
 ## 3 Spitalversorgung
 ### 3.1 Finanzkontrolle
+### 3.1a Kriterien für die Erteilung von Leistungsaufträgen an Spitäler
 ### 3.2 Eigentümerstrategie
 ### 3.3 Administrative Zuordnung des Inselspitals
 ### 3.4 Verhältnis der Universitätsspitäler zur Universität
@@ -15,6 +16,7 @@
 ## 5 Aus- und Weiterbildung
 ### 5.1 Ärztliche und pharmazeutische Weiterbildung
 ### 5.2 Aus- und Weiterbildung in nicht universitären Gesundheitsberufen
+## 5a Beirat für medizinische Innovationen
 ## 6 Aufsicht und Betriebsbewilligung
 ### 6.1 Allgemeine Bewilligungsvoraussetzung
 ### 6.2 Bewilligungsvoraussetzungen für Spitäler und Geburtshäuser
