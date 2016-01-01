@@ -2,6 +2,5 @@
 (KVAV)
 vom 05.03.1997
 Der Regierungsrat des Kantons Bern,
-gestützt auf Artikel 32 Absatz 4, Artikel 44 Absatz 3 und Artikel 46 des Gesetzes vom 15. Januar 1996 über die amtliche Vermessung (AVG),
-auf Antrag der Bau-, Verkehrs- und Energiedirektion,
+gestützt auf Artikel 12, Artikel 13 Absatz 2, Artikel 17 Absatz 2, Artikel 23 Absatz 2 und Artikel 42 Absatz 1 der Verordnung des Bundesrats vom 18. November 1992 über die amtliche Vermessung (VAV) sowie Artikel 67 des Kantonalen Geoinformationsgesetzes vom 8. Juni 2015 (KGeoIG),
 beschliesst:
