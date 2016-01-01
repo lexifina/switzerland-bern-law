@@ -6,7 +6,7 @@
 ### 3.2 Einrichtungen des Straf- und Massnahmenvollzugs
 ### 3.3 Gefängnisse
 ### 3.4 Bewachungsstation am Inselspital
-### 3.5 Fachkommissionen
+### 3.5 …
 ## 4 Straf- und Massnahmenvollzugsregister
 ## 5 Vollzugsplanung
 ## 6 Durchführung des Vollzugs
