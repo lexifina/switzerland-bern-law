@@ -1,5 +1,5 @@
 ## 1 Organisation
-## 2 Nachschau, Gebühren und Entschädigungen
+## 2 Nachträgliche Kontrolle
 ## 3 Strafverfolgung
 ## 4 Rechtspflege
 ## 5 Schlussbestimmungen
