@@ -1,6 +1,6 @@
-Bern, 27. April 2005
+Bern, 11. November 2015
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Der Präsident: Käser
+Der Staatsschreiber: Auer
 Anhänge
-Anhang 1 : zu Artikel 8 und 9
+Anhang 1: zu Artikel 2 Absatz 1 Anhang 2: zu Artikel 2 Absatz 2 Anhang 3: zu Artikel 2 Absatz 3
