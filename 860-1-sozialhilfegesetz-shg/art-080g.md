@@ -9,4 +9,4 @@ b der Reihenauswertung der erhobenen Daten,
 c der Durchführung eines Benchmarkings,
 d der Berechnung der Bonus- und Malusleistungen der Sozialdienste.
 6 Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG) trägt die zuständige Stelle der Gesundheits- und Fürsorgedirektion.
-7 Einmal jährlich liefern die Gemeinden der zuständigen Stelle der Gesundheits- und Fürsorgedirektion die erforderlichen Angaben über die Zuschüsse.
+7 …
