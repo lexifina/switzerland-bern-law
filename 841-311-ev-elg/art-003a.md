@@ -1,0 +1,4 @@
+# Art. 3a 3. Heime und Spitäler der Spital- und Pflegeheimliste eines andern Kantons
+1 Die höchstmöglich anrechenbaren Heimkosten für Personen, die dauernd oder längere Zeit in einem Heim oder Spital der Spital- oder Pflegeheimliste eines andern Kantons leben (Art. 2 Bst. a), richten sich nach Artikel 3 Absatz 1.
+2 Die Erhebung des Pflegeaufwands und die Zuordnung zu einer Pflegestufe hat bei Personen, die dauernd oder längere Zeit in einem Heim oder Spital der Spital- oder Pflegeheimliste eines andern Kantons leben, nach Artikel 3 Absatz 2 und 4 zu erfolgen.
+3 Die für die Berechnung der Ergänzungsleistungen erforderlichen Angaben sind für Personen, die dauernd oder längere Zeit in einem Heim oder Spital der Spital- und Pflegeheimliste eines andern Kantons leben, auf einen Tarifausweis zu übertragen, der vom jeweiligen Kanton anerkannt ist. Diese Angaben sind durch die vom jeweiligen Kanton vorgesehenen Personen auf dem Tarifausweis zu bestätigen.
