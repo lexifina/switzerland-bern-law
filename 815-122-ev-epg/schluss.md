@@ -1,5 +1,4 @@
-Bern, 22. Mai 1979
+Bern, 9. Dezember 2015
 Im Namen des Regierungsrates
-Der Präsident: Meyer
-Der Staatsschreiber: Josi
-Vom Bundesrat genehmigt am 7. Juni 1979
+Der Präsident: Käser
+Der Staatsschreiber: Auer
