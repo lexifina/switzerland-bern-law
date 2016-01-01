@@ -1,0 +1,4 @@
+# Art. 38a Weitere allgemeine Abzüge
+1 Von den Einkünften werden ausserdem abgezogen
+a die freiwilligen Leistungen von Geld und anderen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder auf ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind, wenn die Zuwendungen im Steuerjahr 100 Franken erreichen, soweit sie insgesamt 20 Prozent der um die Aufwendungen (Art. 31 bis 38) verminderten Einkünfte nicht übersteigen; ebenso abzugsfähig sind freiwillige Leistungen an Bund, Kanton, Gemeinden und deren Anstalten (Art. 83 Abs. 1 Bst. a bis d);
+b die Krankheits- und Unfallkosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person die Kosten selber trägt und diese fünf Prozent der um die Aufwendungen (Art. 31 bis 38) verminderten Einkünfte übersteigen.

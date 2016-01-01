@@ -1,0 +1,3 @@
+# Art. 115a Vereinfachtes Abrechnungsverfahren
+1 Für kleine Arbeitsentgelte aus unselbstständiger Erwerbstätigkeit ist die Steuer ohne Berücksichtigung der übrigen Einkünfte, allfälliger Berufskosten und Sozialabzüge zu einem festen Satz von 4,5 Prozent an der Quelle zu erheben. Voraussetzung ist, dass der Arbeitgeber die Steuer im Rahmen des vereinfachten Abrechnungsverfahrens nach den Artikeln 2 und 3 des Bundesgesetzes vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit, BGSA) entrichtet.
+2 Damit sind die Einkommenssteuern von Kanton und Gemeinde abgegolten. Diese Einkünfte werden im ordentlichen Veranlagungsverfahren für die Satzbestimmung nicht berücksichtigt.
