@@ -5,7 +5,7 @@ a Sachanlagen
 b immaterielle Anlagen
 c Anlagen im Bau
 d Investitionsbeiträge
-e Vorräte
+e …
 f Finanzvermögen.
 3 Die Veränderungen sind wie folgt auszuweisen:
 a Zugänge,

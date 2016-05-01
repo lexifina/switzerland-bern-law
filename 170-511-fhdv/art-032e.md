@@ -2,7 +2,7 @@
 1 Der Eigenkapitalnachweis zeigt Anfangsbestand, Veränderung und Schlussbestand des Eigenkapitals im Rechnungsjahr.
 2 Er enthält mindestens
 a die Verpflichtungen oder Vorschüsse der Spezialfinanzierungen und das Jahr der erstmaligen Bilanzierung,
-b die verwalteten unselbständigen Stiftungen,
+b …
 c die Aufwertungsreserve nach Artikel 85a GV,
 d die Neubewertungsreserve Finanzvermögen,
 e die kumulierten Ergebnisse der Vorjahre (Bilanzüberschüsse und Bilanzfehlbeträge),
