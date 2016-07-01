@@ -1,7 +1,7 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Befugnisse der Polizei
 ## 3 Zulassung von Personen zum Strassenverkehr
-## 4 Medizinische und psychologische Untersuchungen
+## 4 Verkehrsmedizinische und verkehrspsychologische Untersuchungen
 ## 5 Fahrlehrerinnen und Fahrlehrer, Fahrschulen
 ## 6 Massnahmen zur Verbesserung der Verkehrssicherheit
 ## 7 Zulassung von Fahrzeugen zum Strassenverkehr

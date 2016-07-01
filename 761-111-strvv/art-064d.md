@@ -1,5 +1,5 @@
 # Art. 64d Parkierungserleichterungen für die medizinische Versorgung von Patientinnen und Patienten in deren Haushalt
 1 Die zuständige Gemeindebehörde am Praxisstandort oder Geschäftssitz kann auf Gesuch hin Personen oder Organisationen, welche beruflich die medizinische Versorgung von Patientinnen und Patienten in deren Haushalt sicherstellen, Parkierungserleichterungen gewähren.
-2 Die Bewilligungsbehörden orientieren sich hinsichtlich der Voraussetzungen und des Umfangs der Parkierungserleichterungen sowie des Ausstellens und des Entzugs der Parkkarten an den Richtlinien der Interkantonalen Kommission für den Strassenverkehr.
+2 …
 3 Der Geltungsbereich der gewährten Erleichterungen beschränkt sich in der Regel auf das Gemeindegebiet der Bewilligungsgemeinde. Ein darüber hinausgehender Geltungsumfang ist im Einzelfall durch die Bewilligungsnehmerin oder den Bewilligungsnehmer abzuklären.
 4 Es besteht kein Anspruch auf die Erteilung von Parkierungserleichterungen für die medizinische Versorgung von Patientinnen und Patienten in deren Haushalt.
