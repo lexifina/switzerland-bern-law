@@ -1,4 +1,4 @@
-# Art. 10a Stabsabteilung (SA)
+# Art. 10a Stabsabteilung (SAb)
 1 Die Stabsabteilung
 a unterstützt die Staatsschreiberin oder den Staatsschreiber bei der rechtlichen Beurteilung der Regierungsgeschäfte;
 b unterstützt die Staatsschreiberin oder den Staatsschreiber im Bereich der politischen Gesamtplanung;
