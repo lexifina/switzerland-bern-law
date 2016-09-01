@@ -46,5 +46,6 @@
 ### 6.6 Liegenschaften
 ## 7 Rekurskommission
 ## 8 Übergangs- und Schlussbestimmungen
-## A1 Anhang 1 zu Artikel 10: Anerkennung weiterer schweizerischer Vorbildungs- und Studienausweise für das Bachelorstudium
-## A2 zu Artikel 11 Zulassung ausländischer Studienanwärterinnen und Studienanwärter zum Eignungstest
+## T1 Übergangsbestimmungen der Änderung vom 22.06.2016
+## A1 …
+## A2 zu Artikel 11 Zulassung ausländischer Studienanwärterinnen und Studienanwärter zum Medizinstudium

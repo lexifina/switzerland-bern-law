@@ -1,0 +1,6 @@
+# Art. 51a Arbeitsverhältnisse in Forschung und Lehre
+1 Bei Arbeitsverhältnissen in Forschung und Lehre ist Artikel 16a Absatz 2 des Personalgesetzes vom 16. September 2004 (PG) nicht anwendbar.
+2 Befristet angestellte Personen, die länger als fünf Jahre ohne Unterbruch an der Universität angestellt sind, haben bei einer unverschuldeten Auflösung des Arbeitsverhältnisses Anspruch auf besondere Renten gemäss Artikel 33 PG. Davon ausgenommen sind Assistenzprofessorinnen und Assistenzprofessoren, Lehrbeauftragte, Assistentinnen und Assistenten sowie Doktorandinnen und Doktoranden. Die Artikel 33 bis 35 PG sind sinngemäss anwendbar.
+3 Die Dauer der Anstellung als Assistenzprofessorin oder Assistenzprofessor, Lehrbeauftragte oder Lehrbeauftragter, Assistentin oder Assistent sowie Doktorandin oder Doktorand wird nicht an die Anstellungsdauer gemäss Absatz 2 angerechnet.
+4 Einer unverschuldeten Auflösung des Arbeitsverhältnisses gemäss Absatz 2 ist die Beendigung des befristeten Arbeitsverhältnisses durch Zeitablauf gleichgestellt.
+6 Die Universität vergütet der zuständigen Vorsorgeeinrichtung die aus den besonderen Rentenansprüchen nach Absatz 2 anfallenden Mehrleistungen und Mindereinnahmen sowie den damit verbundenen administrativen Aufwand.

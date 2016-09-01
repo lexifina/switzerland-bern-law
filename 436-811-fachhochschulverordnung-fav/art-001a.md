@@ -4,7 +4,7 @@ a die Ausbildung,
 b die Organisation und Befugnisse sowie
 c die Finanzierung des Leistungsangebots.
 2 Die Anstellungsverhältnisse der höheren Berufsbildung sind der Personalgesetzgebung des Kantons unterstellt, soweit nicht die besonderen Bestimmungen der Fachhochschulgesetzgebung des Kantons Anwendung finden.
-3 Für die Anstellungsverhältnisse der Dozentinnen und Dozenten der höheren Berufsbildung gelten die Artikel 15, 16 bis 19, 22b, 24 bis 38 und 43 bis 46.
+3 Für die Anstellungsverhältnisse der Dozentinnen und Dozenten der höheren Berufsbildung gelten die Artikel 14b Absatz 1, 15, 17 bis 19, 22b, 24 bis 38 und 43 und 45.
 4 Anstellungsbehörde für die Dozentinnen und Dozenten der höheren Berufsbildung ist die Departementsleiterin oder der Departementsleiter.
 5 Für die Anstellungsverhältnisse der Assistentinnen und Assistenten der höheren Berufsbildung gelten die Artikel 13 Absatz 1 Buchstabe c, Artikel 39, 40 und 43 bis 46.
 6 Für die Anstellungsverhältnisse der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der höheren Berufsbildung gelten die Artikel 13 Absatz 1 Buchstabe c, Artikel 41 und 43 bis 46.
