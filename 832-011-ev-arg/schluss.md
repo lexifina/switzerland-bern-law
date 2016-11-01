@@ -1,4 +1,4 @@
-Bern, 19. Mai 1993
+Bern, 31. August 2016
 Im Namen des Regierungsrates
-Der Präsident: Widmer
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Simon
+Der Staatsschreiber: Auer
