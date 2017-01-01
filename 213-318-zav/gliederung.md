@@ -3,3 +3,4 @@
 ## 3 Abgeltung der Aufwendungen der Gemeinden durch den Kanton
 ## 4 Abgeltung der Aufwendungen der Gemeinden durch die Burgergemeinden
 ## 5 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderungen vom 19.10.2016
