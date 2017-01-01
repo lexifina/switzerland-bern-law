@@ -9,7 +9,8 @@ e das Controlling durchführt.
 3 Die Steuerungsgruppe setzt sich aus den Leiterinnen und Leitern folgender Behörden zusammen:
 a beco,
 b Mittelschul- und Berufsbildungsamt (MBA),
-c Zentralstelle Berufs-, Studien- und Laufbahnberatung des Amtes für Kindergarten, Volksschule und Beratung (AKVB),
+c Berufs-, Studien- und Laufbahnberatung (BIZ) des Mittelschul- und Berufsbildungsamtes (MBA),
 d IV-Stelle Bern (IVB),
 e Sozialamt (SOA),
-f Sozialamt der Stadt Bern.
+f Sozialamt der Stadt Bern,
+g Amt für Migration und Personenstand (MIP).
