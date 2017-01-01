@@ -10,4 +10,5 @@
 ### 5.2 Finanzhilfen für die Erhaltung und Restaurierung von Baudenkmälern
 ### 5.3 Übrige Finanzhilfen
 ## 6 Organisation
+## 6a Vertreterinnen und Vertreter des Kantons in Organisationen
 ## 7 Übergangs- und Schlussbestimmungen
