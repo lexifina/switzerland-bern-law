@@ -22,7 +22,7 @@
 ### 4.5 Ausgabenbefugnisse
 ### 4.6 Anreizsysteme
 ## 5 Interkantonale Zusammenarbeit
-## 6 Rechtspflege
+## 6 Rechtspflege und Datenschutz
 ## 7 Vollzug
 ## 8 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 20.03.2014
