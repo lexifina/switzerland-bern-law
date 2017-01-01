@@ -11,8 +11,9 @@
 ## 8 Datenzugriff und Rechtspflege
 ## 9 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 27.01.1999
-## T2 Übergangsbestimmungen der Änderung vom 12.09.2001
-## T3 Übergangsbestimmungen der Änderungen vom 03.09.2003
-## T4 Übergangsbestimmung der Änderung vom 18.10.2006
+## T2 …
+## T3 …
+## T4 …
 ## T5 Übergangsbestimmung der Änderung vom 12.03.2008
+## T6 Übergangsbestimmung der Änderung vom 14.12.2016
 ## A1 Anhang 1: zu Artikel 23

@@ -1,0 +1,5 @@
+# Art. 15c 3b. Organisation der RKS
+1 Für jeden Projektperimeter besteht eine RKS. Diese besteht aus mindestens sechs Personen und wird unter Berücksichtigung der unterschiedlichen Interessen ausgewogen zusammengesetzt. Eine angemessene bäuerliche Vertretung, der Beizug von Natur- und Landschaftsschutzfachpersonen sowie weiterer Betroffener sind zu gewährleisten.
+2 Die RKS bezeichnet in Absprache mit dem LANAT eine für die Geschäftsführung zuständige Stelle. Diese Geschäftsstelle kann durch den regionalen Landwirtschaftsverein, die Regionalkonferenz, die Planungsregion oder durch den regionalen Naturpark geführt werden.
+3 Das LANAT hat einen ständigen Sitz in der RKS. Dieser kann an eine geeignete Fachperson delegiert werden.
+4 Das LANAT kann eine Begleitgruppe der RKS einberufen; auf Antrag von mindestens einem Drittel der RKS ist die Einberufung zwingend. Die Begleitgruppe besteht aus zwei Vertreterinnen und Vertretern pro RKS. Sie berät das LANAT beim Vollzug der Vernetzungsprojekte nach der DZV.
