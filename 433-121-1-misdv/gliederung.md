@@ -4,6 +4,7 @@
 #### 2.1.1 Aufnahmezeitpunkt
 #### 2.1.2 Aufnahmen auf Beginn des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil
 #### 2.1.3 Aufnahmen auf Beginn des gymnasialen Bildungsgangs und Übertritte aus den «sections préparant aux écoles de maturité (section p)» auf Beginn des 10. Schuljahrs im französischsprachigen Kantonsteil
+#### 2.1.3a Aufnahmen und Übertritte aus den «sections préparant aux écoles de maturité (section p)» auf Beginn des gymnasialen Bildungsgangs in Biel, der zu einer zweisprachigen Maturität führt
 #### 2.1.4 Aufnahmen auf Beginn des 10. und 11. Schuljahrs
 #### 2.1.5 Aufnahmen in gymnasiale Bildungsgänge mit besonderen Aufgaben
 ### 2.2 Promotionen
