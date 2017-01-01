@@ -10,6 +10,12 @@
 ## 4 Lastenausgleich (Art. 78 bis 83 SHG )
 ### 4.1 Aufwand des Kantons
 ### 4.2 Aufwand der Gemeinden
+#### 4.2.1 Wirtschaftliche Hilfe
+#### 4.2.2 Bestattungskosten
+#### 4.2.3 Andere Beweiserhebungen
+#### 4.2.4 Besoldungs- und Weiterbildungsaufwendungen
+#### 4.2.5 Übrige Aufwendungen
+#### 4.2.6 Kosteneffizienz Sozialdienste
 ### 4.3 Verfahren
 ## 5 Übergangs- und Schlussbestimmungen (Art. 84 bis 90 SHG)
 ## T1 Übergangsbestimmungen der Änderung vom 21.09.2005
@@ -17,3 +23,4 @@
 ## T3 Übergangsbestimmung der Änderung vom 02.11.2011
 ## T4 Übergangsbestimmung der Änderung vom 23.10.2013
 ## T5 Übergangsbestimmung der Änderung vom 27.04.2016
+## T6 Übergangsbestimmung der Änderung vom 19.10.2016

@@ -1,4 +1,4 @@
-# Art. 41b Kosteneffizienz Sozialdienste 1 Bemessung
+# Art. 41b Bemessung
 1 Massgebend für die Ermittlung der Bonus-Malus-Ergebnisse pro Sozialdienst sind folgende strukturelle Faktoren:
 a der Anteil an Ausländerinnen und Ausländern an der Wohnbevölkerung,
 b der Anteil an Ergänzungsleistungsbezügerinnen und -bezügern an der Wohnbevölkerung,
