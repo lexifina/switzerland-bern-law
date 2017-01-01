@@ -1,12 +1,12 @@
 ## 1 Haushaltsführung
-### 1.1 Allgemeine Bestimmungen und Grundsätze der Haushaltsführung
+### 1.1 Allgemeine Bestimmungen und anwendbare Normen der Haushaltsführung
 ### 1.2 Finanzbuchhaltung
 #### 1.2.1 Allgemeines
-#### 1.2.2 Verwaltungsrechnung
-##### 1.2.2.1 Laufende Rechnung
+#### 1.2.2 Erfolgsrechnung und Investitionsrechnung
+##### 1.2.2.1 Erfolgsrechnung
 ##### 1.2.2.2 Investitionsrechnung
-#### 1.2.3 Bilanz (Bestandesrechnung)
-#### 1.2.4 Mittelflussrechnung
+#### 1.2.3 Bilanz
+#### 1.2.4 Geldflussrechnung
 #### 1.2.5 Spezialfinanzierungen
 #### 1.2.6 Bewertungsgrundsätze in der Finanzbuchhaltung
 #### 1.2.7 Inventarisierung
