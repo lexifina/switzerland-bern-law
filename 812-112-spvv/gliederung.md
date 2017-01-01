@@ -8,10 +8,14 @@
 ### 3.1 Finanzkontrolle
 ### 3.1a Kriterien für die Erteilung von Leistungsaufträgen an Spitäler
 ### 3.2 Eigentümerstrategie
-### 3.3 Administrative Zuordnung des Inselspitals
+### 3.3 Administrative Zuordnung der Universitätsspitäler
 ### 3.4 Verhältnis der Universitätsspitäler zur Universität
 ### 3.5 Pflichten der Listenspitäler und Listengeburtshäuser
 ### 3.6 Finanzierung
+#### 3.6.1 Pauschale Abgeltung
+#### 3.6.2 Ambulante psychiatrische Spitalversorgungsleistungen
+#### 3.6.3 Besondere ambulante psychiatrische Spitalversorgungsleistungen
+#### 3.6.4 Darlehen
 ## 4 Rettungswesen
 ## 5 Aus- und Weiterbildung
 ### 5.1 Ärztliche und pharmazeutische Weiterbildung
