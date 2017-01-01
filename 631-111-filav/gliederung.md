@@ -12,3 +12,4 @@
 ## 7 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 26.10.2011
 ## T2 Übergangsbestimmungen der Änderung vom 02.04.2014
+## T3 Übergangsbestimmungen der Änderung vom 26.10.2016
