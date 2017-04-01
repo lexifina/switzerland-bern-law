@@ -84,3 +84,4 @@
 ## T3 Übergangsbestimmungen der Änderung vom 23.03.2010
 ## T4 Übergangsbestimmungen der Änderung vom 23.09.2012
 ## T5 Übergangsbestimmungen der Änderung vom 26.03.2013
+## T6 Übergangsbestimmung der Änderung vom 09.06.2016
