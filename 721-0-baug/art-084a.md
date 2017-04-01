@@ -1,0 +1,3 @@
+# Art. 84a Entfernungsauflage
+1 Bau- und Ausnahmebewilligungen für Bauten und Anlagen ausserhalb der Bauzone oder in einer ausserhalb der Bauzone gelegenen Spezialzone können mit der Nebenbestimmung versehen werden, dass diese Bauten und Anlagen nach Ablauf einer bestimmten Frist oder nach Wegfall der ursprünglichen Zweckbestimmung zu entfernen sind, wenn bis zu diesem Zeitpunkt keine rechtskräftige Baubewilligung für eine neue Nutzung vorliegt.
+2 Läuft die Frist ab oder fällt die Zweckbestimmung dahin, sind die betreffenden Bauten und Anlagen von der Eigentümerin oder vom Eigentümer unverzüglich und entschädigungslos zu entfernen, und das natürliche Terrain ist wiederherzustellen.

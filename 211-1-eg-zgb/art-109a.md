@@ -4,5 +4,6 @@ a der auf die Grundstücke und Wasserkräfte entfallenden Vermögenssteuer der z
 b der Grundstückgewinnsteuer am veräusserten Grundstück,
 c der Liegenschaftssteuer an der betreffenden Liegenschaft,
 d der Beiträge der Grundeigentümerinnen und Grundeigentümer an die Kosten von Erschliessungsanlagen nach Artikel 115 des Baugesetzes vom 9. Juni 1985 (BauG) und nach dem vom Grossen Rat gestützt auf Artikel 143 Absatz 1 Buchstabe c BauG erlassenen Dekret am betreffenden Grundstück,
+d1 der Forderung und Verzugszinsen aus der Erhebung der Mehrwertabgabe nach den Artikeln 142 ff. BauG,
 e der Rückforderung von Kosten der Ersatzvornahme nach Artikel 47 Absatz 2 BauG am betreffenden Grundstück,
 f der Rückforderung von Strukturverbesserungsbeiträgen nach dem KLwG.

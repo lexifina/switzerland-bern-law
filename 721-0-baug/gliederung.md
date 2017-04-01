@@ -1,7 +1,11 @@
 ## 1 Öffentliches Baurecht
 ### 1.1 Voraussetzungen des Bauens
+### 1a Schutz des Kulturlands
 ### 1.2 Einordnung und Gestaltung
 ### 1.3 Konstruktion, Betrieb und Unterhalt
+#### 1.3.1 Sicherheit und Gesundheit
+#### 1.3.2 Hindernisfreies Bauen
+#### 1.3.3 Immissionen, Umweltschutz und Materialabbau
 ### 1.4 Ausnahmen
 ### 1.5 Lastenausgleich
 ### 1.6 Baubewilligungsverfahren
@@ -18,6 +22,7 @@
 #### 2.2.3 Baurechtliche Grundordnung
 #### 2.2.4 Überbauungsordnungen
 #### 2.2.5 Überbauungsordnungen für Zonen mit Planungspflicht
+#### 2.2.6 Baulinien und Baubereich
 ### 2.3 Regionalplanung
 ### 2.4. Kantonsplanung
 ### 2.5 Richtplan nach Raumplanungsgesetz
@@ -25,11 +30,14 @@
 ### 3.1 Erschliessung der Bauzone
 ### 3.2 Erschliessung und Ausstattung von Erholungsgebieten
 ### 3.3 Baulandumlegung, Grenzregulierung, Ablösung von Dienstbarkeiten
+### 3.3a Förderung und Sicherung der Verfügbarkeit von Bauland
 ### 3.4 Enteignung und Eigentumsbeschränkungen
 ### 3.5 Finanzierung
+### 3.6 Ausgleich von Planungsvorteilen
 ## 4 Schluss- und Übergangsbestimmungen
 ### 4.1 Vollzug
 ### 4.2 Inkrafttreten, Aufhebung und Anpassung von Vorschriften
 ### 4.3 Übergangsbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 18.06.1997
 ## T2 Übergangsbestimmungen der Änderung vom 28.01.2009
+## T3 Übergangsbestimmungen der Änderung vom 09.06.2016
