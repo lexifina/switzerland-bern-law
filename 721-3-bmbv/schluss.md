@@ -3,4 +3,4 @@ Im Namen des Regierungsrates
 Der Präsident: Perrenoud
 Der Staatsschreiber: Nuspliger
 Anhänge
-Anhang 1: Skizzen zu den Begriffen und Messweisen
+Anhang 1 : Skizzen zu den Begriffen und Messweisen
