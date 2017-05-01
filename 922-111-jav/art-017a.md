@@ -1,7 +1,12 @@
-# Art. 17a Einschiessen
-1 Die Jägerin oder der Jäger hat sich vor jeder Jagdperiode einzuschiessen.
-2 Als eingeschossen gilt, wer vor der ersten Jagdaufnahme, jedoch frühestens im April, auf einem schweizerischen Schiessstand oder an einer Veranstaltung eines schweizerischen Jagd- oder Schiessvereins mit einer Jagdwaffe mindestens folgende Schüsse abgegeben hat:
-a drei Kugelschüsse auf ein 100 m oder weiter entferntes Ziel und
-b fünf Schrotschüsse auf ein 20 m oder weiter entferntes Ziel.
-3 Zeit und Ort des Einschiessens sind vor dem ersten Abschuss im Abschusskontrollheft einzutragen. Auf Verlangen ist das Einschiessen mit einem Standblatt oder einer Bestätigung des Jagd- oder Schiessvereins zu belegen.
-4 Das Jagdinspektorat kann ein im Ausland erfolgtes Einschiessen anerkennen.
+# Art. 17a Treffsicherheit
+1 Die Jägerin oder der Jäger hat vor jeder Jagdperiode die Treffsicherheit für die von ihr oder von ihm auf der Jagd verwendeten Waffenarten nachzuweisen.
+2 Es ist folgendes Schiessprogramm zu erfüllen:
+a mit der Kugelwaffe auf eine Distanz von mindestens 100 Metern entweder
+1. auf eine Scheibe mit Zehnerwertung, wobei vier Schüsse nacheinander mindestens den 8er-Ring anreissen müssen, oder
+2. auf eine St. Galler-Scheibe, wobei vier Schüsse nacheinander im Trefferfeld liegen müssen;
+b mit der Schrotwaffe auf eine Distanz zwischen 25 und 35 Metern entweder
+1. auf den dreiteiligen Kipphasen, wobei die vordere oder mittlere Klappe viermal nacheinander getroffen werden muss, oder
+2. auf ein Rollziel, wobei dieses viermal nacheinander getroffen werden muss und das Doppelieren erlaubt ist.
+3 Das Schiessprogramm kann bis zur Erfüllung wiederholt werden.
+4 Zeit und Ort des Treffsicherheitsnachweises sind vor der ersten Aufnahme der Jagd mit der entsprechenden Jagdwaffe im Abschusskontrollheft einzutragen.
+5 Auf Verlangen ist der Nachweis der Treffsicherheit mit einer Bestätigung des Jagd- oder Schiessvereins zu belegen.
