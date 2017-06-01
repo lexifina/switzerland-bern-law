@@ -1,0 +1,5 @@
+# Art. 4b 2. Angespannte Lage
+1 Droht die Anzahl der Personen nach Artikel 3 Absatz 1 die zur Verfügung stehenden Unterbringungsplätze innert weniger Monate zu übersteigen und kann kurzfristig kein ausreichender Wohnraum auf dem freien Markt beschafft werden, beauftragt der Regierungsrat die Regierungsstatthalterinnen und Regierungsstatthalter, in Zusammenarbeit mit den Gemeinden eine bestimmte Anzahl an kurzfristig realisierbaren Unterbringungsplätzen zu bezeichnen. Er setzt dafür eine angemessene Frist.
+2 Können nicht genügend Unterbringungsplätze mit Massnahmen nach Artikel 4a und 4b Absatz 1 beschafft werden, weisen die Regierungsstatthalterinnen und Regierungsstatthalter einzelne Gemeinden an, kurzfristig belegbare und geeignete Unterbringungsplätze zur Verfügung zu stellen. Soweit es die Umstände erfordern, können sie selbstständig bestimmte Unterkünfte bezeichnen.
+3 Eine Massnahme nach Absatz 2 dauert längstens zwei Jahre.
+4 Beschwerden gegen Verfügungen nach Absatz 2 haben keine aufschiebende Wirkung. Im Übrigen richtet sich das Verfahren nach dem VRPG.
