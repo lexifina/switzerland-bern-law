@@ -18,3 +18,4 @@
 ### 8.1 Wildtierhaltebewilligungen
 ### 8.2 Fische und Krebse
 ## 9 Rechtspflege
+## T1 Übergangsbestimmungen der Änderung vom 17.05.2017
