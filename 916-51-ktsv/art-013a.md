@@ -1,0 +1,3 @@
+# Art. 13a Datenzugriff durch Behörden
+1 Die Gemeinden können für die Erhebung der Hundetaxe bei der Datenbankbetreiberin anhand der Gemeindenummer Listen der Daten gemäss den Bestimmungen der TSV abrufen.
+2 Die Regierungsstatthalterinnen und Regierungsstatthalter, die Gemeinden und die Kantonspolizei können zur Erfüllung ihrer gesetzlichen Aufgaben bei der Datenbankbetreiberin anhand der Mikrochip- oder Tätowiernummer eines Hundes bzw. anhand des Namens einer Hundehalterin oder eines Hundehalters die Daten gemäss den Bestimmungen der TSV und Artikel 32b Absatz 1b der Verordnung vom 21. Januar 2009 über den Tierschutz und die Hunde (THV) abrufen.
