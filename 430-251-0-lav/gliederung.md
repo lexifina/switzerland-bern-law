@@ -42,7 +42,7 @@
 ### 9.1 Aufgaben und Kompetenzen
 ### 9.2 …
 ### 9.2a Pools für die Volksschule
-### 9.2b Pools für die Schulen der Sekundarstufe II und die höheren Fachschulen
+### 9.2b Pools für die Schulen der Sekundarstufe II
 ### 9.2c Sonderpool
 ### 9.3 Gehalt
 ### 9.4 Andere Schulen und Schultypen

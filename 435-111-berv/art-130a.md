@@ -1,7 +1,7 @@
 # Art. 130a Vorbereitende Kurse
-1 Den Anbietern von vorbereitenden Kursen werden Pauschalen ausgerichtet.
-2 Die Pauschalen werden aufgrund der Anzahl Studierenden mit stipendienrechtlichem Wohnsitz im Kanton Bern und höchstens im Umfang der Anzahl Lektionen, die dem schweizerischen Durchschnitt für die jeweiligen vorbereitenden Kurse entsprechen, ausgerichtet.
-3 Die Höhe der Pauschalen beträgt
-a sechs Franken pro studierende Person und Lektion und
-b für besonders geförderte Angebote bis zu zwölf Franken pro studierende Person und Lektion.
-4 Das Mittelschul- und Berufsbildungsamt legt die Höhe der Pauschalen für besonders geförderte Angebote so fest, dass diese zu Gebühren angeboten werden können, die denjenigen der vergleichbaren Angebote ohne besondere Förderung entsprechen.
+1 Der kantonale Beitrag gemäss Artikel 91a Absatz 2 an Absolventinnen und Absolventen von vorbereitenden Kursen wird ausgerichtet, wenn diese nachweisen, dass
+a ein Bundesbeitrag ausgerichtet wird und
+b ihr stipendienrechtlicher Wohnsitz im Kanton Bern liegt.
+2 Das Mittelschul- und Berufsbildungsamt legt den Beitrag so fest, dass die vorbereitenden Kurse zu Gebühren oder Kosten besucht werden können, die denjenigen von vergleichbaren inner- oder ausserkantonalen Angeboten bezüglich Berufsfeld und Lektionenzahl entsprechen. Der Beitrag beträgt aber höchstens die Hälfte des Bundesbeitrags.
+3 Der Beitrag wird nach Absolvierung der eidgenössischen Prüfung ausgerichtet, unabhängig von deren Bestehen.
+4 …

@@ -11,8 +11,8 @@
 ### 2.6 Soziale Institutionen und Institutionen des Straf- und Massnahmenvollzugs
 ### 2.7 Qualifikationsverfahren und Ausweise
 ## 3 Höhere Berufsbildung
-### 3.1 Allgemeines
-### 3.2 Vorbereitende Kurse
+### 3.1 …
+### 3.2 Vorbereitende Kurse auf eidgenössische Berufsprüfungen und eidgenössische höhere Fachprüfungen
 ### 3.3 Bildungsgänge an einer höheren Fachschule
 ### 3.4 Nachdiplomstudiengänge
 ## 4 Weiterbildung
@@ -36,4 +36,5 @@
 ## T1 Übergangsbestimmungen der Änderung vom 08.04.2009
 ## T2 Übergangsbestimmung der Änderung vom 20.01.2010
 ## T3 Übergangsbestimmungen der Änderung vom 29.10.2014
+## T4 Übergangsbestimmungen der Änderung vom 05.07.2017
 ## A1 …
