@@ -28,4 +28,5 @@
 ## 13 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 21.09.2011
 ## T2 Übergangsbestimmungen der Änderung vom 21.05.2014
+## T3 Übergangsbestimmungen der Änderung vom 15.02.2017
 ## A1 Anhang 1 zu den Artikeln 32 Absatz 3 und 44 Absatz 2
