@@ -1,6 +1,6 @@
 # Mittelschuldirektionsverordnung
 (MiSDV)
-vom 27.05.2008
+vom 16.06.2017
 Die Erziehungsdirektion des Kantons Bern,
-gestützt auf Artikel 88 der Mittelschulverordnung vom 7. November 2007 (MiSV),
+gestützt auf Artikel 88 Absatz 1 der Mittelschulverordnung vom 7. November 2007 (MiSV),
 beschliesst:

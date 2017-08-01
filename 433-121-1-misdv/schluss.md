@@ -1,2 +1,2 @@
-Bern, 27. Mai 2008
+Bern,
 Der Erziehungsdirektor: Pulver

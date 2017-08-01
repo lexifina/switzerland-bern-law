@@ -1,5 +1,0 @@
-# Art. 98b Fachmittelschulausweis und Fachmaturitätszeugnis
-1 Die Schule stellt Fachmittelschulausweise und Fachmaturitätszeugnisse nach Artikel 16 und 18 des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen aus.
-2 Fachmittelschulausweise und Fachmaturitätszeugnisse werden von der Erziehungsdirektorin oder dem Erziehungsdirektor, von der Präsidentin oder dem Präsidenten der KPFMS sowie dem für die Fachmittelschulbildungsgänge verantwortlichen Schulleitungsmitglied unterschrieben.
-3 Für das Berufsfeld Soziale Arbeit wird das Fachmaturitätszeugnis erst ausgehändigt, wenn die Kandidatin oder der Kandidat zusätzlich zu den Anforderungen an das Praktikum gemäss Artikel 90 eine Arbeitswelterfahrung von 32 Wochen Dauer nachweist.
-4 Abhanden gekommene Fachmittelschulausweise und Fachmaturitätszeugnisse werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen ersetzt.

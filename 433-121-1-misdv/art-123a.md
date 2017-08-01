@@ -1,2 +1,0 @@
-# Art. 123a Lehrplan
-1 Der Unterricht des Vorbereitungskurses auf die Ergänzungsprüfung richtet sich nach den Vorgaben zu den Prüfungsbereichen der Richtlinien der Schweizerischen Maturitätskommission gemäss der eidgenössischen Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses zu den universitären Hochschulen.

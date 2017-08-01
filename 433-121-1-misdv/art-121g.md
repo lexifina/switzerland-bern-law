@@ -1,3 +1,0 @@
-# Art. 121g Feststellung der Ergebnisse
-1 Im Anschluss an die Prüfung findet eine Sitzung einer bevollmächtigten Vertretung der KPFMS mit den Expertinnen und Experten sowie den prüfenden Lehrkräften statt. An der Schlusssitzung wird festgestellt, dass die Prüfungsergebnisse nach den Bestimmungen dieser Verordnung zustande gekommen sind.
-2 Nach dieser Sitzung eröffnet die Schulleitung die Ergebnisse im Namen der KPFMS mit schriftlicher Rechtsmittelbelehrung.
