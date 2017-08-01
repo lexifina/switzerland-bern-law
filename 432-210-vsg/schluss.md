@@ -1,7 +1,7 @@
-Bern, 19. März 1992
+Bern, 10. Juni 2014
 Im Namen des Grossen Rates
-Der Präsident: Suter
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Struchen
+Der Generalsekretär: Trees
 RRB Nr. 1940 vom 19. Mai 1993:
 1. Das Volksschulgesetz vom 19. März 1992 (VSG) wird wie folgt in Kraft gesetzt:
 a auf den 1. August 1993: die Artikel 45, 50, 51 und 75;die Gemeinden passen die Organisation der Schulbehörden in ihren Reglementen bis spätestens 1. August 1996 an.

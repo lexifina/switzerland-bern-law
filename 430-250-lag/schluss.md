@@ -1,7 +1,7 @@
-Bern, 20. Januar 1993
+Bern, 10. Juni 2014
 Im Namen des Grossen Rates
-Der Vizepräsident: Bieri
-Der Vizestaatsschreiber: Krähenbühl
+Die Präsidentin: Struchen
+Der Generalsekretär: Trees
 RRB Nr. 3050 vom 25. August 1993:
 1. Das Gesetz vom 20. Januar 1993 über die Anstellung der Lehrkräfte (LAG) wird wie folgt in Kraft gesetzt:
 a auf den 1. August 1993: die Artikel 20 und 31 (Anpassung der Gemeindereglemente bis Beginn des Schuljahres 1998/99);
