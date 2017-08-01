@@ -12,10 +12,10 @@
 #### 2.4.2 Promotionen
 #### 2.4.3 …
 ### 2.4a Informatikmittelschule (IMS)
-### 2.5 Aufnahmeverfahren in Lehrwerkstätten
+### 2.5 …
 ### 2.6 Berufsmaturität (BM)
 #### 2.6.1 Aufnahme in den lehrbegleitenden Berufsmaturitätsunterricht (BM 1) und in die Handelsmittelschule mit Berufsmaturitätsunterricht (HMS mit BM)
-#### 2.6.2 Aufnahme in die Berufsmaturitätsschule für gelernte Berufsleute (BM 2 2)
+#### 2.6.2 Aufnahme in die Berufsmaturitätsschule für gelernte Berufsleute (BM 2)
 #### 2.6.3 Promotion
 #### 2.6.4 Berufsmaturitätsprüfung (BMP)
 ### 2.7 Evaluation der Aufnahmeverfahren

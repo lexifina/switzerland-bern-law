@@ -5,4 +5,4 @@ b zweite Landessprache (Dauer: 45 Minuten),
 c Englisch (Dauer: 45 Minuten),
 d Mathematik (Dauer: 75 Minuten).
 2 Die Aufnahmeprüfung ist bestanden, wenn der Durchschnitt aller Prüfungsnoten mindestens 4,0 beträgt.
-3 Die Notengewichtung richtet sich nach den Vorschriften für die Aufnahme in die BM Typ Wirtschaft.
+3 Die Notengewichtung richtet sich nach den Bestimmungen für die Aufnahme in die BM-Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft.

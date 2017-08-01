@@ -5,4 +5,4 @@ a in der Regel die obligatorische Schulzeit abgeschlossen hat und höchstens 25 
 b während höchstens zwei Jahren ein anderes Brückenangebot besucht hat,
 c über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt und
 d einen Vorlehrvertrag abgeschlossen hat.
-3 Die Schulleitung verfügt die Aufnahme.
+3 Die Schulleitung entscheidet mit Verfügung über die Aufnahme.
