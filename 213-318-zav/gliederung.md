@@ -4,3 +4,4 @@
 ## 4 Abgeltung der Aufwendungen der Gemeinden durch die Burgergemeinden
 ## 5 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderungen vom 19.10.2016
+## T2 Übergangsbestimmungen der Änderungen vom 18.10.2017
