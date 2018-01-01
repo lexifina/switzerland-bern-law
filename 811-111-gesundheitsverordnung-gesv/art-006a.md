@@ -3,5 +3,5 @@
 a die für den Bereich Pflege verantwortliche Fachperson über eine Berufsausübungsbewilligung verfügt,
 b ein schlüssiges Betriebskonzept vorliegt, welches das Leistungsangebot umschreibt,
 c ein geeignetes Qualitätssicherungssystem betrieben wird,
-d der Einsatz fachlich hinreichend ausgebildeten Personals gewährleistet ist,
+d genügend Personal mit hinreichender fachlicher Ausbildung eingesetzt wird,
 e das spezifische Betriebsrisiko durch eine Betriebshaftpflichtversicherung hinreichend abgedeckt ist.
