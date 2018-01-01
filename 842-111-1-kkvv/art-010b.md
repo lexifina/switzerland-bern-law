@@ -2,13 +2,13 @@
 1 Junge Erwachsene, die nach Artikel 5 nicht zur Familie ihrer Eltern zählen und die sich nicht in Ausbildung befinden, erhalten monatlich folgende Prämienverbilligungen:
 Massgebendes jährliches Einkommen (Art. 9 Abs. 2) Prämienregion 1: in CHF Prämienregion 2: in CHF Prämienregion 3: in CHF
 a unter 9000 Franken 206 183 170
-b zwischen 9001 und 17'000 Franken 162 144 134
-c zwischen 17'001 und 25'000 Franken 118 104 97
-d zwischen 25'001 und 35'000 Franken 73 65 60
+b zwischen 9001 und 17'000 Franken 138 124 116
+c zwischen 17'001 und 25'000 Franken 100 90 84
+d zwischen 25'001 und 35'000 Franken 63 56 52
 2 …
 2a Junge Erwachsene, die nach Artikel 5 nicht zur Familie ihrer Eltern zählen, erhalten monatlich die nachfolgend aufgeführten Prämienverbilligungen gewährt, wenn sie eigene, nach Artikel 5 zur Familie zählende Kinder haben und ihr massgebendes Familieneinkommen zwischen 35'001 und 38'000 Franken liegt:
 Prämienregion Prämienregion 1: in CHF Prämienregion 2: in CHF Prämienregion 3: in CHF
-Betrag 37 33 30
+Betrag 31.50 28 26
 3 Sie erhalten 50 Prozent der Prämie verbilligt, wenn
 a sie sich in Ausbildung befinden,
 b sie keine eigenen, nach Artikel 5 zur Familie zählende Kinder haben und
