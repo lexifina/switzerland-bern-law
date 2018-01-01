@@ -9,4 +9,4 @@ f Werkstätten, die Altkleider sortieren,
 g Betriebe, die Bauabfälle nur zwischenlagern,
 h Betriebe, die nur ihre eigenen Produktionsabfälle behandeln,
 i öffentliche Abfallumladestationen,
-k Betriebe, die nur tierische Nebenprodukte im Sinne der Verordnung des Bundesrates vom 23. Juni 2004 über die Entsorgung von tierischen Nebenprodukten (VTNP) entsorgen.
+k Betriebe, die nur tierische Nebenprodukte im Sinne der Verordnung des Bundesrates vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP) entsorgen.
