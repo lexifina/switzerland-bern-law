@@ -1,5 +1,5 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Stellenplan
+## 2 Stellenplan und Stellenbestand
 ## 3 Begründung, Änderung und Beendigung des Arbeitsverhältnisses
 ### 3.1 Arbeitsverhältnis der Angestellten
 ### 3.2 …
