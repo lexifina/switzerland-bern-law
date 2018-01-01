@@ -5,6 +5,7 @@
 ### 2.3 Übrige Abfälle
 ### 2.4 Abfallanlagen
 ## 3 Bauten und Anlagen auf belasteten Standorten
+## 3a Schiessanlagen
 ## 4 Finanzierung
 ## 5 Vollzug
 ### 5.1 Zuständigkeiten

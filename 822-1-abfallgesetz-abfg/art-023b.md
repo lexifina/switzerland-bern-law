@@ -1,0 +1,2 @@
+# Art. 23b 3. Gesetzliches Grundpfandrecht
+1 Für Forderungen, die dem Kanton aus der Untersuchung, Überwachung und Sanierung eines belasteten Standorts gegenüber den Eigentümerinnen und Eigentümern des betroffenen Grundstücks entstehen, besteht zu seinen Gunsten ein gesetzliches Grundpfandrecht im Sinne von Artikel 109 Absatz 1 Buchstabe h des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB).
