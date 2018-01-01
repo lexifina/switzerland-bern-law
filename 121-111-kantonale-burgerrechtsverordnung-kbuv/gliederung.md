@@ -1,8 +1,10 @@
 ## 1 Allgemeines
-## 2 Einbürgerungen von Schweizerinnen und Schweizern
-## 3 Einbürgerung von Ausländerinnen und Ausländern
-## 4 Abschluss des Verfahrens
+## 2 Ordentliche Einbürgerungen
+### 2.1 Schweizerinnen und Schweizer
+### 2.2 Ausländerinnen und Ausländer
+#### 2.2.1 Materielle Voraussetzungen
+#### 2.2.2 Verfahren
+### 2.3 Gemeinsame Bestimmungen
+## 3 Entlassung
+## 4 Aktenaufbewahrung und -einsicht sowie Gebühren
 ## 5 Schlussbestimmungen
-## T1 Übergangsbestimmungen der Änderung vom 12.08.2009
-## T2 Übergangsbestimmungen der Änderung vom 15.08.2012
-## T3 Übergangsbestimmungen der Änderung vom 23.04.2014

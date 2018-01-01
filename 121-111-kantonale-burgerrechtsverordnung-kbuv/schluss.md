@@ -1,4 +1,4 @@
-Bern, 1. März 2006
+Bern, 20. September 2017
 Im Namen des Regierungsrates
-Der Präsident: Annoni
-Der Staatsschreiber: Nuspliger
+Der Präsident: Pulver
+Der Staatsschreiber: Auer
