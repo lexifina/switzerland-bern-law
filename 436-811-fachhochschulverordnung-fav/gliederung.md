@@ -40,5 +40,6 @@
 ## T3 Übergangsbestimmungen der Änderung vom 30.10.2013
 ## T4 Übergangsbestimmungen der Änderung vom 6.05.2015
 ## T5 Übergangsbestimmungen der Änderung vom 22.06.2016
+## T6 Übergangsbestimmung der Änderung vom 20.12.2017
 ## A1 …
 ## A2 …
