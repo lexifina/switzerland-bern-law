@@ -47,5 +47,6 @@
 ## 7 Rekurskommission
 ## 8 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 22.06.2016
+## T2 Übergangsbestimmung der Änderung vom 06.12.2017
 ## A1 …
 ## A2 zu Artikel 11 Zulassung ausländischer Studienanwärterinnen und Studienanwärter zum Medizinstudium
