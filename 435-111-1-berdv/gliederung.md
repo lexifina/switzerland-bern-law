@@ -29,7 +29,7 @@
 ## 6 Übrige Finanzierungsbestimmungen
 ### 6.1 Budget und Jahresrechnung von subventionierten Angeboten
 ### 6.2 Mensen und Internate
-### 6.3 Vorgaben für die höhere Berufsbildung
+### 6.3 …
 ### 6.4 Entschädigungen
 ## 7 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 27.05.2011

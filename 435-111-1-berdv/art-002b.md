@@ -5,7 +5,7 @@ b über keinen Abschluss der Sekundarstufe II verfügt,
 c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 d über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt,
 e eine hohe Motivation für den Unterrichtsbesuch und das Finden einer Anschlusslösung in die Berufsbildung aufweist,
-f in der Regel über einen geregelten Aufenthaltsstatus verfügt und
+f …
 g im Aufnahmeverfahren gemäss Artikel 4 als geeignet beurteilt wird.
 2 Erfüllen mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach folgender Priorisierung:
 a 1. Priorität: Schülerinnen und Schüler, die direkt aus der Volksschule oder dem BPI 1 kommen,
