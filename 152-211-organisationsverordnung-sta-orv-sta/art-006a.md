@@ -1,4 +1,4 @@
-# Art. 6a 3. Gleichstellungsnetzwerk "Réseau égalité Berne francophone"
+# Art. 6a Gleichstellungsnetzwerk "Réseau égalité Berne francophone"
 1 Der Regierungsrat ernennt die sieben bis dreizehn Mitglieder des Gleichstellungsnetzwerks "Réseau égalité Berne francophone" (Gleichstellungsnetzwerk) auf Antrag der Staatskanzlei. Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel werden vorgängig angehört.
 2 Dem Gleichstellungsnetzwerk gehören an:
 a Vertreterinnen und Vertreter von Organisationen und Institutionen sowie Einzelpersonen, die sich mit Gleichstellungsfragen befassen, sowie
