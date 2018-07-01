@@ -19,4 +19,5 @@
 ### 5.3 Organisation
 ### 5.4 Rechte und Pflichten der Kommissionsmitglieder
 ## 6 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 23.05.2018
 ## A1 Anhang 1: zu Artikel 10
