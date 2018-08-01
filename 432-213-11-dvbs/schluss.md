@@ -1,2 +1,2 @@
-Bern, 14. Mai 2013
+Bern, 6. März 2018
 Der Erziehungsdirektor: Pulver

@@ -1,6 +1,6 @@
 # Direktionsverordnung über die Beurteilung und Schullaufbahnentscheide in der Volksschule
 (DVBS)
-vom 14.05.2013
+vom 06.03.2018
 Die Erziehungsdirektion des Kantons Bern,
-gestützt auf Artikel 25, 26 und 74 des Volksschulgesetzes vom 19. März 1992 (VSG) sowie Artikel 27 Buchstaben c und d der Volksschulverordnung vom 10. Januar 2013,
+gestützt auf Artikel 27 Absatz 1 Buchstaben c und d der Volksschulverordnung vom 10. Januar 2013 (VSV),
 beschliesst:

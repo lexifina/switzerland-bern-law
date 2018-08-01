@@ -1,13 +1,20 @@
-## 1 Allgemeines
-## 2 Kindergarten, Basisstufe, Cycle élémentaire
-## 3 Primarstufe und Sekundarstufe I
-## 4 Promotionen an der Primarstufe
+## 1. Allgemeines
+### 1.1 Beide Kantonsteile
+### 1.2 Deutschsprachiger Kantonsteil
+### 1.3 Französischsprachiger Kantonsteil
+## 2 Standortbestimmung im Kindergarten
+### 2.1 Deutschsprachiger Kantonsteil
+### 2.2 Französischsprachiger Kantonsteil
+## 3 Beurteilung auf der Primarstufe und der Sekundarstufe I
+### 3.1 Beide Kantonsteile
+### 3.2 Deutschsprachiger Kantonsteil
+### 3.3 Französischsprachiger Kantonsteil
+## 4 Promotionen auf der Primarstufe
 ## 5 Übertritt in die Sekundarstufe I
-### 5.1 Allgemeines
-### 5.2 Deutschsprachiger Kantonsteil
+### 5.1 Beide Kantonsteile
+### 5.2 Deuschsprachiger Kantonsteil
 ### 5.3 Französischsprachiger Kantonsteil
-## 6 Sekundarstufe I
+## 6 Promotionen auf der Sekundarstufe I
 ### 6.1 Deutschsprachiger Kantonsteil
 ### 6.2 Französischsprachiger Kantonsteil
-### 6.3 Archivierung
 ## 7 Übergangs- und Schlussbestimmungen
