@@ -15,7 +15,7 @@
 #### 4.2.3 Andere Beweiserhebungen
 #### 4.2.4 Besoldungs- und Weiterbildungsaufwendungen
 #### 4.2.5 Übrige Aufwendungen
-#### 4.2.6 Kosteneffizienz Sozialdienste
+#### 4.2.6 …
 ### 4.3 Verfahren
 ## 5 Übergangs- und Schlussbestimmungen (Art. 84 bis 90 SHG)
 ## T1 Übergangsbestimmungen der Änderung vom 21.09.2005
