@@ -6,3 +6,4 @@
 ## A2 zu Artikel 11 Absatz 2 und Artikel 15 Absatz 2 Buchstabe a
 ## A3 …
 ## T1 Übergangsbestimmungen der Änderung vom 28. Dezember 2009
+## T2 Übergangsbestimmungen der Änderung vom 21. August 2018
