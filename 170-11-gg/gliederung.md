@@ -29,3 +29,4 @@
 ### 2.7 Schwellenkorporationen
 ### 2.8 Regionalkonferenzen
 ### 2.9 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 21.03.2018
