@@ -1,4 +1,4 @@
-Bern, 25. Juni 1997
+Bern, 29. August 2018
 Im Namen des Regierungsrates
-Die Präsidentin: Zölch
-Der Staatsschreiber: Nuspliger
+Der Präsident: Neuhaus
+Der Staatsschreiber: Auer
