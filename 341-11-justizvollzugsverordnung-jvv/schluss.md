@@ -1,4 +1,4 @@
-Bern, 5. Mai 2004
+Bern, 22. August 2018
 Im Namen des Regierungsrates
-Der Präsident: Gasche
-Der Staatsschreiber: Nuspliger
+Der Präsident: Neuhaus
+Der Staatsschreiber: Auer
