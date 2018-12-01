@@ -1,4 +1,4 @@
-# Gesetz über freiheitsbeschränkende Massnahmen im Vollzug von Jugendstrafen und -massnahmen und in der stationären Jugendhilfe
+# Gesetz über freiheitsbeschränkende Massnahmen im Justizvollzug bei Jugendlichen und im Vollzug von Kindesschutzmassnahmen
 (FMJG)
 vom 16.06.2011
 Der Grosse Rat des Kantons Bern,

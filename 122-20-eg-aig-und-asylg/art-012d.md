@@ -1,3 +1,4 @@
-# Art. 12d Sicherheit, Ordnung, unmittelbarer Zwang
-1 Die Bestimmungen über Sicherheit, Ordnung und unmittelbaren Zwang der Artikel 55, 57, 58 und 60 des Gesetzes vom 25. Juni 2003 über den Straf- und Massnahmenvollzug (SMVG) sind für den Vollzug freiheitsentziehender Zwangsmassnahmen des Ausländerrechts anwendbar.
-2 Verlegungen gemäss Artikel 58 Absatz 3 SMVG werden durch die Leitung der Institution angeordnet.
+# Art. 12d Rechtsschutz
+1 Gegen Verfügungen der Leitung der Vollzugseinrichtung können die Eingewiesenen Beschwerde bei der Polizei- und Militärdirektion führen.
+2 Entscheide der Polizei- und Militärdirektion können mit Beschwerde beim Verwaltungsgericht angefochten werden.
+3 Die Beschwerde hat keine aufschiebende Wirkung.

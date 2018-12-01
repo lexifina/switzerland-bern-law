@@ -1,2 +1,0 @@
-# Art. 52a Elektronische Kommunikationsmittel, Unterhaltungselektronik, Hard- und Software, Speichermedien
-1 Die zuständige Stelle der Polizei- und Militärdirektion regelt die Benutzung von Geräten zur elektronischen Kommunikation, von Geräten der Unterhaltungselektronik, von elektronischer Hard- und Software sowie von elektronischen Speichermedien. Sie berücksichtigt dabei insbesondere die Benutzung zu Bildungs- und Weiterbildungszwecken.

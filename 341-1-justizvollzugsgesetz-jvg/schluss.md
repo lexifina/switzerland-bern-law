@@ -1,8 +1,11 @@
-Bern, 25. Juni 2003
+Bern, 23. Januar 2018
 Im Namen des Grossen Rates
-Der Präsident: Rychiger
-Der Staatsschreiber: Nuspliger
-RRB Nr. 1263 vom 28. April 2004:
-Inkraftsetzung auf den 1. Juli 2004 mit Ausnahme von Artikel 5 Buchstaben a und f, Artikel 6 Absatz 1 Buchstabe d, Artikel 14 sowie Artikel 23.
-RRB Nr. 2062 vom 22. November 2006:
-Artikel 14 und Artikel 23 treten am 1. Januar 2007 in Kraft
+Die Präsidentin: Zybach
+Der Generalsekretär: Trees
+Auszug aus dem Protokoll des Regierungsrates vom 20. Juni 2018
+Der Regierungsrat stellt fest, dass vom Referendumsrecht zum Gesetz über den Justizvollzug (Justizvollzugsgesetz, JVG) innerhalb der festgesetzten Frist kein Gebrauch gemacht worden ist.
+Das Gesetz ist in die Bernische Amtliche Gesetzessammlung aufzunehmen.
+Für getreuen Protokollauszug
+Der Staatsschreiber: Auer
+RRB Nr. 739 vom 27. Juni 2018:
+Inkraftsetzung auf den 1. Dezember 2018
