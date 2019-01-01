@@ -6,6 +6,7 @@
 ### 4.2 Landschaftsqualitätsbeiträge
 ### 4.3 Kontrolle und Beitragszahlung
 ## 5 Landwirtschaftlicher Pflanzenschutz
+## 5a. Schutz der Bienenzucht
 ## 6 Bewirtschaftungsbeiträge
 ## 7 Elementarschäden
 ## 8 Datenzugriff und Rechtspflege
