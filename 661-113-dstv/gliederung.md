@@ -5,3 +5,4 @@
 ## 4a Vergütungen für Liegenschaftssteuern inkl. Schwellentelle
 ## 5 Schlussbestimmungen
 ## A1 Anhang 1: Ansätze für Grundstückmutationen (Art. 10 Abs. 2)
+## T1 Übergangsbestimmung der Änderung vom 19.09.2018
