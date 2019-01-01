@@ -1,7 +1,7 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Produktion und Vermarktung
 ### 2.1 Allgemeines
-### 2.2 Viehhaltung
+### 2.2 Tierhaltung
 ### 2.3 Pflanzenproduktion
 ## 3 Erhaltung der Lebensgrundlagen und der Kulturlandschaft
 ### 3.1 Erhaltung der Lebensgrundlagen
