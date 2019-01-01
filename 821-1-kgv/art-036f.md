@@ -1,4 +1,4 @@
-# Art. 36f b Aufgaben des AWA
+# Art. 36f Aufgaben des AWA
 1 Das AWA hat insbesondere folgende Aufgaben und Befugnisse:
 a Behandlung des Gesuchs,
 b Einholen von zusätzlichen Unterlagen,

@@ -1,4 +1,4 @@
-# Art. 36b b Ermittlung von Restverschmutzung und Abwassermenge
+# Art. 36b Ermittlung von Restverschmutzung und Abwassermenge
 1 Die Abgabepflichtigen ermitteln Restverschmutzung und Menge des gereinigten Abwassers.
 2 Können Restverschmutzung oder Abwassermenge nicht ermittelt werden, werden sie auf Grund der Messwerte der entsprechenden Periode des Vorjahres ermittelt oder auf Grund der Anzahl Einwohner und des Wasserverbrauchs grösserer Betriebe im Kanalisationsbereich geschätzt.
 3 War die Restverschmutzung infolge von Umbauten oder Sanierungen vorübergehend erhöht, wird auf die Messwerte der entsprechenden Periode des Vorjahres abgestellt, wenn
