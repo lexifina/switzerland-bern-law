@@ -4,3 +4,4 @@
 a Abklärung und Beratung: CHF 15.95 pro Stunde
 b Behandlungspflege: CHF 15.95 pro Stunde
 c Grundpflege: CHF 15.95 pro Stunde
+3 Werden ausserkantonale Leistungen der ambulanten Pflege in Anspruch genommen, vergütet das ALBA die Pflegekosten nach Artikel 25a Absatz 5 KVG.
