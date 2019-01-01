@@ -9,3 +9,4 @@
 ## 6a Anteil an der eidgenössischen Spielbankenabgabe
 ## 7 Vollzug und Rechtspflege
 ## 8 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 06.06.2018
