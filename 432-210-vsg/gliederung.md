@@ -7,6 +7,9 @@
 ## 7 Organisation und Führung der Volkschulen
 ## 8 …
 ## 9 Kantonsbeiträge
+### 9.1 Schulbibliotheken und Schulmediatheken
+### 9.2 Schülertransporte
+#### 9.3 Betreuung während der Ferienzeit
 ## 9a Kantonale Schule französischer Sprache
 ## 10 Steuerung, Zuständigkeiten, Aufsicht und Kommunikation
 ### 10.1 Steuerung

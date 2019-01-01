@@ -1,4 +1,4 @@
-# Art. 49a Schülertransportkosten
+# Art. 49a
 1 Der Kanton kann Beiträge leisten an Gemeinden, die durch Schülertransportkosten erheblich belastet sind. Er berücksichtigt dabei insbesondere den Anteil der Schülerinnen und Schüler mit unzumutbaren Schulwegen, die topographischen Voraussetzungen und die Siedlungsstruktur.
 2 Die Beiträge betragen 30 bis 50 Prozent der Kosten von effizient durchgeführten Schülertransporten.
 3 In Einzelfällen kann die zuständige Stelle der Erziehungsdirektion die Beiträge erhöhen oder den Kreis der berechtigten Gemeinden ausweiten, wenn
