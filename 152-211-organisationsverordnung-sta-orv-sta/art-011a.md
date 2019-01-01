@@ -1,6 +1,6 @@
 # Art. 11a Amt für Regierungsunterstützung und politische Rechte (ARP)
 1 Das Amt für Regierungsunterstützung und politische Rechte
-a unterstützt die Staatsschreiberin oder den Staatsschreiber bei der rechtlichen Beurteilung der Regierungsgeschäfte;
+a unterstützt die Staatsschreiberin oder den Staatsschreiber bei der rechtlichen Beurteilung der Regierungsratsgeschäfte;
 b unterstützt die Staatsschreiberin oder den Staatsschreiber im Bereich der politischen Gesamtplanung;
 c koordiniert den Geschäftsverkehr zwischen Kantonsverwaltung, Regierungsrat, Grossem Rat sowie den Ratsorganen;
 d wirkt bei der Planung und Dokumentation der Sessionen des Grossen Rates mit und unterstützt den Grossen Rat, seine Organe und die Parlamentsdienste in weiteren wichtigen Belangen;
