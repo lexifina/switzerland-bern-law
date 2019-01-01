@@ -5,6 +5,7 @@
 ### 2.1. Familienausgleichskassen im Sinne von Artikel 14 Buchstaben a und c FamZG
 ### 2.2 Familienausgleichskasse des Kantons Bern
 ### 2.3 Gemeinsame Bestimmungen
+## 2a Lastenausgleich
 ## 3 Vollzug
 ## 4 Übergangsbestimmungen
 ## 5 Schlussbestimmungen
