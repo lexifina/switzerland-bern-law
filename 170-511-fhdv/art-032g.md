@@ -15,4 +15,4 @@ e Stimmenanteil der Gemeinde,
 f wesentliche weitere Beteiligte,
 g wesentliche eigene Beteiligungen der Organisation und Aussagen zur konsolidierten Jahresrechnung,
 h Zahlungsströme im Berichtsjahr zwischen Gemeinde und Organisation und
-i Aussagen zu den spezifischen Risiken, einschliesslich Eventual- und Gewährleistungsverpflichtungen der Organisation.
+i Aussagen zu den spezifischen Risiken einschliesslich Eventual- und Gewährleistungsverpflichtungen der Organisation.
