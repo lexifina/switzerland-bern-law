@@ -20,11 +20,12 @@
 #### 3.3.2 Hauptamtliche Dozentinnen und Dozenten
 #### 3.3.3 Assistenzprofessorinnen und Assistenzprofessoren mit Tenure Track
 #### 3.3.4 Assistenzprofessorinnen und Assistenzprofessoren
+#### 3.3.4a Assistenzdozentinnen und Assistenzdozenten mit Tenure Track
 #### 3.3.5 Oberärztinnen I und Oberärzte I sowie Lehrbeauftragte
 #### 3.3.6 Gastdozentinnen und Gastdozenten
 #### 3.3.7 Assistentinnen und Assistenten
 ##### 3.3.7.1 Gemeinsame Bestimmungen
-##### 3.3.7.2 Oberassistentinnen und Oberassistenten, Oberärztinnen II und Oberärzte II, wissenschaftliche Assistentinnen und Assistenten mit Dissertation sowie Assistenzärztinnen und Assistenzärzte
+##### 3.3.7.2 Oberassistentinnen und Oberassistenten, Oberärztinnen II und Oberärzte II, wissenschaftliche Assistentinnen und Assistenten mit Dissertation, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
 ##### 3.3.7.3 Wissenschaftliche Assistentinnen und Assistenten
 ##### 3.3.7.4 Doktorandinnen und Doktoranden
 ##### 3.3.7.5 Hilfsassistentinnen und Hilfsassistenten
