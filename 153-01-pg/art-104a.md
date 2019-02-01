@@ -1,3 +1,4 @@
 # Art. 104a 2. bei Ansprüchen gegen Organisationen oder Personen ausserhalb der Kantonsverwaltung
 1 Hat sich der anspruchsbegründende Sachverhalt im Rahmen der Aufgabenerfüllung einer Organisation oder Person gemäss Artikel 101 ereignet, so sind Begehren auf Schadenersatz oder Genugtuung an die jeweilige Organisation oder Person zu richten. Diese erlässt eine Verfügung.
 2 Gegen die Verfügung kann beim Verwaltungsgericht Beschwerde nach den Vorschriften des VRPG geführt werden.
+3 Ansprüche auf Schadenersatz oder Genugtuung gegen die im Kanton gelegenen Listenspitäler und Listengeburtshäuser sowie gegen die im Kanton zugelassenen Rettungsdienste sind durch Klage beim Regionalgericht geltend zu machen. Das Verfahren richtet sich nach der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO).
