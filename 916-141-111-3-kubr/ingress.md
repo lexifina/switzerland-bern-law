@@ -7,11 +7,13 @@ Rebgesellschaft Bielersee
 Haus des Bielersee Weines
 Moos 3
 2513 Twann
-Rebgesellschaft Thunersee–Bern
-per Adr. Rebbau Steffisburg
-Ortbühlweg 53
-3612 Steffisburg
+Rebgesellschaft Thunersee-Bern
+c/o Weinmanufaktur Bern
+Dählhölzliweg 1
+3005 Bern
 Kantonales Amt für Landwirtschaft und Natur
 Inforama Oeschberg
 Fachstelle für Rebbau
 3425 Koppigen
+Homepage:
+https://www.inforama.ch/beratung/pflanzenbau-tierhaltung/rebbau/kontrollierte-ursprungsbezeichnung-kub-aoc
