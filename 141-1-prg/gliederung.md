@@ -43,5 +43,6 @@
 ## 8 Vollzug
 ## 9 Strafbestimmungen
 ## 10 Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 19.11.2018
 ## A1 Anhang 1: zu Artikel 63 Absatz 1
 ## A2 Anhang 2: zu Artikel 63 Absatz 1
