@@ -20,3 +20,4 @@
 ### 4.3 Gemeinsame Vorschriften
 ## 5 Volksbegehren
 ## 6 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 24.04.2019
