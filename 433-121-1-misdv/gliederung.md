@@ -21,6 +21,7 @@
 #### 2.2.2 Bildungsgänge, die zu einer zweisprachigen Maturität führen
 #### 2.2.3 Bildungsgänge, die besondere Begabungen unterstützen
 #### 2.2.4 Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind
+#### 2.2.5 Basale fachliche Studierkompetenzen
 ### 2.3 Maturaarbeit und Maturitätsprüfungen
 ## 3 Fachmittelschulbildungsgänge
 ### 3.1 FMS-Bildungsgang
@@ -46,6 +47,7 @@
 ### 6.1 Finanzierung von Mensen und Internaten
 ### 6.2 Entschädigungen und Spesen
 ## 7 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderung vom 26.06.2019
 ## A1 Anhang 1: Zeugnisbemerkungen (Artikel 15 und Artikel 18)
 ## A2 Anhang 2: Einzelheiten zum Empfehlungsverfahren für den Besuch des ersten Jahrs des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 24)
 ## A3 Anhang 3: Prüfungsverfahren für die Aufnahme in das erste Jahr des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 25)
