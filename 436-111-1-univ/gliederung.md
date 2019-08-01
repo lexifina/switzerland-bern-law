@@ -25,7 +25,8 @@
 #### 3.3.6 Gastdozentinnen und Gastdozenten
 #### 3.3.7 Assistentinnen und Assistenten
 ##### 3.3.7.1 Gemeinsame Bestimmungen
-##### 3.3.7.2 Oberassistentinnen und Oberassistenten, Oberärztinnen II und Oberärzte II, wissenschaftliche Assistentinnen und Assistenten mit Dissertation, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
+###### 3.3.7.1a Postdoktorandinnen und Postdoktoranden
+##### 3.3.7.2 Oberärztinnen II und Oberärzte II, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
 ##### 3.3.7.3 Wissenschaftliche Assistentinnen und Assistenten
 ##### 3.3.7.4 Doktorandinnen und Doktoranden
 ##### 3.3.7.5 Hilfsassistentinnen und Hilfsassistenten
@@ -49,5 +50,6 @@
 ## 8 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 22.06.2016
 ## T2 Übergangsbestimmung der Änderung vom 06.12.2017
+## T3 Übergangsbestimmung der Änderung vom 19.12.2018
 ## A1 …
 ## A2 zu Artikel 11 Zulassung ausländischer Studienanwärterinnen und Studienanwärter zum Medizinstudium
