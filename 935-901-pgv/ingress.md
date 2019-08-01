@@ -1,4 +1,4 @@
-# Verordnung über das Prostitutionsgewerbe
+# Prostitutionsgewerbeverordnung
 (PGV)
 vom 05.12.2012
 Der Regierungsrat des Kantons Bern,
