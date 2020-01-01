@@ -1,4 +1,4 @@
-## 1 Aufgaben der Polizei- und Militärdirektion
+## 1 Aufgaben der Sicherheitsdirektion
 ## 2 Gliederung
 ## 3 Führung
 ## 4 Aufgaben der Organisationseinheiten
