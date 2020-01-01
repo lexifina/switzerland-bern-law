@@ -1,4 +1,4 @@
-Bern, 17. Oktober 2007
+Bern, 20. November 2019
 Im Namen des Regierungsrates
-Der Präsident: Gasche
-Der Staatsschreiber: Nuspliger
+Der Präsident: Ammann
+Der Staatsschreiber: Auer
