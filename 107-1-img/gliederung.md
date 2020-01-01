@@ -7,6 +7,7 @@
 ### 2.3 Justizbehörden
 ### 2.4 Gemeindeversammlungen und Gemeindebehörden
 ### 2.5 Gemeindeverbindungen
+### 2.6 Landeskirchen
 ## 3 Information der Bevölkerung
 ### 3.1 Grundsätze
 ### 3.2 Information von Amtes wegen
