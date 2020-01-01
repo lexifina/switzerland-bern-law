@@ -1,0 +1,2 @@
+# Art. 17a Alarmierung und Einsatzdisposition
+1 Die zuständige Stelle der Volkswirtschaftsdirektion schliesst mit den Trägerinnen und Trägern geeigneter Feuerwehren die Leistungsverträge ab, die für den Einsatz von fachlich qualifizierten Mitarbeiterinnen und Mitarbeitern in der kantonalen Alarm- und Einsatzzentrale gemäss Artikel 66 Absatz 1 des Polizeigesetzes vom 10. Februar 2019 (PolG) erforderlich sind.
