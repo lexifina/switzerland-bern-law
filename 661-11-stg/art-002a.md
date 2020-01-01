@@ -1,0 +1,5 @@
+# Art. 2a Finanzieller Ausgleich für die Gemeinden und Kirchgemeinden
+1 Der Kanton überweist den Gemeinden (Art. 247 Abs. 1) jeweils 1,4 Prozent der eingegangenen Steuerbeträge, Bussen und Zinsen gemäss Artikel 196 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG).
+2 Der Anteil pro Gemeinde richtet sich nach deren Anteil am Total der fakturierten Gewinnsteuern sämtlicher Gemeinden sowie der Höhe des Anteils der Gewinn- und Kapitalsteuern am Gesamtsteuerertrag in der Gemeinde. Zur Bestimmung des Gemeindeanteils im Kalenderjahr n werden die Verhältnisse in den Kalenderjahren n – 6 bis n – 2 berücksichtigt.
+3 Der Anteil der Gemeinde am Total der fakturierten Gewinnsteuern sämtlicher Gemeinden wird mit 100 Prozent, die Höhe des Anteils der Gewinn- und Kapitalsteuern am Gesamtsteuerertrag in der Gemeinde mit 25 Prozent gewichtet.
+4 Der Kanton überweist den Kirchgemeinden (Art. 10 ff. des Gesetzes vom 21. März 2018 über die bernischen Landeskirchen [Landeskirchengesetz, LKG]) jeweils 0,2 Prozent der eingegangenen Steuerbeträge, Bussen und Zinsen gemäss Artikel 196 DBG. Absatz 2 gilt sinngemäss.

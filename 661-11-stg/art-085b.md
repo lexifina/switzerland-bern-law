@@ -1,0 +1,5 @@
+# Art. 85b 2. Besteuerung
+1 Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag der steuerpflichtigen Person im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwands zum gesamten Forschungs- und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit einer Ermässigung von 90 Prozent in die Berechnung des steuerbaren Reingewinns einbezogen.
+2 Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um sechs Prozent der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
+3 Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals ermässigt besteuert (Boxeneintritt), werden der in vergangenen Steuerperioden bereits berücksichtigte Forschungs- und Entwicklungsaufwand sowie ein allfälliger Abzug nach Artikel 90 Absatz 3 im Umfang von 70 Prozent gesondert besteuert. Der Steuersatz zur Berechnung der einfachen Steuer beträgt 0,5 Prozent.
+4 Der Regierungsrat erlässt die Ausführungsbestimmungen durch Verordnung.

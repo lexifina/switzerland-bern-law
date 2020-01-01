@@ -29,7 +29,7 @@
 ### 3.5 Ausführungsbestimmungen
 ## 4 Quellensteuer für natürliche und juristische Personen
 ### 4.1 Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt in der Schweiz
-### 4.2 Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+### 4.2 Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 ## 5 Grundstückgewinnsteuer
 ### 5.1 Steuerpflicht und Gegenstand der Steuer
 #### 5.1.1 Allgemeines
@@ -85,3 +85,4 @@
 ## T4 Übergangsbestimmungen der Änderung vom 23.09.2012
 ## T5 Übergangsbestimmungen der Änderung vom 26.03.2013
 ## T6 Übergangsbestimmung der Änderung vom 09.06.2016
+### T7 Übergangsbestimmungen der Änderung vom 09.03.2020
