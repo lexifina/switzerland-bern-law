@@ -1,4 +1,4 @@
 # Art. 36h Auszahlung
-1 Die Beiträge werden nach Massgabe der vorhandenen Fondsmittel und entsprechend dem Baufortschritt in angemessenen Abschlagszahlungen ausbezahlt.
-2 Das AWA belegt die Abschlagszahlungen mit einem angemessenen Rückbehalt, der in der Regel erst mit der Genehmigung der Schlussabrechnung freigegeben wird.
-3 Die Schlusszahlung erfolgt auf Grund der genehmigten Schlussabrechnung. Für teuerungsbedingte Mehrkosten wird der Beitrag ohne Nachsubventionsgesuch ausbezahlt, sofern sie ausgewiesen werden.
+1 Der Beitrag wird nach Massgabe der vorhandenen Fondsmittel und nach Genehmigung der Schlussabrechnung ausbezahlt.
+2 Teilzahlungen können entsprechend dem Baufortschritt und nach Massgabe der vorhandenen Fondsmittel ausbezahlt werden.
+3 Für teuerungsbedingte Mehrkosten wird der Beitrag ohne Nachsubventionsgesuch ausbezahlt, sofern sie ausgewiesen sind.
