@@ -1,5 +1,5 @@
 # Art. 40a Anfangsgehalt in einer Einstiegsstufe
-1 Für Mitarbeiterinnen und Mitarbeiter ohne berufliche Praxis gelten die unter Absatz 3 bis 5 aufgeführten Anfangsgehälter. Vorbehalten bleibt ein Stufenabzug gemäss Artikel 41.
+1 Für Stellen im Sinn der nachfolgenden Absätze kommen Einstiegsstufen zur Anwendung. Es wird unter Vorbehalt von Artikel 41 jeweils festgelegt, welche Einstiegsstufe als Anfangsgehalt gilt.
 2 Bei Stellen, für die keine Berufsausbildung, eine Kurzlehre oder eine Anlehre von weniger als drei Jahren erforderlich ist, wird das Anfangsgehalt in die 6. Einstiegsstufe der jeweiligen Gehaltsklasse festgelegt. Das Grundgehalt der Gehaltsklasse 1 darf nicht unterschritten werden.
 3 Bei Stellen, für die eine drei- oder vierjährige kaufmännische, handwerkliche oder technische Berufslehre erforderlich ist, wird das Anfangsgehalt in die 6. Einstiegsstufe der jeweiligen Gehaltsklasse festgelegt.
 4 Bei Stellen, für die als Erstausbildung eine höhere Fachschule erforderlich ist, gilt folgende Einreihung in die Gehaltsklasse als Anfangsgehalt:

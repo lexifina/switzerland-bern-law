@@ -43,12 +43,14 @@
 ## 6 Arbeitszeit, Ferien, Urlaub
 ### 6.1 Arbeitszeit
 #### 6.1.1 Allgemeine Bestimmungen
+#### 6.1.1a Arbeitszeitmodelle
 #### 6.1.2 Teilzeitarbeit
 #### 6.1.3 Jobsharing
 ### 6.2 Ferien
 ### 6.3 Arbeitsfreie Tage
 ### 6.4 Urlaub
 ### 6.5 Langzeitkonti (LZK)
+### 6.6 Zeitguthaben bei Reorganisationen
 ## 7 Mitarbeiterförderung
 ### 7.1 Mitarbeitergespräch
 ### 7.2 Aus- und Weiterbildung
@@ -76,3 +78,4 @@
 ## T3 Übergangsbestimmungen der Änderung vom 17.10.2012
 ## T4 Übergangsbestimmungen der Änderung vom 28.10.2015
 ## T5 Übergangsbestimmungen der Änderungen vom 9.11.2016
+## T6 Übergangsbestimmungen der Änderung vom 06.11.2019

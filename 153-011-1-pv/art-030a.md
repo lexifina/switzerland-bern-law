@@ -5,5 +5,5 @@
 a die Direktionen und die Staatskanzlei nach Anhörung der Finanzdirektion und unter Vorbehalt der Genehmigung durch den Regierungsrat für die in den Organisationsverordnungen aufgeführten Kaderstellen der Direktionen und der Staatskanzlei und für die in der besonderen Gesetzgebung bezeichneten Stellen,
 b die Direktionen und die Staatskanzlei im Einvernehmen mit dem Personalamt für alle übrigen Stellen in ihrem Zuständigkeitsbereich, unter Vorbehalt von Buchstabe d,
 c die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft für ihren jeweiligen Bereich nach Anhörung des Personalamts sowie
-d die Finanzdirektion im Einvernehmen mit der Justiz-, Gemeinde- und Kirchendirektion für alle Stellen gemäss Buchstabe b im Zuständigkeitsbereich der Finanzdirektion.
-4 Das Personalamt bzw. die Justiz-, Gemeinde- und Kirchendirektion ist einzubeziehen, sobald sich eine einvernehmliche Auflösung abzeichnet.
+d die Finanzdirektion im Einvernehmen mit der Direktion für Inneres und Justiz für alle Stellen gemäss Buchstabe b im Zuständigkeitsbereich der Finanzdirektion.
+4 Das Personalamt bzw. die Direktion für Inneres und Justiz ist einzubeziehen, sobald sich eine einvernehmliche Auflösung abzeichnet.
