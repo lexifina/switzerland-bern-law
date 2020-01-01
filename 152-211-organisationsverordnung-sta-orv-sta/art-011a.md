@@ -14,4 +14,5 @@ l betreut unter Beizug der anderen Ämter das Mitberichts- und Vernehmlassungsve
 m betreut die Informatik der Staatskanzlei, einschliesslich Fragen des Datenschutzes in diesem Bereich;
 n führt den Empfang und beglaubigt amtliche und notarielle Unterschriften;
 o besorgt den Verkauf von ausgewählten kantonalen Drucksachen;
-p koordiniert im Auftrag der Staatsschreiberin oder des Staatsschreibers ämterübergreifende Geschäfte und Gremien.
+p koordiniert im Auftrag der Staatsschreiberin oder des Staatsschreibers ämterübergreifende Geschäfte und Gremien;
+q organisiert den regelmässigen Austausch unter den Vorsteherinnen und Vorstehern der Rechtsämter und der Rechtsdienste der Direktionen.

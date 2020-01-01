@@ -19,5 +19,5 @@ q sorgt für die integrierte Aufgaben- und Ressourcenplanung innerhalb der Staat
 r führt die Zentrale Beschaffungsstelle Büromaterial und Print (ZBS BP);
 s ist kantonal zuständig für die zentrale Beschaffung von Büromaterial, Drucksachen, Fachliteratur und Presseerzeugnissen sowie Post- und Kurierdienstleistungen;
 t besorgt die Rathausverwaltung und stellt die Weibeldienste sicher;
-u stellt die Aufsicht über die Amtsblätter sicher.
+u stellt die Herausgabe des Amtsblatts und die Aufsicht über das Amtsblatt sicher.
 2 Der Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit erfüllt seine Aufgaben fachlich selbstständig und unabhängig, soweit diese den Bereich der begleitenden Rechtsetzung betreffen.
