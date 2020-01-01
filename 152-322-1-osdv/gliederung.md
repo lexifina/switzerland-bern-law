@@ -6,4 +6,4 @@
 ### 3.3 Informatik
 ### 3.4 Infrastruktur und Logistik
 ### 3.5 Ausbildung
-## 4 Zuständigkeit der Justiz-, Gemeinde- und Kirchendirektion
+## 4 Zuständigkeit der Direktion für Inneres und Justiz

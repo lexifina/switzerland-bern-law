@@ -1,4 +1,4 @@
-## 1 Aufgaben der Justiz-, Gemeinde- und Kirchendirektion
+## 1 Aufgaben der Direktion für Inneres und Justiz
 ## 2 Gliederung
 ## 3 Führung
 ## 4 Aufgaben des Generalsekretariats und der Ämter
