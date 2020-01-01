@@ -1,4 +1,4 @@
-## 1 Aufgaben der Erziehungsdirektion
+## 1 Aufgaben der Bildungs- und Kulturdirektion
 ## 2 Gliederung
 ## 3 Führung
 ## 4 Aufgaben der Organisationseinheiten
