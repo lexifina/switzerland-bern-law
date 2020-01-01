@@ -1,3 +1,2 @@
-Bern, 18. April 2007
-Die Bau-, Verkehrs- und Energiedirektorin:
-Egger-Jenzer
+Bern, 9. Januar 2020
+Der Bau- und Verkehrsdirektor: Neuhaus
