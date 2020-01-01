@@ -1,6 +1,7 @@
-# Dekret über die amtliche Bewertung der Grundstücke und Wasserkräfte
-vom 22.01.1997
+# Dekret über die allgemeine Neubewertung der nichtlandwirtschaftlichen Grundstücke und Wasserkräfte
+(AND)
+vom 21.03.2017
 Der Grosse Rat des Kantons Bern,
-gestützt auf Artikel 109 des Gesetzes vom 29. Oktober 1944 über die direkten Staats- und Gemeindesteuern (StG),
+gestützt auf Artikel 182 Absatz 1 des Steuergesetzes vom 21. Mai 2000 (StG),
 auf Antrag des Regierungsrates,
 beschliesst:

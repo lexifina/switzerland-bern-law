@@ -1,4 +1,4 @@
-Bern, 22. Januar. 1997
+Bern, 21. März 2017
 Im Namen des Grossen Rates
-Der Präsident: Kaufmann
-Der Staatsschreiber: Nuspliger
+Der Präsident: Reinhard
+Der Generalsekretär: Trees
