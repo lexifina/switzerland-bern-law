@@ -2,6 +2,7 @@
 ### 1.1 Gegenstand, Geltungsbereich und Begriffe
 ### 1.2 Grundsätze der Personalpolitik
 ### 1.3 Mitwirkung und Sozialpartnerschaft
+### 1.4 Datenbearbeitung bei der Nutzung elektronischer Infrastruktur
 ## 2 Begründung, Änderung und Beendigung des Arbeitsverhältnisses
 ### 2.1 Allgemeine Bestimmungen
 ### 2.2 Arbeitsverhältnis der Angestellten
@@ -35,4 +36,5 @@
 ## 9 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 02.04.2008
 ## T2 Übergangsbestimmungen der Änderung vom 13.06.2018
+## T3 Übergangsbestimmungen der Änderung vom 07.03.2018
 ## A1 Anhang 1: zu Artikel 69
