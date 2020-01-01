@@ -23,6 +23,7 @@
 ### 6.2 Bewirtschaftung des Staatswaldes
 ### 6.3 Beratung und Arbeiten für Dritte
 ### 6.4 Forstliche Bildung
-### 6.5 Kantonales Personal für die Waldpflege
+### 6.5 …
 ### 6.6 Weitere Aufgaben
 ## 7 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 23.10.2019
