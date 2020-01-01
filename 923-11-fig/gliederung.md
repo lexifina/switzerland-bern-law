@@ -5,7 +5,7 @@
 ### 2.3 Ausübung der Fischerei
 ### 2.4 Bewirtschaftung, Aufzucht und Besatz
 ### 2.5 Grundlagenbeschaffung
-## 3 Fischereiregal
+## 3 Fischereiregal und Hegebeitrag
 ## 4 Förderung der Fischerei
 ## 5 Aufsichtsorgane und Fischereikommission
 ## 6 Schädigende Einwirkungen
