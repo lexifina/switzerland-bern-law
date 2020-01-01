@@ -9,7 +9,7 @@
 ### 2.1 Allgemeines
 ### 2.2 Zentralverwaltung
 #### 2.2.1 Allgemeines
-#### 2.2.2 Direktionen und Staatskanzlei
+#### 2.2.2 …
 ### 2.2.3 Planung, Koordination und externes Fachwissen
 ### 2.3 Amtsbezirke
 ### 2.4 Dezentrale kantonale Verwaltung
@@ -20,5 +20,6 @@
 ### 3.3 Vertretungen
 ### 3.4 Qualitätssicherung
 ## 4 Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderung vom 05.06.2019
 ## A1 zu Artikel 38
 ## A2 zu Artikel 39a
