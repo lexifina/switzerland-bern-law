@@ -7,4 +7,4 @@
 ## 7 Trinkwasserversorgung in Notlagen
 ## 8 Vollzug und Rechtspflege
 ## 9 Schlussbestimmungen
-## T1 Übergangsbestimmung zur Änderung vom 7.6.2001
+## T1 …
