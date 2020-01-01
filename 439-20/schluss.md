@@ -1,4 +1,4 @@
-Bern, 17. Juni 1997
-Im Namen des Grossen Rates
-Der Präsident: Seiler
-Der Vizestaatsschreiber: Krähenbühl
+Bern, 11. Dezember 2020
+Im Namen des Regierungsrates
+Der Präsident: Ammann
+Der Staatsschreiber: Auer
