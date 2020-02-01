@@ -5,4 +5,4 @@ b Koordination und Information,
 c Umsetzung des regionalen Förderprogramms (jährliche Berichterstattung und Aktualisierung),
 d Projektentwicklung.
 2 Die Höhe der Staatsbeiträge nach Absatz 1 richtet sich nach der Anzahl der Gemeinden in der Region, der Anzahl und Bedeutung der Projekte im regionalen Förderprogramm sowie den Eigenleistungen der Planungsregion bzw. Regionalkonferenz.
-3 Die Staatsbeiträge nach diesem Artikel werden gestützt auf entsprechende Leistungsvereinbarungen durch die zuständige Stelle der Volkswirtschaftsdirektion ausgerichtet.
+3 Die Staatsbeiträge nach diesem Artikel werden gestützt auf entsprechende Leistungsvereinbarungen durch die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ausgerichtet.
