@@ -1,0 +1,7 @@
+# Art. 120b Ausgleich von Planungsvorteilen
+1 Alle Verfügungen und Beschlüsse im Zusammenhang mit dem Ausgleich von Planungsvorteilen eröffnet die Gemeinde dem Amt für Gemeinden und Raumordnung.
+2 Alle Entscheide über die Nichterhebung der Mehrwertabgabe gegenüber Dritten, die in Erfüllung von ihnen übertragenen öffentlich-rechtlichen Aufgaben von der Mehrwertabgabe befreit sind (Art. 142 Abs. 2 BauG), teilt die Gemeinde dem zuständigen Bundesamt mit.
+3 Alle Verträge zum Ausgleich von Planungsvorteilen bei der Zuweisung von Land in Materialabbau- und Deponiezonen bringt die Gemeinde dem Amt für Gemeinden und Raumordnung unmittelbar nach deren Unterzeichnung zur Kenntnis.
+4 Vom planungsbedingten Mehrwert, der mit einer anerkannten Methode bestimmt wird, und der gestützt darauf erhobenen Mehrwertabgabe werden keine Abzüge zugelassen. Vorbehalten bleiben Kürzungen gemäss Artikel 142b Absatz 2 des Baugesetzes sowie abweichende vertragliche Regelungen bei der Zuweisung von Land in Materialabbau- und Deponiezonen.
+5 Die Mehrwertabgabe für einen planungsbedingten Mehrwert auf einem gemeindeeigenen Grundstück, das nicht unmittelbar öffentlichen Zwecken dient, sowie der dem Kanton zufallende Anteil werden vom Gemeinderat mit Beschluss festgelegt.
+6 Die Nichterhebung der Mehrwertabgabe in den Fällen nach Artikel 142 Absatz 2 und Artikel 142a Absätze 4 und 5 des Baugesetzes wird vom Gemeinderat verfügt. Ist ein gemeindeeigenes Grundstück betroffen, stellt der Gemeinderat die Nichterhebung mit Beschluss fest.
