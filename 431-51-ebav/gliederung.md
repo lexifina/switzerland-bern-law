@@ -8,7 +8,7 @@
 ## 3 Diplomierung
 ## 4 Anerkennung anderer Ausbildungen
 ## 5 Organisation und Aufgaben
-### 5.1 Erziehungsdirektion
+### 5.1 Bildungs- und Kulturdirektion
 ### 5.2 Amt für Kindergarten,Volksschule und Beratung
 ### 5.3 Ausbildungskommission für Erziehungsberaterinnen-Schulpsychologinnen und Erziehungsberater-Schulpsychologen
 ### 5.4 Leiterinnen und Leiter der Ausbildung
