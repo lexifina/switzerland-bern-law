@@ -20,4 +20,5 @@
 ### 5.4 Rechte und Pflichten der Kommissionsmitglieder
 ## 6 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 23.05.2018
+## T2 Übergangsbestimmung der Änderung vom 27.11.2019
 ## A1 Anhang 1: zu Artikel 10
