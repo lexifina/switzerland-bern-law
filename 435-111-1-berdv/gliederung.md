@@ -36,3 +36,4 @@
 ## T2 Übergangsbestimmungen der Änderung vom 18.06.2013
 ## T3 Übergangsbestimmungen der Änderung vom 12.12.2014
 ## T4 Übergangsbestimmungen der Änderung vom 1.5.2015
+## T5 Übergangsbestimmungen der Änderung vom 19.5.2020
