@@ -1,3 +1,6 @@
-# Art. 17a Rückkehrklassen
-1 In ausserordentlichen Situationen kann die Erziehungsdirektion den Gemeinden bewilligen, für vorübergehend in der Schweiz sich aufhaltende schulpflichtige Kinder zusätzliche Klassen (Rückkehrklassen) zu führen oder andere Massnahmen zur Vorbereitung auf die Rückkehr zu treffen.
+# Art. 17a Klassen im Asyl- und Flüchtlingsbereich
+1 Aus wichtigen Gründen kann die Bildungs- und Kulturdirektion den Gemeinden bewilligen, für die Schulung von schulpflichtigen Kindern aus dem Asyl- und Flüchtlingsbereich zusätzliche Klassen zu führen oder andere schulische Massnahmen im Hinblick auf den Verbleib der Kinder in der Schweiz oder auf deren Rückkehr zu treffen.
 2 Die Bewilligung ist zu befristen.
+3 Auf begründetes Gesuch der Gemeinde kann der Kanton für schulpflichtige Kinder, die sich in den Zentren des Bundes sowie in den kantonalen Kollektivunterkünften, in denen nur die Nothilfe gewährt wird, aufhalten, die Klassen führen oder Dritte mit der Führung beauftragen.
+4 Der Regierungsrat kann durch Verordnung für Klassen nach Absatz 1 und 3 Abweichungen von den Bestimmungen dieses Gesetzes vorsehen, insbesondere zum Schuljahr oder zur Schulzeit, zur Unterrichtssprache, zum obligatorischen und fakultativen Unterricht, zum Lehrplan sowie zur Beurteilung.
+5 Die Lehrergehaltskosten werden, nach Abzug der Beiträge des Bundes nach Artikel 80 Absatz 4 des Asylgesetzes vom 26. Juni 1998 (AsylG), gemäss dem Lastenausgleich Lehrergehälter vom Kanton und von den Gemeinden getragen. Die übrigen Kosten werden vom Kanton getragen.

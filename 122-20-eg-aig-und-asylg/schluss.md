@@ -1,6 +1,6 @@
-Bern, 20. Januar 2009
+Bern, 9. Dezember 2019
 Im Namen des Grossen Rates
-Die Präsidentin: Loosli-Amstutz
-Der Vizestaatsschreiber: Krähenbühl
-RRB Nr. 1259 vom 1. Juli 2009:
-Inkraftsetzung auf den 1. Januar 2010
+Der Präsident: Zaugg-Graf
+Der Generalsekretär: Trees
+RRB Nr. 592 vom 20. Mai 2020:
+Inkraftsetzung auf den 1. Juli 2020
