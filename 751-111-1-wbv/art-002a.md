@@ -1,6 +1,6 @@
 # Art. 2a Zuständigkeiten
-1 Innerhalb der Bau-, Verkehrs- und Energiedirektion ist das Amt für Wasser und Abfall für die Wasserstandsregulierung gemäss Artikel 4 Absatz 3 WBG und für die Wasserbaupflicht an den Gewässern der I. und II. Juragewässerkorrektion zuständig.
-2 Das Tiefbauamt ist für alle übrigen Wasserbauaufgaben der Bau-, Verkehrs- und Energiedirektion zuständig, namentlich:
+1 Innerhalb der Bau- und Verkehrsdirektion ist das Amt für Wasser und Abfall für die Wasserstandsregulierung gemäss Artikel 4 Absatz 3 WBG und für die Wasserbaupflicht an den Gewässern der I. und II. Juragewässerkorrektion zuständig.
+2 Das Tiefbauamt ist für alle übrigen Wasserbauaufgaben der Bau- und Verkehrsdirektion zuständig, namentlich:
 a es genehmigt die Reglemente der Gemeindeverbände (Art. 11 Abs. 2 WBG),
 b es entscheidet über die Anordnung des Zusammenschlusses zu einem Gemeindeverband, die Entlassung einzelner Gemeinden oder Schwellenkorporationen aus dem Gemeindeverband und die Auflösung des Gemeindeverbandes (Art. 11a WBG),
 c es genehmigt die Reglemente der Schwellenkorporationen (Art. 12 Abs. 3 WBG),
@@ -18,4 +18,4 @@ o es ordnet die Einstellung der Arbeiten und die Wiederherstellung des rechtmäs
 p es übt die Wasserbaupolizei aus (Art. 47 WBG),
 q …
 r es erteilt Konzessionen oder Bewilligungen nach Artikel 49 WBG.
-3 Das Fischereiinspektorat und die Abteilung Naturförderung sind die nach Artikel 20 Absatz 2 Buchstabe b des Wasserbaugesetzes zuständigen Stellen der Volkswirtschaftsdirektion.
+3 Das Fischereiinspektorat und die Abteilung Naturförderung sind die nach Artikel 20 Absatz 2 Buchstabe b WBG zuständigen Stellen der Wirtschafts-, Energie- und Umweltdirektion.

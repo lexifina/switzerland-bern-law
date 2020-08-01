@@ -1,7 +1,7 @@
 # Art. 5d Landumlegungsverfahren 1 Voraussetzungen und Verfahren
 1 Zum Landerwerb wird das Verfahren für Boden- und Waldverbesserungen oder für die Umlegung von Bauland angewendet, wenn und soweit dies im Interesse des Wasserbaus liegt oder nötig ist, um Beeinträchtigungen der bestimmungsgemässen Benützung des Bodens durch den Wasserbau zu beheben.
-2 Die Bau-, Verkehrs- und Energiedirektion kann verlangen, dass die für den Wasserbau notwendigen Landumlegungen durchgeführt werden. Ihr Begehren stellt einen wichtigen Grund im Sinne von Artikel 8 Absatz 1 des Gesetzes vom 16. Juni 1997 über das Verfahren bei Boden- und Waldverbesserungen (VBWG) für die Durchführung eines Unternehmens von Amtes wegen dar.
-3 Die Bau-, Verkehrs- und Energiedirektion kann verlangen, dass
+2 Die Bau- und Verkehrsdirektion kann verlangen, dass die für den Wasserbau notwendigen Landumlegungen durchgeführt werden. Ihr Begehren stellt einen wichtigen Grund im Sinne von Artikel 8 Absatz 1 des Gesetzes vom 16. Juni 1997 über das Verfahren bei Boden- und Waldverbesserungen (VBWG) für die Durchführung eines Unternehmens von Amtes wegen dar.
+3 Die Bau- und Verkehrsdirektion kann verlangen, dass
 a Grundstücke des Gemeinwesens einzuwerfen sind,
 b von den einbezogenen Grundstückflächen angemessene Abzüge zu machen sind und daraus das für den Wasserbau erforderliche Land vom Landumlegungsunternehmen gegen Ersatz des Verkehrswertes zur Verfügung zu stellen ist,
 c infolge des Wasserbaus entstandene Mehrwerte von Grundstücken an die Entschädigung angerechnet werden.
