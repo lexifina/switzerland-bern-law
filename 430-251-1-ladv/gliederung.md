@@ -3,7 +3,7 @@
 ### 1.2 Anstellung für Stellvertretungen
 ### 1.2a Anstellung für Fachreferentinnen und Fachreferenten
 ### 1.2b Anstellung von Klassenhilfen
-### 1.2c Ferienanteil bei befristeten Anstellungsverhältnissen
+### 1.2c Ferienanteil
 ### 1.3 Weiterbildung bei Auflösung des Anstellungsverhältnisses infolge von Reorganisation
 ## 1a Sondereinstufung
 ## 2 Besondere Leistungen
