@@ -11,3 +11,4 @@
 ### 8.1 Strafbestimmungen
 ### 8.2 Rechtspflege
 ## 9 Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 26.11.2019
