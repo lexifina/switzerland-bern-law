@@ -1,6 +1,6 @@
-# Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten
-vom 15.06.2005
+# Grossratsbeschluss betreffend den Beitritt zum Gesamtschweizerischen Geldspielkonkordat (GSK)
+vom 10.03.2020
 Der Grosse Rat des Kantons Bern,
-gestützt auf Artikel 74 Absatz 2 der Kantonsverfassung,
+gestützt auf Artikel 74 Absatz 2 der Kantonsverfassung (KV),
 auf Antrag des Regierungsrates,
 beschliesst:
