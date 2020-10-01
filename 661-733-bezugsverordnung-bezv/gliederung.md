@@ -8,4 +8,4 @@
 ## 8 Steuerfremde Forderungen
 ## 9 Entschädigung
 ## 10 Schlussbestimmungen
-## A1 Anhang 1: Art 12 Abs. 1
+## A1 Anhang 1 zu Artikel 12 Absatz 1
