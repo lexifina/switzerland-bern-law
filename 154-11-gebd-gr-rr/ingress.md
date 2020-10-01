@@ -2,6 +2,6 @@
 (GebD GR/RR)
 vom 15.01.1996
 Der Grosse Rat des Kantons Bern,
-gestützt auf Artikel 39 Buchstabe b und Artikel 42 Absatz 3 des Gesetzes vom 10. November 1987 über den Finanzhaushalt (Finanzhaushaltgesetz, FHG),
+gestützt auf Artikel 68 und Artikel 75 Absatz 2 Buchstabe b des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG),
 auf Antrag des Regierungsrates,
 beschliesst:
