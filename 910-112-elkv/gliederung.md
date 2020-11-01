@@ -18,4 +18,4 @@
 ## T5 Übergangsbestimmung der Änderung vom 12.03.2008
 ## T6 Übergangsbestimmung der Änderung vom 14.12.2016
 ## T7 Übergangsbestimmung der Änderung vom 23.10.2019
-## A1 Anhang 1: zu Artikel 23
+## A1 …
