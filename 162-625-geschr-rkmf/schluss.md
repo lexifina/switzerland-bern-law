@@ -1,4 +1,4 @@
-Bern, den 1. Oktober 2010
+Bern, 16. September 2020
 Im Namen der Rekurskommission des Kantons Bern für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern
-Der Präsident: Reusser
-Genehmigt durch das Verwaltungsgericht am 13. Januar 2011
+Der Präsident: Wollmann
+Genehmigt durch das Verwaltungsgericht am 17. September 2020
