@@ -1,36 +1,29 @@
-## 1 Geltungsbereich
-## 2 Durchführung von Lotterien und gleichgestellten Veranstaltungen
-### 2.1 Allgemeine Bestimmungen
-### 2.2 …
-### 2.3 …
-### 2.4 Lotterien nach eidgenössischem Recht
-#### 2.4.1 Begriff
-#### 2.4.2 Ausgabe von Lotterien im Kanton Bern
-#### 2.4.3 Durchführung ausserkantonaler Lotterien
-### 2.5 Tombolas und Lottos (Lotterien nach kantonalem Recht)
-### 2.6 Abgaben und Gebühren
-#### 2.6.1 Abgaben
-#### 2.6.2 Gebühren
-### 2.7 Rechtspflege
-### 2.8 Strafen und Verwaltungsmassnahmen
-## 3 Verwendung der dem Kanton zufliessenden Erträge aus Lotterien (Lotteriegelder)
-### 3.1 Gemeinsame Bestimmungen
-### 3.1.1 Allgemeines
-### 3.1.2 Finanzrecht
-### 3.1.3 Verfahren
-### 3.2 Reinertragsanteile von Swisslos
-### 3.3 …
-## 4 …
-### 4.1 …
-### 4.2 …
-### 4.3 …
-### 4.4 …
-### 4.5 …
-### 4.6 …
-## 5 Übergangs- und Schlussbestimmungen
-### 5.1 Allgemeines
-### 5.2 Fonds
-### 5.3 Errichtung der SEVA Lotteriegenossenschaft
-### 5.4 Aufhebung von Erlassen, Inkrafttreten
-## T1 Übergangsbestimmungen der Änderung vom 25.06.2003
-## T2 Übergangsbestimmungen der Änderung vom 04.04.2011
+## 1 Allgemeine Bestimmungen
+## 2 Grossspiele
+## 3 Kleinspiele
+### 3.1 Zulässigkeit
+### 3.2 Bewilligungs- und Meldepflicht
+### 3.3 Aufsicht und Kontrolle
+### 3.4 Sanktion
+## 4 Abgaben
+### 4.1 Abgabepflichtige
+### 4.2 Zuständigkeit und Verfahren
+### 4.3 Gebühren
+### 4.4 Mittelverwendung
+## 5 Massnahmen gegen Spielsucht
+## 6 Verwendung der Reingewinne aus Grossspielen
+### 6.1 Grundsätze der Mittelverwendung
+#### 6.1.1 Geltungsbereich
+#### 6.1.2 Einzelne Grundsätze
+#### 6.1.3 Ergänzende Bestimmungen
+#### 6.1.4 Zuständigkeit und Verantwortlichkeit
+### 6.2 Fondspeisung
+### 6.3 Zuwendungsbereiche und Abgrenzung
+### 6.4 Finanzrecht
+### 6.5 Verfahren
+### 6.6 Wiederkehrende Beiträge
+### 6.7 Aufsicht, Kontrolle und Information
+## 7 Datenschutz
+## 8 Strafbestimmungen
+## 9 Vollzug und Rechtspflege
+## 10 Übergangs- und Schlussbestimmungen
