@@ -1,3 +1,3 @@
 # Art. 10a Kostenlose Dienstleistungen
-1 Legen Ausländerinnen und Ausländer, die sich auf das Abkommen zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit sowie das Abkommen vom 21. Juni 2001 zur Änderung des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation berufen können, eine Zusicherung der Bewilligung nach Artikel 10 Ziffer 1 Buchstabe a vor, ist die Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung kostenlos.
+1 Legen Ausländerinnen und Ausländer, die sich auf das FZA oder das EFTA-Übereinkommen berufen können, eine Zusicherung der Bewilligung gemäss Artikel 10 Absatz 1 Buchstabe a vor, ist die Kurzaufenthalts-, Aufenthalts- oder Niederlassungsbewilligung kostenlos.
 2 Die Abmeldung in der Gemeinde ist kostenlos.
