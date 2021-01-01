@@ -1,1 +1,4 @@
-(Neudruck vom Juni 1977. In diesem Zeitpunkt waren der Vereinbarung beigetreten die Kantone Aargau, Appenzell A.-Rh., Appenzell I.-Rh., Basel-Land, Basel-Stadt, Glarus, Graubünden, Luzern, Nidwalden, Obwalden, St. Gallen, Schaffhausen, Schwyz, Solothurn, Tessin, Thurgau, Uri, Zug und Zürich.)
+20. Mai 2019
+Für die Fachdirektorenkonferenz Lotteriemarkt und Lotteriegesetz (Kantone Deutschschweiz und Kanton Tessin)
+Dr. Andrea Bettiga, Landammann
+Präsident FDKL
