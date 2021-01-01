@@ -2,16 +2,16 @@
 1 Das Alters- und Behindertenamt (ALBA) vergütet den Erbringern von Leistungen der stationären Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern:
 a bei Pflegestufe 1: CHF 0.00
 b bei Pflegestufe 2: CHF 0.00
-c bei Pflegestufe 3: CHF 4.00
-d bei Pflegestufe 4: CHF 16.70
-e bei Pflegestufe 5: CHF 29.40
-f bei Pflegestufe 6: CHF 42.15
-g bei Pflegestufe 7: CHF 54.85
-h bei Pflegestufe 8: CHF 67.55
-i bei Pflegestufe 9: CHF 80.25
-k bei Pflegestufe 10: CHF 93.00
-l bei Pflegestufe 11: CHF 105.70
-m bei Pflegestufe 12: CHF 118.40
+c bei Pflegestufe 3: CHF 4.10
+d bei Pflegestufe 4: CHF 16.85
+e bei Pflegestufe 5: CHF 29.60
+f bei Pflegestufe 6: CHF 42.40
+g bei Pflegestufe 7: CHF 55.15
+h bei Pflegestufe 8: CHF 67.90
+i bei Pflegestufe 9: CHF 80.65
+k bei Pflegestufe 10: CHF 93.45
+l bei Pflegestufe 11: CHF 106.20
+m bei Pflegestufe 12: CHF 118.95
 2 Die Leistungserbringer müssen für ihre Leistungen folgende Angaben separat ausweisen:
 a das Total der Pflegekosten der entsprechenden Pflegestufe,
 b den Finanzierungsanteil der Krankenversicherer,
