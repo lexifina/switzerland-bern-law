@@ -1,4 +1,4 @@
-Bern, 7. August 2002
+Bern, 21. Oktober 2020
 Im Namen des Regierungsrates
-Die Präsidentin: Zölch-Balmer
-Der Staatsschreiber: Nuspliger
+Der Präsident: Schnegg
+Der Staatsschreiber: Auer
