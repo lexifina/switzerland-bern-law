@@ -1,7 +1,7 @@
-# Lotterieverordnung
-(LV)
-vom 20.10.2004
+# Kantonale Geldspielverordnung
+(KGSV)
+vom 02.12.2020
 Der Regierungsrat des Kantons Bern,
-gestützt auf Artikel 10 Absatz 4, Artikel 13, Artikel 16, Artikel 19 Absatz 2, Artikel 24, Artikel 26 Absatz 3, Artikel 27 Absatz 3, Artikel 36 Absatz 5, Artikel 37 Absatz 2 und 4, Artikel 44 Absatz 1, Artikel 49, Artikel 50 und Artikel 75 des Lotteriegesetzes vom 4. Mai 1993 (LG),
-auf Antrag der Polizei- und Militärdirektion,
+gestützt auf Artikel 11 Absatz 1, Artikel 17 Absatz 4, Artikel 18 Absatz 2, Artikel 20 Absatz 1, Artikel 21 Absatz 1, Artikel 24 Absatz 3, Artikel 30 Absatz 3 Buchstabe b, Artikel 32 Absatz 3, Artikel 38 Absatz 1, Artikel 45 Absatz 1, Artikel 47 Absatz 3, Artikel 49 Absatz 1, Artikel 54 Absatz 2, Artikel 64 Absatz 1, Artikel 76 Absatz 1 und 2 des Kantonalen Geldspielgesetzes vom 10. Juni 2020 (KGSG),
+auf Antrag der Sicherheitsdirektion,
 beschliesst:
