@@ -1,5 +1,5 @@
 # Art. 20h
-1 Die Gesundheits- und Fürsorgedirektion kann den Listenspitälern Pauschalen für folgende Leistungen entrichten:
+1 Die Gesundheits-, Sozial- und Integrationsdirektion kann den Listenspitälern Pauschalen für folgende Leistungen entrichten:
 a von Dritten erbrachte Übersetzungsleistungen,
 b Schultransportleistungen,
 c Notfall- und Bereitschaftsdienste,

@@ -1,5 +1,5 @@
 # Art. 20a Leistungskategorien und einzelne Leistungen
-1 Die Gesundheits- und Fürsorgedirektion kann den Listenspitälern Pauschalen für die folgenden Leistungskategorien entrichten:
+1 Die Gesundheits-, Sozial- und Integrationsdirektion kann den Listenspitälern Pauschalen für die folgenden Leistungskategorien entrichten:
 a ambulante Leistungen,
 b tagesklinische Leistungen,
 c nicht fallbezogene Leistungen,

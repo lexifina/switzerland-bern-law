@@ -1,2 +1,3 @@
-# Art. 15b 2. Massnahmen
-1 Die Listenspitäler gewährleisten durch geeignete Massnahmen allen Patientinnen und Patienten sowie ihren Angehörigen unabhängig von ihrer Religion den Zugang zu seelsorglichen Leistungen.
+# Art. 15b 2. Spitalseelsorgerische Ansprechperson
+1 Die spitalseelsorgerische Ansprechperson des Listenspitals verfügt über einen Masterabschluss in Theologie oder über eine gleichwertige Ausbildung und hat eine Spezialausbildung abgeschlossen, die zur begleitenden und beratenden Praxis qualifiziert.
+2 Das Listenspital stellt ihr einen geeigneten Arbeitsplatz im Betrieb zur Verfügung.
