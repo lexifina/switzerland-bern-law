@@ -1,5 +1,8 @@
-# Interkantonale Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten
-vom 07.01.2005
-Die Kantone,
-gestützt auf die Art. 15, 16 und 34 des BG betreffend die Lotterien und die gewerbsmässigen Wetten vom 8. Juni 1923,
+# Gesamtschweizerisches Geldspielkonkordat
+(GSK)
+vom 20.05.2019
+Die Kantone
+gestützt auf
+- Art. 48 und Art. 106 sowie Art. 191 b Abs. 2 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (SR 101; BV)
+- das Bundesgesetz vom 29. September 2017 über Geldspiele (SR 935.51; Geldspielgesetz, BGS)
 vereinbaren:
