@@ -1,4 +1,4 @@
-Bern, 20. April 2005
+Bern, 16. September 2020
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Der Präsident: Schnegg
+Der Staatsschreiber: Auer

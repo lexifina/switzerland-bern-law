@@ -6,7 +6,7 @@
 #### 2.2.2 Stellenvermittlung
 #### 2.2.3 Pflichten der Lehrkraft
 #### 2.2.4 …
-#### 2.2.5 Ergänzendes Recht
+#### 2.2.5 …
 ## 3 Gehaltssystem
 ### 3.1 Grundsätzliches
 ### 3.2 Festlegung des Anfangsgehalts
