@@ -1,14 +1,16 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 GERES-Plattform
-### 2.1 Zu übermittelnde Daten der Gemeinden
-### 2.2 Datenübermittlung durch die Gemeinden
-### 2.3 Datenlieferungen zur Unterstützung der Registerharmonisierung
-### 2.4 Wohnungsnummer
-### 2.5 Aufsicht
-## 3. Zentrale Personenverwaltung (ZPV)
-## 4 Aufgaben des KAIO
-### 4.1 Im Allgemeinen
-### 4.2 Zertifizierung der Schnittstellen der Gemeinderegisterführungssoftware
-### 4.3 Verfügungen
-## 5 Übergangs- und Schlussbestimmungen
-## T1 Übergangsbestimmungen der Änderung vom 30.06.2010
+### 2.1 Betrieb und Verantwortung
+### 2.2 Inhalt
+## 3 Informationssicherheit und Datenschutz
+### 3.1 Allgemeines
+### 3.2 Berechtigungsregeln und -verwaltung
+### 3.3 Datenvernichtung
+## 4 Organisation
+### 4.1 Datenlieferung der Gemeinden
+### 4.2 Datenbearbeitung des Kantons
+## 5 Technische Anforderungen
+### 5.1 Weisungen und Standards
+### 5.2 Zertifizierung der Einwohnerregister-Schnittstellensoftware
+## 6 Kosten
+## 7 Übergangs- und Schlussbestimmungen
