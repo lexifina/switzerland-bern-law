@@ -1,6 +1,6 @@
 # Art. 32a Sozialinspektion 1 Sozialinspektorate der Gemeinden
-1 Das SOA vergütet den Gemeinden, die eigene Sozialinspektorate führen, pro Sozialinspektionsauftrag gemäss Artikel 23b eine Pauschale gemäss Artikel 34d Absatz 1, sofern der Auftrag durch eine Person mit der Qualifikation gemäss Artikel 23a ausgeführt wird.
+1 Das AIS vergütet den Gemeinden, die eigene Sozialinspektorate führen, pro Sozialinspektionsauftrag gemäss Artikel 23b eine Pauschale gemäss Artikel 34d Absatz 1, sofern der Auftrag durch eine Person mit der Qualifikation gemäss Artikel 23a ausgeführt wird.
 2–3 …
-4 Das SOA vergütet die Pauschale auf Gesuch hin, nach Prüfung des von der Gemeinde erbrachten Bedarfsnachweises.
+4 Das AIS vergütet die Pauschale auf Gesuch hin, nach Prüfung des von der Gemeinde erbrachten Bedarfsnachweises.
 5 …
 6 Gemeinden, die ein eigenes Sozialinspektorat führen, können nicht gleichzeitig Kosten für an Dritte erteilte Sozialinspektionsaufträge über den Lastenausgleich abrechnen.

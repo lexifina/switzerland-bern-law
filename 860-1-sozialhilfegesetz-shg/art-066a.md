@@ -1,5 +1,5 @@
 # Art. 66a Bewilligungsvoraussetzungen
-1 Die zuständige Stelle der Gesundheits- und Fürsorgedirektion erteilt die Bewilligung, wenn der Leistungserbringer
+1 Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion erteilt die Bewilligung, wenn der Leistungserbringer
 a sein Angebot in einem Betriebskonzept umschreibt,
 b über die zum Betrieb notwendigen Räumlichkeiten und Einrichtungen verfügt,
 c Gewähr für eine fachgerechte Betreuung und Pflege der aufgenommenen Personen bietet,

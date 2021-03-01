@@ -2,4 +2,4 @@
 1 Aufgrund von besonderen gesundheitlichen, wirtschaftlichen oder familiären Umständen können bedürftigen Personen situationsbedingte Leistungen gewährt werden.
 2 Die situationsbedingten Leistungen müssen stets in einem angemessenen Verhältnis zur Lebenssituation von Personen mit niedrigem Einkommen in der Umgebung der unterstützten Person stehen.
 3 Besteht bezüglich einer situationsbedingten Leistung eine Auswahl gleichermassen zweckmässiger Angebote, ist die kostengünstigste Leistung zu gewähren.
-4 Die GEF erlässt eine Verordnung zur Bemessung von situationsbedingten Leistungen.
+4 Die GSI erlässt eine Verordnung zur Bemessung von situationsbedingten Leistungen.
