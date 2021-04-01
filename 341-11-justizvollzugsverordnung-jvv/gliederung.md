@@ -1,6 +1,6 @@
 ## 1 Organisation und Aufgaben
 ### 1.1 Behörden des Justizvollzugs
-#### 1.1.1 Zuständige Stellen der Polizei- und Militärdirektion
+#### 1.1.1 Zuständige Stellen der Sicherheitsdirektion
 #### 1.1.2 Bewährungs- und Vollzugsdienste (BVD)
 ### 1.2 Vollzugseinrichtungen
 #### 1.2.1 Im Allgemeinen
