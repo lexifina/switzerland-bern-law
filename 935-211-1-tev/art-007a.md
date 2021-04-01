@@ -8,5 +8,5 @@ d die Destination Gstaad Saanenland,
 e die Destination Bern,
 f Tourismus Biel Seeland,
 g Jura bernois Tourisme.
-3 Bezugsstelle für die übrigen Betriebe ist das Amt für Berner Wirtschaft (beco).
+3 Bezugsstelle für die übrigen Betriebe ist das Amt für Wirtschaft (AWI).
 4 Bezugsstelle im Bereich des Jugend- und Sozialtourismus ist Pfadi Kanton Bern.

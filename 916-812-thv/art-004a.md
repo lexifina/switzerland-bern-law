@@ -1,3 +1,3 @@
 # Art. 4a Behörde in Strafverfahren 1. Bezeichnung
-1 Als kantonale Behörde, der in Strafverfahren betreffend Tierschutzdelikte Parteirechte zukommen, wird der Veterinärdienst bezeichnet.
+1 Als kantonale Behörde, der in Strafverfahren betreffend Tierschutzdelikte Parteirechte zukommen, wird das Amt für Veterinärwesen bezeichnet.
 2–3 …

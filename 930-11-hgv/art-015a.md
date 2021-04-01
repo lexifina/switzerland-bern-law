@@ -1,5 +1,5 @@
 # Art. 15a Vollzug von Bundesrecht
-1 Das beco ist die zuständige Stelle für
+1 Das AWI ist die zuständige Stelle für
 a den Vollzug der Bundesgesetzgebung über den Konsumkredit,
 b Bewilligungen für Schaustellergewerbe und Zirkusse gemäss Artikel 2 Absatz 1 Buchstabe c des Bundesgesetzes über das Gewerbe der Reisenden,
 c Ermächtigungen für Unternehmen gemäss Artikel 8 des Bundesgesetzes über das Gewerbe der Reisenden,
