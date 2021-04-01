@@ -7,10 +7,10 @@ d über die IIZ informiert und
 e das Controlling durchführt.
 2 Die Beschlüsse der Steuerungsgruppe sind für die beteiligten Behörden verbindlich.
 3 Die Steuerungsgruppe setzt sich aus den Leiterinnen und Leitern folgender Behörden zusammen:
-a beco,
+a Amt für Arbeitslosenversicherung (AVA),
 b Mittelschul- und Berufsbildungsamt (MBA),
-c Berufs-, Studien- und Laufbahnberatung (BIZ) des Mittelschul- und Berufsbildungsamtes (MBA),
+c Berufs-, Studien- und Laufbahnberatung (BIZ) des MBA,
 d IV-Stelle Bern (IVB),
-e Sozialamt (SOA),
+e Amt für Integration und Soziales (AIS),
 f Sozialamt der Stadt Bern,
-g Amt für Migration und Personenstand (MIP).
+g Amt für Bevölkerungsdienste (ABEV).
