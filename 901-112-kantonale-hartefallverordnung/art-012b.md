@@ -1,0 +1,2 @@
+# Art. 12b Massgebliche Basis für die bedingte Gewinnbeteiligung bei grossen Unternehmen
+1 Für die Berechnung der bedingten Gewinnbeteiligung gemäss Artikel 12 Absatz 1septies Covid-19-Gesetz massgebend ist der steuerbare Jahresgewinn 2021 vor Verlustverrechnung gemäss den Artikeln 58 bis 67 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG). Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgebender Verlust.
