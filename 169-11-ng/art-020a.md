@@ -1,0 +1,4 @@
+# Art. 20a Bearbeitung von Daten aus zentralen Personendatensammlungen
+1 Zur Erfüllung ihrer hauptberuflichen Tätigkeit gemäss Artikel 20 steht den Notarinnen und Notaren das Basisprofil gemäss Artikel 4 Absatz 1 Buchstabe d des Gesetzes vom 20. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG) im Abrufverfahren zu Verfügung.
+2 Zur Feststellung der zivilrechtlichen Handlungsfähigkeit von Personen stehen den Notarinnen und Notaren zudem die besonders schützenswerten Angaben zu den Erwachsenenschutzmassnahmen im Abrufverfahren, jedoch ohne Funktionalitäten gemäss Artikel 4 Absatz 1 Buchstabe f PDSG, zur Verfügung.
+3 Sofern eine Notarin oder ein Notar die Daten aus den zentralen Personendatensammlungen zu anderen Zwecken als zur Erfüllung ihrer oder seiner hauptberuflichen Tätigkeit verwendet, kann das Zugriffsrecht entzogen werden. Disziplinar- und strafrechtliche Massnahmen bleiben vorbehalten.

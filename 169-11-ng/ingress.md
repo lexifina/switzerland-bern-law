@@ -5,3 +5,5 @@ Der Grosse Rat des Kantons Bern,
 gestützt auf Artikel 55 Schlusstitel des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB),
 auf Antrag des Regierungsrates,
 beschliesst:
+1 Organisation des Notariats
+1.1 Allgemeine Bestimmungen
