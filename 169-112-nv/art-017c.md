@@ -1,0 +1,3 @@
+# Art. 17c Formen der Führung der Testamentensammlung und des Testamentenregisters
+1 Die Testamentensammlung und das Testamentenregister können für jede Notarin oder jeden Notar einzeln oder gesamthaft für das gesamte Notariatsbüro geführt werden. Mischlösungen sind nicht zulässig.
+2 Werden die Testamentensammlung und das Testamentenregister gesamthaft für das Notariatsbüro geführt, muss aus dem Register hervorgehen, welche Notarin oder welcher Notar für das jeweilige Dokument verantwortlich ist. Bei Ausscheiden einer Notarin oder eines Notars aus einem Notariatsbüro müssen die Revisionsorgane den Übergang der Verantwortung nachvollziehen können.
