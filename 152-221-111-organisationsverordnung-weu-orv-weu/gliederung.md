@@ -6,3 +6,4 @@
 ## 6 Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 21.02.2001
 ## T2 Übergangsbestimmung der Änderung vom 23.10.2019
+## T3 Übergangsbestimmung der Änderung vom 26.05.2021
