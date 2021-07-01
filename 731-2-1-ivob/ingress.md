@@ -1,3 +1,4 @@
-# Interkantonale Vereinbarung über das öffentliche Beschaffungswesen vom 25. November 1994 mit Änderungen vom 15. März 2001
+# Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 (IVöB)
-vom 15.03.2001
+vom 15.11.2019
+Erlassen vom Interkantonalen Organ für das öffentliche Beschaffungswesen (InöB) am 15. November 2019.
