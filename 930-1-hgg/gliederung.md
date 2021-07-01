@@ -2,7 +2,7 @@
 ## 2 Ausübung gewerblicher Tätigkeiten
 ## 2a Bewilligungspflichtige Erwerbstätigkeiten
 ## 3 Ladenöffnungszeiten
-## 4 Beschränkungen des Handels mit Tabak und mit alkoholischen Getränken
+## 4 Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken
 ## 4a …
 ## 5 Unlauterer Wettbewerb
 ## 6 Märkte auf öffentlichem Boden
