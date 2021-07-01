@@ -5,7 +5,7 @@
 ### 1.4 Prämienverbilligung
 #### 1.4.1 Anspruch
 #### 1.4.2 Vollzug und Verfahren
-### 1.4a Vermeidung von Härtefällen
+### 1.4a …
 ### 1.5 Datenverarbeitungssystem
 ### 1.6 Rechtspflege
 ## 2 Unfallversicherung
@@ -15,3 +15,4 @@
 ### 4.2 Verfahren
 ### 4.3 Kosten und Entschädigungen
 ## 5 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderung vom 09.09.2020
