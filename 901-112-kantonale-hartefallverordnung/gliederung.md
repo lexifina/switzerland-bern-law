@@ -8,3 +8,4 @@
 ## T3 Übergangsbestimmung der Änderung vom 24.02.2021
 ## T4 Übergangsbestimmung der Änderung vom 07.04.2021
 ## T5 Übergangsbestimmung der Änderung vom 05.05.2021
+## T6 Übergangsbestimmung der Änderung vom 30.06.2021
