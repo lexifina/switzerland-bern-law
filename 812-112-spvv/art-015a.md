@@ -1,7 +1,7 @@
 # Art. 15a Spitalseelsorge 1. Konzept und Tätigkeitsbericht
 1 Das im Kanton Bern gelegene Listenspital
-a legt dem Spitalamt in einem Konzept dar, wie es die Spitalseelsorge für alle Patientinnen und Patienten sowie deren Angehörige sicherstellt,
-b reicht dem Spitalamt jährlich einen Tätigkeitsbericht ein.
+a legt dem Gesundheitsamt in einem Konzept dar, wie es die Spitalseelsorge für alle Patientinnen und Patienten sowie deren Angehörige sicherstellt,
+b reicht dem Gesundheitsamt jährlich einen Tätigkeitsbericht ein.
 2 Das Konzept zeigt auf:
 a die spezialisierte spirituelle und die individuelle ethische Begleitung der Patientinnen und Patienten sowie derer Angehörigen, insbesondere auch in Krisensituationen,
 b das Angebot von religiösen Feiern und Ritualen,

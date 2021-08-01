@@ -1,6 +1,6 @@
-Bern, 29. November 2000
+Bern, 30. Juni 2021
 Im Namen des Regierungsrates
-Die Präsidentin: Andres
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Simon
+Der Staatsschreiber: Auer
 Anhänge
-Anhang 1 : zu Artikel 2
+Anhang 1: zu Artikel 2

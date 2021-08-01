@@ -1,5 +1,5 @@
 # Art. 25a Pflegekosten im stationären Bereich 1 Beitrag des Kantons
-1 Das Alters- und Behindertenamt (ALBA) vergütet den Erbringern von Leistungen der stationären Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern:
+1 Das Gesundheitsamt (GA) vergütet den Erbringern von Leistungen der stationären Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern:
 a bei Pflegestufe 1: CHF 0.00
 b bei Pflegestufe 2: CHF 0.00
 c bei Pflegestufe 3: CHF 4.10
@@ -17,4 +17,4 @@ a das Total der Pflegekosten der entsprechenden Pflegestufe,
 b den Finanzierungsanteil der Krankenversicherer,
 c den Finanzierungsanteil des Kantons,
 d den Finanzierungsanteil der Leistungsempfängerin oder des Leistungsempfängers, unterteilt in Anteil Pflege und Anteil Hotellerie.
-3 Werden ausserkantonale Leistungen der stationären Pflege in Anspruch genommen, vergütet das ALBA die Pflegekosten nach Artikel 25a Absatz 5 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG).
+3 Werden ausserkantonale Leistungen der stationären Pflege in Anspruch genommen, vergütet das GA die Pflegekosten nach Artikel 25a Absatz 5 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG).
