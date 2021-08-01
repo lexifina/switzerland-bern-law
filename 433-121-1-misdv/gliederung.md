@@ -26,14 +26,15 @@
 ## 3 Fachmittelschulbildungsgänge
 ### 3.1 FMS-Bildungsgang
 #### 3.1.1 Aufnahmen
-##### 3.1.1.1 Aufnahmen aus dem dritten Jahr der Sekundarstufe I auf den Beginn des FMS-Bildungsgangs
+##### 3.1.1.1 Aufnahmen auf den Beginn des FMS-Bildungsgangs
 ##### 3.1.1.2 Aufnahmen auf den Beginn des zweiten Jahrs des FMS-Bildungsgangs
 ##### 3.1.1.3 Aufnahmen besonders Begabter in ordentliche FMS-Bildungsgänge
-#### 3.1.2 Zeugnisnoten, Zeugnis und Promotionen
+#### 3.1.2 Zeugnisnoten, Zeugnis, Promotionen und Berufsfeldwahl
 #### 3.1.3 Selbstständige Arbeit und Fachmittelschulausweisprüfungen (FMS-Ausweisprüfungen)
 ### 3.2 Fachmaturitätsbildungsgang
-#### 3.2.1 Aufnahmen
-#### 3.2.2 Anforderungen an das Praktikum in den Berufsfeldern Gesundheit und Sozial Arbeit
+#### 3.2.1 Aufbau der Bildungsgänge
+#### 3.2.1a Aufnahmen
+#### 3.2.2 Anforderungen an das Praktikum
 #### 3.2.3 Bewertung während des Fachmaturitätsbildungsgangs
 #### 3.2.4 Fachmaturitätsprüfungen
 ## 4 Weitere allgemeinbildende Bildungsgänge mit anerkannten Abschlüssen der Sekundarstufe II und spezielle Bildungsgänge, die auf den Eintritt in bestimmte Hochschulstudiengänge vorbereiten
@@ -48,6 +49,7 @@
 ### 6.2 Entschädigungen und Spesen
 ## 7 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 26.06.2019
+## T2 Übergangsbestimmungen der Änderung vom 06.07.2021
 ## A1 Anhang 1: Zeugnisbemerkungen (Artikel 15 und Artikel 18)
 ## A2 Anhang 2: Einzelheiten zum Empfehlungsverfahren für den Besuch des ersten Jahrs des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 24)
 ## A3 Anhang 3: Prüfungsverfahren für die Aufnahme in das erste Jahr des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 25)
@@ -60,6 +62,6 @@
 ## A7c Anhang 7c: Prüfungsverfahren für die Aufnahme in den FMS-Bildungsgang auf den Beginn des ersten bzw. zweiten Schuljahrs im französischsprachigen Kantonsteil (Artikel 78 und 82)
 ## A8 Anhang 8: Prüfungsfächer, Prüfungsart und Prüfungsdauer der Maturitätsprüfungen (Artikel 67)
 ## A9 Anhang 9: Prüfungsfächer, Prüfungsart und Prüfungsdauer der FMS-Ausweisprüfungen (Artikel 93)
-### A9.1 Deutschsprachiger Kantonsteil
-### A9.2 Französischsprachiger Kantonsteil
+### A9.1 Fächer im Bereich Allgemeinbildung
+### A9.2 Berufsfeldspezifische Fächer
 ## A10 Anhang 10: Prüfungsfächer, Prüfungsart und Prüfungsdauer der Fachmaturitätsprüfungen Pädagogik (Artikel 111)

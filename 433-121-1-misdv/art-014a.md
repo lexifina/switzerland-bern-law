@@ -1,0 +1,2 @@
+# Art. 14a Aufnahmen von Zuziehenden auf die ordentlichen Aufnahmezeitpunkte
+1 Auf Beginn der Ausbildung oder auf den Beginn des zweitletzten Ausbildungsjahres sind Aufnahmen von zuziehenden Schülerinnen und Schülern nur möglich, wenn sie in den gleichen Bildungsgang einer Schule mit schweizerisch anerkanntem Abschluss oder in den Bildungsgang einer ausländischen Schule, der auf die gleichen abnehmenden Bildungsinstitutionen vorbereitet, aufgenommen wurden oder einen solchen besuchen und weiterhin besuchen könnten.
