@@ -1,0 +1,3 @@
+# Art. 14a Unterschriftenberechtigung im Verwaltungsverfahren 1 Generalsekretariat
+1 Im Bereich Verwaltungsjustiz und in Staatshaftungssachen wird die Unterschriftenberechtigung für Vernehmlassungen, Abschreibungsverfügungen und selbstständig anfechtbare Zwischenverfügungen und -entscheide sowie für Entscheide betreffend unentgeltliche Rechtspflege, soweit nicht im Hauptentscheid darüber befunden wird, an die Leiterin oder den Leiter der Rechtsabteilung sowie deren Stellvertreterin oder Stellvertreter delegiert.
+2 Für die übrigen prozessleitenden Verfügungen sind die juristischen Mitarbeiterinnen und Mitarbeiter unterschriftsberechtigt.
