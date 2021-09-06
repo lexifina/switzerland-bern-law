@@ -1,5 +1,5 @@
-# Grossratsbeschluss betreffend Abschluss einer Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz vom 11. Mai 1978
-vom 06.11.1978
+# Grossratsbeschluss betreffend den Beitritt zur Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
+vom 06.09.2021
 Der Grosse Rat des Kantons Bern,
-auf Antrag der Präsidentenkonferenz,
+gestützt auf Artikel 74 Absatz 2 der Kantonsverfassung (KV),
 beschliesst:

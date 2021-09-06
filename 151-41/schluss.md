@@ -1,4 +1,4 @@
-Bern, 6. November 1978
+Bern, 6. September 2021
 Im Namen des Grossen Rates
-Der Präsident: Hügi
-Der Staatsschreiber: Josi
+Der Präsident: Gullotti
+Der Generalsekretär: Trees
