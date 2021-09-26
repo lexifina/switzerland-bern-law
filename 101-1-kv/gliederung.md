@@ -4,7 +4,7 @@
 ### 2.2 Sozialrechte
 ### 2.3 Sozialziele
 ## 3 Öffentliche Aufgaben
-### 3.1 Umwelt-, Landschafts- und Heimatschutz
+### 3.1 Umwelt-, Klima-, Landschafts- und Heimatschutz
 ### 3.2 Raum- und Bauordnung
 ### 3.3 Verkehr, Wasser, Energie und Abfälle
 ### 3.4 Öffentliche Ordnung und Sicherheit
