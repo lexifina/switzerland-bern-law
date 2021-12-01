@@ -1,4 +1,4 @@
-# Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel
+# Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 (Sonderstatutsgesetz, SStG)
 vom 13.09.2004
 Der Grosse Rat des Kantons Bern,
