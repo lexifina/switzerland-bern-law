@@ -1,2 +1,1 @@
 # Art. 2a Spartenrechnung
-1 Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen gemäss den Artikeln 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d, 12 Absätze 1 und 1a sowie 12a für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
