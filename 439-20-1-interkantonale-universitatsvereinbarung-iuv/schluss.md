@@ -1,6 +1,4 @@
-Schweizerische Konferenz der kantonalen Erziehungsdirektoren
-Der Präsident: Schmid
-Der Sekretär: Arnet
-Schweizerische Konferenz der kantonalen Finanzdirektoren
-Der Präsident: Marty
-Der Sekretär: Stalder
+Bern, 27. Juni 2019
+Im Namen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren
+Die Präsidentin: Silvia Steiner
+Die Generalsekretärin: Susanne Hardmeier
