@@ -8,5 +8,6 @@
 ### 3.5 Vergütung eines Gebührenüberschusses
 ## 4 Oberaufsichtsabgabe
 ## 5 Übergangs- und Schlussbestimmungen
-## A1 Anhang 1: zu Artikel 4
+## A1 Anhang 1 zu Artikel 4
 ## T1 Übergangsbestimmungen der Änderung vom 15.11.2016
+## T2 Übergangsbestimmung der Änderung vom 26.08.2021
