@@ -5,6 +5,7 @@
 #### 2.2.1 Regionale Spitalzentren
 #### 2.2.2 Regionale Psychiatrische Dienste
 #### 2.2.3 Universitätsspitäler
+#### 2.2.4 Baurechte und Mietverträge
 ### 2.3 Weitere Organisationen
 ### 2.4 Steuerung der Leistungsvolumen
 #### 2.4.1 Steuerung durch die Tarifpartner
@@ -19,7 +20,7 @@
 #### 3.1.1 Sanitätsnotrufzentrale
 #### 3.1.2 Regionale Rettungsdienste
 #### 3.1.3 Weitere Leistungserbringer
-#### 3.1.4 Kantonale Rettungsorganisation
+#### 3.1.4 …
 ### 3.2 Mittelbewirtschaftung
 ### 3.3 Pflichten
 ### 3.4 Leistungsverträge
