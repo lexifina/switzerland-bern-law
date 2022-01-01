@@ -3,7 +3,7 @@
 ### 2.1 Brückenangebote
 #### 2.1.1 Berufsvorbereitendes Schuljahr
 #### 2.1.2 Vorlehren
-#### 2.1.3 Vorlehre 25 Plus
+#### 2.1.3 …
 ### 2.2 Bildung in beruflicher Praxis
 ### 2.3 Berufsfachschulen
 #### 2.3.1 Kurse für Erweiterte Allgemeinbildung (EA-Kurse)
@@ -38,3 +38,4 @@
 ## T4 Übergangsbestimmungen der Änderung vom 1.5.2015
 ## T5 Übergangsbestimmungen der Änderung vom 19.5.2020
 ## T6 Übergangsbestimmungen der Änderung vom 30.03.2021
+## T6a Übergangsbestimmungen der Änderung vom 30.11.2021
