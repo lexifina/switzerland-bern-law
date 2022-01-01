@@ -1,4 +1,4 @@
-Bern, 26. Mai 1999
+Bern, 15. September 2021
 Im Namen des Regierungsrates
-Der Präsident: Annoni
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Simon
+Der Staatsschreiber: Auer

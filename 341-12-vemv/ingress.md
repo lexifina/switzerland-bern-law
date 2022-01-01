@@ -1,7 +1,7 @@
-# Verordnung über den Vollzug von Freiheitsstrafen in der Form des Electronic Monitoring
-(EM-Verordnung)
-vom 26.05.1999
+# Verordnung über den Vollzug von Electronic Monitoring
+(VEMV)
+vom 15.09.2021
 Der Regierungsrat des Kantons Bern,
-gestützt auf Artikel 387 Absatz 4 Buchstabe a des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 (StGB) und Artikel 91 des Gesetzes über den Straf- und Massnahmenvollzug vom 25. Juni 2003 (SMVG),
-auf Antrag der Polizei- und Militärdirektion,
+gestützt auf Artikel 88 Absatz 3 der Verfassung des Kantons Bern (KV), Artikel 28c des Schweizerischen Zivilgesetzbuches (ZGB) sowie Artikel 23q und Artikel 23r Absatz 1 des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit (BWIS),
+auf Antrag der Sicherheitsdirektion,
 beschliesst:
