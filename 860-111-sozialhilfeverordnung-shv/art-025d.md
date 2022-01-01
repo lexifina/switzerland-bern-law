@@ -1,3 +1,0 @@
-# Art. 25d 2 Kostenbeteiligung der Leistungsempfängerinnen und Leistungsempfänger
-1 Leistungsempfängerinnen und Leistungsempfänger, die das 65. Altersjahr vollendet haben, beteiligen sich in der nach Artikel 25a Absatz 5 KVG maximal zulässigen Höhe an den Pflegekosten.
-2–6 …

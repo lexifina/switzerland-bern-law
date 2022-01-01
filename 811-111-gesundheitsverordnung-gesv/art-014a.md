@@ -3,7 +3,7 @@
 2 Es ist die zuständige Stelle für die Erteilung der Betriebsbewilligung für folgende Betriebe:
 a Apotheken,
 b Drogerien,
-c Spitex-Organisationen.
+c …
 3 Es ist die zuständige Stelle gemäss GesG für
 a die Inspektion der Einrichtungen und Räumlichkeiten,
 b den Ausschluss von der Notfalldienstpflicht, die ersatzweise Regelung des ambulanten Notfalldienstes und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht gemäss Artikel 30a GesG,

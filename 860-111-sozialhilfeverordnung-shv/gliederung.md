@@ -1,19 +1,20 @@
 ## 1 Organisation und Zuständigkeiten (Art. 11 bis 21 SHG)
 ## 2 Leistungsangebote der individuellen Sozialhilfe (Art. 22 bis 57 SHG)
 ### 2.1 Wirtschaftliche Hilfe
+### 2.1a Sicherheitsleistung bei Wohnungsmieten
 ### 2.2 Zuständigkeit
 ### 2.3 Sozialinspektion
 ## 3 Leistungsangebote der institutionellen Sozialhilfe (Art. 58 bis 77 SHG)
 ### 3.1 Leistungserbringer
 ### 3.2 Leistungsabgeltung
-## 3a Aus- und Weiterbildung
+## 3a …
 ## 4 Lastenausgleich (Art. 78 bis 83 SHG )
 ### 4.1 Aufwand des Kantons
 ### 4.2 Aufwand der Gemeinden
 #### 4.2.1 Wirtschaftliche Hilfe
 #### 4.2.2 Bestattungskosten
 #### 4.2.3 Andere Beweiserhebungen
-#### 4.2.4 Besoldungs- und Weiterbildungsaufwendungen
+#### 4.2.4 Aufwendungen für die Besoldung und Weiterbildung
 #### 4.2.5 Übrige Aufwendungen
 #### 4.2.6 …
 ### 4.3 Verfahren
