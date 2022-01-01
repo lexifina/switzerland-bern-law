@@ -1,5 +1,7 @@
-Bern, 3. Juni 2009
+Bern, 3. November 2021
 Im Namen des Regierungsrates
-Der Präsident: Käser
-Der Staatsschreiber: Nuspliger
-Vom Eidgenössischen Justiz- und Polizeidepartement am 19. Oktober 2009 genehmigt
+Die Präsidentin: Simon
+Der Staatsschreiber: Auer
+Vom Eidgenössischen Justiz- und Polizeidepartement am 2. Dezember 2021 genehmigt.
+Anhänge
+Anhang A1-1: Anhang 1
