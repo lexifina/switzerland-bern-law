@@ -2,7 +2,7 @@
 1 Der Pauschalbeitrag beträgt pro Kind
 a 30 Franken für einen ganzen Betreuungstag,
 b 15 Franken für einen halben Betreuungstag.
-2 Der Pauschalbeitrag für die Betreuung von Sonderschülerinnen und Sonderschülern beträgt pro Kind
+2 Der Pauschalbeitrag für die Betreuung von Schülerinnen und Schülern mit Bedarf am besonderen Volksschulangebot beträgt pro Kind
 a 60 Franken für einen ganzen Betreuungstag,
 b 30 Franken für einen halben Betreuungstag.
 3 Ein ganzer Betreuungstag entspricht einer Betreuung von acht bis zwölf Stunden.
