@@ -5,3 +5,4 @@ a zum obligatorischen und fakultativen Unterricht,
 b zur Unterrichtsorganisation,
 c zum Lehren und Lernen,
 d zur Unterrichtszeit für die Fachbereiche.
+3 Er fasst die Beschlüsse gemäss Absatz 2 im Rahmen der von den zuständigen Organen beschlossenen Ausgaben sowie des Voranschlags und des Aufgaben- und Finanzplans.

@@ -1,10 +1,21 @@
-## 1 Geltungsbereich
-## 2 Die Volksschule
+## 1 Geltungsbereich und Gegenstand
+## 2 Volksschulangebot
 ## 3 …
 ## 4 …
+## 4a Besonderes Volksschulangebot
+### 4a.1 Grundsätze
+### 4a.2 Steuerung
+### 4a.3 Zuweisungsverfahren
+### 4a.4 Schullaufbahn
+### 4a.5 Unterricht in Spitälern
+### 4a.6 Übertragung der Aufgaben
+### 4a.7 Aufsicht und Rechtspflege
+### 4a.8 Finanzierung
+### 4a.9 Interkantonaler Schulbesuch
+### 4a.10 Geltungsbereich und Anwendbarkeit
 ## 5 Die Schülerinnen und Schüler
 ## 6 Die Eltern
-## 7 Organisation und Führung der Volkschulen
+## 7 Organisation und Führung der Volksschulen
 ## 8 …
 ## 9 Kantonsbeiträge
 ### 9.1 Schulbibliotheken und Schulmediatheken
@@ -29,3 +40,4 @@
 ## T1 Übergangsbestimmung der Änderung vom 05.09.2001
 ## T2 Übergangsbestimmungen der Änderung vom 29.01.2008
 ## T3 Übergangsbestimmungen der Änderung vom 21.03.2012
+## T4 Übergangsbestimmungen der Änderung vom 10.06.2021
