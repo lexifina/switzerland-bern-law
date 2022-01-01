@@ -1,8 +1,0 @@
-# Art. 77e Aus- und Weiterbildungsleistung
-1 Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion legt gegenüber jedem Leistungserbringer die in einem Rechnungsjahr zu erbringende Aus- und Weiterbildungsleistung fest. Sie stützt sich dabei auf die kantonale Versorgungsplanung und die kantonalen Vorgaben über das Ausbildungspotenzial.
-2 Die kantonalen Vorgaben zur Berechnung des Ausbildungspotenzials des Leistungserbringers berücksichtigen insbesondere
-a die Zahl der Mitarbeiterinnen und Mitarbeiter des Leistungserbringers in den nichtuniversitären Gesundheitsberufen,
-b die Struktur des Betriebs des Leistungserbringers,
-c die diagnostischen, therapeutischen und pflegerischen Leistungen im stationären und ambulanten Bereich des Leistungserbringers.
-3 Der Leistungserbringer kann die Aus- und Weiterbildungsleistung im eigenen Betrieb erbringen oder einen im Kanton Bern gelegenen Leistungserbringer damit beauftragen.
-4 Der Regierungsrat regelt die Gewichtung für jede Aus- und Weiterbildung durch Verordnung und macht Vorgaben zum Ausbildungspotenzial der Leistungserbringer.

@@ -2,11 +2,13 @@
 1 Die Gemeinden sind verpflichtet, der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion regelmässig die erforderlichen Daten zur Verfügung zu stellen, damit die dem Lastenausgleich zugeführten Aufwendungen der Gemeinden überprüft werden können.
 2 Im Bereich der individuellen Sozialhilfe liefern die Gemeinden die erforderlichen Daten, die eine auf das einzelne Sozialhilfedossier bezogene Auswertung durch die zuständige Stelle ermöglichen.
 3 Die Daten sollen Auswertungen über Aufwand, Ertrag und Umfang der Leistungen der Gemeinden ermöglichen.
-4 Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion stellt sicher, dass die Daten pseudonymisiert elektronisch übermittelt werden. Die Zuordnung des Pseudonyms darf nur der Gemeinde möglich sein. Es darf ausschliesslich in der von der Gesundheits-, Sozial- und Integrationsdirektion geführten Software nach Absatz 5 verwendet werden.
-5 Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion bearbeitet die Daten mit einer von ihr betriebenen Software. Diese dient
+4 Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion stellt sicher, dass die Daten pseudonymisiert elektronisch übermittelt werden. Die Zuordnung des Pseudonyms darf nur der Gemeinde möglich sein.
+4a Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ist berechtigt, die AHV-Versichertennummer gemäss dem Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) systematisch zu verwenden.
+5 Sie bearbeitet die Daten mit einer von ihr betriebenen Software. Diese dient
 a einer risikoorientierten Revision der Dossiers,
 b der Reihenauswertung der erhobenen Daten,
 c der Durchführung eines Benchmarkings,
-d der Berechnung der Bonus- und Malusleistungen der Sozialdienste.
-6 Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG) trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
+d …
+e der Berechnung der Besoldungsaufwendungen.
+6 Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 KDSG trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 7 …
