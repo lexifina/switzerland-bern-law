@@ -7,3 +7,4 @@ c informiert in sinngemässer Anwendung von Artikel 24 die zuständigen Stellen,
 d vernichtet die Akten zu einem gemeldeten Missstand spätestens ein Jahr nach Abschluss der Abklärungen, wenn sie keine Anhaltspunkte für das Vorliegen eines solchen gefunden hat.
 3 Es besteht kein Anspruch auf Abklärung des gemeldeten Sachverhalts.
 4 Die Meldestelle behandelt die Meldungen vertraulich. Ohne Einverständnis der meldenden Mitarbeiterin oder des meldenden Mitarbeiters gibt sie keine Informationen zu deren oder dessen Person bekannt.
+5 Im Einvernehmen mit der Finanzkontrolle kann der Regierungsrat durch Verordnung vorsehen, dass die Finanzkontrolle Aufgaben gemäss Absatz 1 auch für die Mitarbeiterinnen und Mitarbeiter anderer Behörden wahrnimmt.
