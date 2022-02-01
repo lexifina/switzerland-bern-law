@@ -1,12 +1,7 @@
-## 1 Anwendungsbereich
-## 2 Verfahrensarten
-## 3. Sprache des Verfahrens
-## 4 Ausschreibung
-## 5. Eignung der Anbieterinnen oder Anbieter
-## 6 Einreichung und Prüfung der Angebote
-## 7 Zuschlag des Auftrags
-## 8 Vertragsabschluss
-## 9 Rechtsschutz
-## 10 Überwachung
-## 11 …
-## 12 Übergangs- und Schlussbestimmungen
+## 1 Geltungsbereich
+## 2 Allgemeine Grundsätze
+## 3 Vergabeverfahren
+## 4 Sprachen
+## 5 Aufsicht und Vollzug
+## 6 Übergangs- und Schlussbestimmungen
+## A1 Anhang 1 zu Artikel 7 Absätze 1 und 4
