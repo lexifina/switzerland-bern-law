@@ -1,5 +1,5 @@
 # Art. 47a Baupolizeiliche Selbstdeklaration
-1 Die für die baupolizeiliche Selbstdeklaration verantwortliche Person gibt der Gemeindebaupolizeibehörde unter Verwendung der amtlichen Formulare vor Beginn und nach Vollendung der Bauarbeiten Erklärungen über die Einhaltung der Baubewilligung und der darin enthaltenen Bedingungen und Auflagen ab.
+1 Die für die baupolizeiliche Selbstdeklaration verantwortliche Person gibt der Gemeindebaupolizeibehörde unter Verwendung des kantonalen Übermittlungssystems vor Beginn und nach Vollendung der Bauarbeiten Erklärungen über die Einhaltung der Baubewilligung und der darin enthaltenen Bedingungen und Auflagen ab.
 2 Sie meldet der Gemeindebaupolizeibehörde den Zeitpunkt für die durchzuführenden Pflichtkontrollen und sorgt dafür, dass der Baufortschritt die ordnungsgemässe Abwicklung dieser Kontrollen nicht verhindert oder erschwert.
 3 Sie ist verpflichtet, die Gemeindebaupolizeibehörde zu benachrichtigen, sobald im Verlaufe der Bauarbeiten baubewilligungspflichtige Abweichungen von den Vorgaben der Baubewilligung und den darin enthaltenen Bedingungen und Auflagen erkennbar werden.
 4 Die Gemeindebaupolizeibehörde ist jederzeit berechtigt, auf Baustellen oder, soweit dafür Anlass besteht, in bestehenden Bauten und Anlagen Baukontrollen durchzuführen und die dafür erforderlichen Angaben und Unterlagen zu verlangen.
