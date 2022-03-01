@@ -14,7 +14,7 @@
 ## 2 Planungsrecht
 ### 2.1 Allgemeines
 #### 2.1.1 Aufgaben und Organisation der Raumplanung
-#### 2.1.2 Verfahren für Vorschriften und Pläne
+#### 2.1.2 Form und Verfahren für Vorschriften und Pläne
 #### 2.1.3 Planungszone
 ### 2.2 Ortsplanung
 #### 2.2.1 Aufgaben und Organisation
@@ -41,3 +41,4 @@
 ## T1 Übergangsbestimmungen der Änderung vom 18.06.1997
 ## T2 Übergangsbestimmungen der Änderung vom 28.01.2009
 ## T3 Übergangsbestimmungen der Änderung vom 09.06.2016
+## T4 Übergangsbestimmungen der Änderung vom 03.12.2020
