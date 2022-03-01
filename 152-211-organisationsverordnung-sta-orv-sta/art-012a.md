@@ -1,7 +1,7 @@
 # Art. 12a Amt für Zweisprachigkeit, Gesetzgebung und Ressourcen (AZGR)
 1 Das Amt für Zweisprachigkeit, Gesetzgebung und Ressourcen
 a ist zuständig für Fragen der Zweisprachigkeit des Kantons;
-b betreut die Zusammenarbeit der Kantonsverwaltung mit den durch das Gesetz vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG) eingesetzten Organen und führt die Generalsekretariate des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel;
+b betreut die Zusammenarbeit der Kantonsverwaltung mit den durch das Gesetz vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG) eingesetzten Organen und führt die Generalsekretariate des BJR und des RFB;
 c betreut den Dienst der Juradelegation des Regierungsrates;
 d führt das französischsprachige Sekretariat der Staatskanzlei;
 e koordiniert die Simultandolmetschung für die Sitzungen des Grossen Rates;

@@ -1,5 +1,5 @@
 ## 1 Bernjurassischer Rat (BJR)
-## 2 Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB)
+## 2 Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB)
 ## 3 Staatsbeiträge aus dem Lotteriefonds oder aus dem Sportfonds
 ## 4 Staatsbeiträge aus dem Kulturförderungsfonds
 ## 5 …
