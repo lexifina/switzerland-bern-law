@@ -35,6 +35,8 @@
 #### 3.6.2 Meldung an die Gemeinde
 #### 3.6.3 Einstufung
 ### 3.7 Interkantonaler Schulbesuch
+## 3a Pädagogisches Zentrum für Hören und Sprache Münchenbuchsee
 ## 4 Übergangs- und Schlussbestimmungen
 ### 4.1 Übergangsbestimmungen
 ### 4.2 Schlussbestimmung
+## T1 Übergangsbestimmungen der Änderung vom 06.04.2022

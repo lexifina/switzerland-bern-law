@@ -3,4 +3,4 @@ Im Namen des Regierungsrates
 Die Präsidentin: Simon
 Der Staatsschreiber: Auer
 Anhänge
-Anhang 1: zu Artikel 2
+Anhang 1 : zu Artikel 2
