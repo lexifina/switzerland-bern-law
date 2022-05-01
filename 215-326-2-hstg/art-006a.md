@@ -1,2 +1,3 @@
-# Art. 6a 1.a Schlüsselfertige Baute, Verbindung von Kauf- und Werkvertrag
+# Art. 6a 1a. Schlüsselfertige Baute oder Stockwerkeinheit, Verbindung von Kauf- und Werkvertrag
 1 Bei Kaufverträgen über eine schlüsselfertige Baute oder Stockwerkeinheit und bei Kaufverträgen, die mit einem Werkvertrag so verbunden sind, dass eine schlüsselfertige Baute oder Stockwerkeinheit erworben wird, ist die Steuer auf dem Gesamtpreis (Landpreis und Werklohn) zu bemessen.
+2 Eine Verbindung von Kauf- und Werkvertrag im Sinne von Absatz 1 liegt vor, wenn beim Abschluss des Kaufvertrags eine vertragliche Bindung zwischen der Veräusserin oder dem Veräusserer oder einer dieser oder diesem nahestehenden Person und der Erwerberin oder dem Erwerber hinsichtlich eines aktuellen oder künftigen Werkvertrags besteht.
