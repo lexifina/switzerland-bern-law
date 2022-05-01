@@ -11,3 +11,4 @@
 ## 3 Generalsekretariat
 ## 4 Zusammenarbeit mit dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB)
 ## 5 Schlussbestimmung
+## T1 Übergangsbestimmung der Änderung vom 30.03.2022
