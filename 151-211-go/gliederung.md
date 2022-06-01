@@ -41,6 +41,7 @@
 ### 8.9 Beratung und Beschlussfassung bei Erlassen
 ### 8.10 Abstimmungsverfahren
 ### 8.11 Stimmabgabe, Abstimmungsergebnis, Beschlussprotokoll
+### 8.12 Virtuelle Sitzungen von Ratsorganen sowie Zirkulationsverfahren
 ## 9 Wahlen durch den Grossen Rat
 ## 10 Besondere Beratungsgegenstände
 ## 11 Finanzen des Grossen Rates
