@@ -37,3 +37,4 @@
 ### 5.2 Fondsbewirtschaftung
 ## 6 Übergangsbestimmungen
 ## 7 Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderung vom 25.05.2022
