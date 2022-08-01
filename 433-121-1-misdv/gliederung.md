@@ -56,7 +56,7 @@
 ## A4 Anhang 4: Prüfungsverfahren für die Aufnahme in den gymnasialen Bildungsgang und die Übertritte aus den «sections préparant aux écoles de maturité (section p)» auf den Beginn des zweiten Jahrs des gymnasialen Bildungsgangs im französischsprachigen Kantonsteil (Artikel 35)
 ## A5 Anhang 5: Prüfungsverfahren für die Aufnahme in das dritte Jahr des gymnasialen Bildungsgangs (Artikel 42)
 ## A6a Anhang 6a: Prüfungsverfahren für Aufnahme und Promotionen im gymnasialen Bildungsgang, der spezifisch auf die Bedürfnisse Erwachsener ausgerichtet ist (Artikel 49): Zweites Semester
-## A6b Anhang 6b: Prüfungsverfahren für Aufnahme und Promotionen im gymnasialen Bildungsgang, der spezifisch auf die Bedürfnisse Erwachsener ausgerichtet ist (Artikel 49): Drittes Semester
+## A6b …
 ## A7a Anhang 7a: Prüfungsverfahren für die Aufnahme in den Fachmittelschulbildungsgang auf den Beginn des ersten Jahrs des FMS-Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 78)
 ## A7b Anhang 7b: Prüfungsverfahren für die Aufnahme in den Fachmittelschulbildungsgang auf den Beginn des zweiten Jahrs des FMS-Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 82)
 ## A7c Anhang 7c: Prüfungsverfahren für die Aufnahme in den FMS-Bildungsgang auf den Beginn des ersten bzw. zweiten Schuljahrs im französischsprachigen Kantonsteil (Artikel 78 und 82)

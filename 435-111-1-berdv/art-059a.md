@@ -1,2 +1,2 @@
-# Art. 59a Berufsmaturitätsausweise
-1 Abhanden gekommene Berufsmaturitätszeugnisse oder Notenausweise werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts ersetzt.
+# Art. 59a Nachträglich erneut ausgestellte Ausweise
+1 Müssen Berufsmaturitätszeugnisse oder Notenausweise nachträglich erneut ausgestellt werden, bestätigt die Vorsteherin oder der Vorsteher der Abteilung Berufsfachschulen die Richtigkeit des neu ausgestellten Dokuments.
