@@ -1,2 +1,2 @@
-Bern, 15. Juni 2018
-Die Erziehungsdirektorin: Häsler
+Bern, 30. November 2021
+Die Bildungs- und Kulturdirektorin: Häsler
