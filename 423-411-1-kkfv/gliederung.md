@@ -21,4 +21,5 @@
 ## 6 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 23.05.2018
 ## T2 Übergangsbestimmung der Änderung vom 27.11.2019
+## T3 Übergangsbestimmung der Änderung vom 08.06.2022
 ## A1 Anhang 1: zu Artikel 10
