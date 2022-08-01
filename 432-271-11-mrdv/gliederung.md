@@ -1,6 +1,6 @@
 ## 1 Gegenstand
 ## 2 Individuelle Lernziele
-## 3 Integration von Schülerinnen und Schülern mit einer Behinderung
+## 3 Unterstützung der Regelklasse
 ## 4 Integration Fremdsprachiger
 ## 5 Begabtenförderung
 ### 5.1 Allgemeines
