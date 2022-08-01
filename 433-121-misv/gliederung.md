@@ -30,4 +30,5 @@
 ## T2 Übergangsbestimmungen der Änderung vom 21.05.2014
 ## T3 Übergangsbestimmungen der Änderung vom 15.02.2017
 ## T4 Übergangsbestimmung der Änderung vom 22.08.2018
+## T5 Übergangsbestimmung der Änderung vom 22.06.2022
 ## A1 Anhang 1 zu den Artikeln 32 Absatz 3 und 44 Absatz 2
