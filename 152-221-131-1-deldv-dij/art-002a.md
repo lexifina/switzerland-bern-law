@@ -1,0 +1,2 @@
+# Art. 2a Begründung, Beendigung der Arbeitsverhältnisse in den kantonalen stationären und pädagogischen Einrichtungen
+1 Für die Begründung und Beendigung der Arbeitsverhältnisse von Mitarbeiterinnen und Mitarbeiter der kantonalen stationären und pädagogischen Einrichtungen ist in Abweichung von Artikel 2 Absatz 1 die Gesamtleiterin oder der Gesamtleiter bzw. die Direktorin oder der Direktor zuständig.
