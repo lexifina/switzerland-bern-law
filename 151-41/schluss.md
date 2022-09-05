@@ -1,4 +1,4 @@
-Bern, 6. September 2021
+Bern, 5. September 2022
 Im Namen des Grossen Rates
-Der Präsident: Gullotti
+Der Präsident: Schlup
 Der Generalsekretär: Trees
