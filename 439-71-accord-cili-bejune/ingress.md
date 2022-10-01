@@ -1,6 +1,8 @@
-# Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK)
-vom 17.12.2008
-Der Regierungsrat des Kantons Bern,
-gestützt auf Artikel 88 Absatz 4 der Kantonsverfassung,
-auf Antrag der Erziehungsdirektion,
-beschliesst:
+Dieser Erlass ist nur auf Französisch verfügbar.
+# Arrêté du Conseil-exécutif concernant l'accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature
+(Accord CiLi BEJUNE)
+vom 24.08.2022
+Le Conseil-exécutif du canton de Berne,
+vu l’article 88, alinéa 4 de la Constitution cantonale,
+sur proposition de la Direction de l’instruction publique et de la culture,
+arrête:

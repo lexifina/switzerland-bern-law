@@ -1,4 +1,4 @@
-Bern, 17. Dezember 2008
-Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Berne, le 24 août 2022
+Au nom du Conseil-exécutif,
+la présidente: Häsler
+le chancelier: Auer
