@@ -1,7 +1,9 @@
-## 1 Geltungsbereich
+## 1 Gegenstand
 ## 2 Personalbefugnisse
-### 2.1 Ernennungen und vertragliche Anstellungen
-### 2.2 Weitere Personalbefugnisse
-## 3. Ausgabenbefugnisse
-## 4 Unterschriftsbefugnisse
-## 5 Schlussbestimmungen
+### 2.1 Grundsatz
+### 2.2 Anstellungen
+### 2.3 Weitere Personalbefugnisse
+### 2.4 Spezielle Regelungen zur Arbeitszeit
+## 3 Ausgabenbefugnisse
+## 4 Unterschriftenbefugnisse
+## 5 Übergangs- und Schlussbestimmungen

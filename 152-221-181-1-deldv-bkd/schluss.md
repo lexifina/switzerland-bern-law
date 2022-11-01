@@ -1,2 +1,2 @@
-Bern, 11. Mai 2007
-Der Erziehungsdirektor:Pulver
+Bern, 23. September 2022
+Die Bildungs- und Kulturdirektorin: Häsler
