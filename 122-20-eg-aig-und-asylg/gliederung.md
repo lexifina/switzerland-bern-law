@@ -6,7 +6,8 @@
 #### 3.2.1 Zuständigkeit und Verfahren
 #### 3.2.2 Aufgabenübertragung
 ### 3.3 Umfang
-### 3.4 Unterbringung
+### 3.4 Unterbringung im Allgemeinen
+### 3.4a Freiwillige Unterbringung bei Privaten
 ### 3.5 Kosten
 ## 4 Förderung der freiwilligen Ausreise und Rückkehrhilfe
 ## 5 Anordnung der Ausschaffung und von Zwangsmassnahmen
