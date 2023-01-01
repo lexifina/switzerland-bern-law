@@ -1,4 +1,0 @@
-# Art. 69i Versicherungsmanagement
-1 Der Kanton stellt die Versicherungen der Berner Fachhochschule sicher.
-2 Das Versicherungsmanagement der Berner Fachhochschule erfolgt durch die Fachstelle Risiko- und Versicherungsmanagement der Finanzdirektion.
-3 Der Kanton und die Berner Fachhochschule schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.

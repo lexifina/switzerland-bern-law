@@ -1,4 +1,0 @@
-# Art. 69h Liquiditätsmanagement
-1 Der Kanton stellt die Liquidität der Berner Fachhochschule sicher.
-2 Das Liquiditätsmanagement der Berner Fachhochschule erfolgt durch die zentrale Tresorerie des Kantons.
-3 Der Kanton und die Berner Fachhochschule schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.

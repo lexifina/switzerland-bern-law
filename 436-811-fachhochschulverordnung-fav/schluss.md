@@ -1,4 +1,4 @@
-Bern, 5. Mai 2004
+Bern, 16. November 2022
 Im Namen des Regierungsrates
-Der Präsident: Gasche
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Häsler
+Der Staatsschreiber: Auer

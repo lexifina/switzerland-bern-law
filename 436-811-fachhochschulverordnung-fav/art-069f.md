@@ -1,4 +1,0 @@
-# Art. 69f Weitere finanzielle Mittel
-1 Die Berner Fachhochschule finanziert sich über den jährlichen Kantonsbeitrag hinaus durch weitere Finanzierungsquellen, insbesondere durch Bundesbeiträge, Beiträge für Studierende aus interkantonalen Vereinbarungen sowie durch Drittmittel.
-2 Sämtliche Mittel sind Vermögen der Berner Fachhochschule.
-3 Die Berner Fachhochschule regelt die Bewirtschaftung ihrer Mittel.
