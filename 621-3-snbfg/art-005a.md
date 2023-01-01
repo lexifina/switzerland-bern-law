@@ -1,0 +1,5 @@
+# Art. 5a Auflösung
+1 Der Fonds wird ab dem 1. Januar 2023 gestaffelt aufgelöst.
+2 Die Entnahme erfolgt jährlich im Umfang, der zur Finanzierung des zusätzlichen Investitionsbedarfs notwendig ist. Als zusätzlich gilt der Investitionsbedarf, der den ordentlichen Bedarf von 450 Millionen Franken jährlich übersteigt.
+2a Die Entnahme löst keinen Abschreibungsbedarf im Sinne von Artikel 51 Absatz 3 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG) aus.
+3 Ist die Auflösung am 31. Dezember 2030 nicht vollständig erfolgt, werden die vorhandenen Mittel der Erfolgsrechnung 2031 gutgeschrieben.
