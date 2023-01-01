@@ -1,4 +1,3 @@
 # Art. 136a Jahresarbeitszeit
-1 In der Kantonsverwaltung gilt grundsätzlich das Arbeitszeitmodell der Jahresarbeitszeit.
-2 Wenn der Auftrag der Dienststelle und die Erfüllung der gesetzlichen Aufgaben dies erfordern oder wenn es die betrieblichen Verhältnisse erlauben, können die Direktionen, die Staatskanzlei sowie die von ihnen ermächtigten Organisationseinheiten andere Arbeitszeitmodelle für anwendbar erklären. Die Interessen der Mitarbeiterinnen und Mitarbeiter sind dabei angemessen zu berücksichtigen.
-3 Der Regierungsrat erlässt ein Reglement für das Arbeitszeitmodell der Jahresarbeitszeit.
+1 In der Kantonsverwaltung gilt grundsätzlich das Arbeitszeitmodell der Jahresarbeitszeit. Vorbehalten bleiben die Bestimmungen über die Vertrauensarbeitszeit nach den Artikeln 136d bis 136f.
+2–3 …

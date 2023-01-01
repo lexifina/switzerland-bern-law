@@ -34,7 +34,7 @@
 #### 5.3.1 Allgemeine Bestimmungen
 #### 5.3.2 Verpflegung und Unterkunft
 #### 5.3.3 Fahrkosten
-#### 5.3.4 Infrastrukturkosten
+#### 5.3.4 Infrastruktur
 #### 5.3.5 Besondere Spesenregelungen
 ### 5.4 …
 ### 5.5 Zeitgutschrift für Nachtarbeit
@@ -81,3 +81,4 @@
 ## T6 Übergangsbestimmungen der Änderung vom 06.11.2019
 ## T7 Übergangsbestimmung der Änderung vom 11.11.2020
 ## T8 Übergangsbestimmung der Änderung vom 06.04.2022
+## T9 Übergangsbestimmung der Änderung vom 23.11.2022

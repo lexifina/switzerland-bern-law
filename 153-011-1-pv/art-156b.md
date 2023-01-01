@@ -1,0 +1,4 @@
+# Art. 156b Bezahlter Urlaub für Absenzen aufgrund von Arzt- und Zahnarztbesuchen sowie ärztlich verordneten therapeutischen Behandlungen
+1 Für Arzt- oder Zahnarztbesuche wird unabhängig vom Beschäftigungsgrad der betroffenen Mitarbeiterinnen und Mitarbeiter die effektiv benötigte Zeit, höchstens aber eine Stunde pro Besuch und Arbeitstag, an die Arbeitszeit angerechnet.
+2 Für länger dauernde medizinische und ärztlich verordnete therapeutische Behandlungen kann mit Bewilligung der oder des Vorgesetzten die effektiv benötigte Zeit als Arbeitszeit angerechnet werden.
+3 An Arbeitstagen, an welchen Arzt- oder Zahnarztbesuche nach Absatz 1 oder therapeutische Behandlungen nach Absatz 2 an die Arbeitszeit angerechnet werden, darf die tägliche Soll-Arbeitszeit bzw. die vereinbarte Arbeitszeit nicht überschritten werden.
