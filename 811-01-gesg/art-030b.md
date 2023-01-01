@@ -1,4 +1,5 @@
-# Art. 30b 2 Ausnahmen
-1 Die Organisatoren des Notfalldienstes können bei Vorliegen eines wichtigen Grundes eine Person auf Gesuch hin von der Notfalldienstpflicht befreien oder sie von dieser Pflicht ausschliessen.
-2 Von der Notfalldienstpflicht befreite oder ausgeschlossene Fachpersonen können wieder in Pflicht genommen werden, wenn der Befreiungs- oder Ausschlussgrund weggefallen oder wenn es zur Sicherstellung der Versorgung notwendig ist.
-3 Fachpersonen, die keinen Notfalldienst leisten, haben eine Ersatzabgabe an die Organisatoren des Notfalldienstes zu entrichten. Die Ersatzabgabe beträgt 500 Franken pro Notfalldienst, jedoch höchstens 15'000 Franken pro Jahr.
+# Art. 30b 2 Organisation
+1 Für die Organisation des ambulanten Notfalldienstes sind die Berufsverbände der Berufsgruppen nach Artikel 30a verantwortlich.
+2 Sie erlassen Notfalldienstreglemente, die für alle notfalldienstpflichtigen Fachpersonen verbindlich sind.
+3 Sie setzen die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion über erlassene Notfalldienstreglemente und deren Änderungen unverzüglich in Kenntnis.
+4 Ist die Organisation des ambulanten Notfalldienstes nicht mehr gewährleistet, kann die Gesundheits-, Sozial- und Integrationsdirektion die erforderlichen Massnahmen einschliesslich der Erhebung und der Verwendung der Ersatzabgaben nach Artikel 30c Absatz 1 zur Sicherstellung der ambulanten Notfallversorgung der Bevölkerung anordnen.
