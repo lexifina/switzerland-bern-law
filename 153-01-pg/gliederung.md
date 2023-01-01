@@ -3,6 +3,7 @@
 ### 1.2 Grundsätze der Personalpolitik
 ### 1.3 Mitwirkung und Sozialpartnerschaft
 ### 1.4 Datenbearbeitung bei der Nutzung elektronischer Infrastruktur
+### 1.5 Bearbeitung von Personendaten
 ## 2 Begründung, Änderung und Beendigung des Arbeitsverhältnisses
 ### 2.1 Allgemeine Bestimmungen
 ### 2.2 Arbeitsverhältnis der Angestellten
