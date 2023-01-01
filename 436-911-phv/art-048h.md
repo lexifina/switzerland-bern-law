@@ -1,4 +1,0 @@
-# Art. 48h Liquiditätsmanagement
-1 Der Kanton stellt die Liquidität der Pädagogischen Hochschule sicher.
-2 Das Liquiditätsmanagement der Pädagogischen Hochschule erfolgt durch die zentrale Tresorerie des Kantons.
-3 Der Kanton und die Pädagogische Hochschule schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.

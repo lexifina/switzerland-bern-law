@@ -1,3 +1,0 @@
-# Art. 58a Beurlaubungsgebühr
-1 Die Beurlaubungsgebühr beträgt 100 Franken pro Semester.
-2 Beurlaubte Studierende, die der Vereinigung der Studierenden der Pädagogischen Hochschule angehören, bezahlen zudem die Gebühr gemäss Artikel 33 Absatz 3 PHG.

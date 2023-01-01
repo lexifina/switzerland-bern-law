@@ -1,3 +1,0 @@
-# Art. 58b Verwaltungsgebühr
-1 Für besondere Leistungen ausserhalb des ordentlichen Immatrikulations- oder Beurlaubungsverfahrens, namentlich für das Erstellen von Duplikaten und Übersetzungen, wird eine Gebühr von höchstens 100 Franken erhoben.
-2 Die Rektorin oder der Rektor legt die Gebühr in einem Reglement fest.

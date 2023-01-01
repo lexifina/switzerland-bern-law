@@ -1,4 +1,4 @@
-Bern, 13. April 2005
+Bern, 16. November 2022
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Häsler
+Der Staatsschreiber: Auer
