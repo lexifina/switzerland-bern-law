@@ -12,7 +12,9 @@
 #### 1.3.7 Einsetzung
 #### 1.3.8 Vertretung der Minderheiten
 #### 1.3.9 Ausstand, Protokoll, Rügepflicht
-### 1.3a Amtliche Anzeiger
+### 1.3a Amtliche Bekanntmachungen
+#### 1.3a.1 Amtliche Anzeiger
+#### 1.3a.2 Über das Internet zugängliche Publikationsplattform
 ### 1.4 Rechtsetzung
 ### 1.5 Aufgaben
 ### 1.6 Finanzhaushalt
@@ -30,3 +32,4 @@
 ### 2.8 Regionalkonferenzen
 ### 2.9 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 21.03.2018
+## T2 Übergangsbestimmung der Änderung vom 08.12.2021

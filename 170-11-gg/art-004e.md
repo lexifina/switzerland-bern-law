@@ -4,7 +4,7 @@
 a den Zeitpunkt des Zusammenschlusses,
 b den Namen und die Grenzen der neuen Gemeinde,
 c die Grundzüge der Organisation der neuen Gemeinde,
-d die Beschlussfassung über den ersten Voranschlag für die neue Gemeinde,
+d die Beschlussfassung über das erste Budget für die neue Gemeinde,
 e die Beschlussfassung über ein allfälliges Fusionsreglement (Art. 4f).
 3 Er regelt im Fall eines Zusammenschlusses in Form der Kombinationsfusion überdies
 a die Beschlussfassung über das Organisationsreglement für die neue Gemeinde,
