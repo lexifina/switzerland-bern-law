@@ -1,6 +1,7 @@
-# Gesetz über die Finanzkontrolle
-(Kantonales Finanzkontrollgesetz, KFKG)
-vom 01.12.1999
+# Kantonales Finanzkontrollgesetz
+(KFKG)
+vom 07.03.2022
 Der Grosse Rat des Kantons Bern,
+gestützt auf Artikel 106 der Kantonsverfassung (KV),
 auf Antrag des Regierungsrates,
 beschliesst:

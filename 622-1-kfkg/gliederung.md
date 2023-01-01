@@ -1,11 +1,12 @@
-## 1 Grundsätzliches
+## 1 Allgemeines
 ## 2 Organisation
-## 3 Planung und Finanzierung
-## 4 Zusammenarbeit
-## 5 Aufgaben
-## 6 Geschäftsverkehr
-## 7 Berichterstattung und Beanstandungen
-### 7.1 Berichterstattung
-### 7.2 Verfahren bei Beanstandungen
-### 7.3 Öffentlichkeit
+## 3 Aufgaben
+## 4 Ergebnisse der Prüfungstätigkeiten und Berichterstattung
+### 4.1 Ergebnisse der Prüfungstätigkeiten
+### 4.2 Berichterstattung
+## 5 Verfahren
+## 6 Zusammenwirken mit anderen Behörden
+### 6.1 Finanzkontrollgremium
+### 6.2 Andere Behörden
+## 7 Meldestelle Missstände
 ## 8 Schlussbestimmungen
