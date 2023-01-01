@@ -1,0 +1,4 @@
+# Art. 53b Nacht- und Wochenendarbeit
+1 Bei der Festlegung des zeitlichen Rahmens der Nacht- und Wochenendarbeit gilt folgender Minimalstandard:
+a Die Arbeit zwischen 23.00 Uhr und 06.00 Uhr gilt als Nachtarbeit.
+b Die Arbeit am Sonntag und an öffentlichen Feiertagen zwischen 06.00 Uhr und 23.00 Uhr gilt als Wochenendarbeit.

@@ -1,0 +1,4 @@
+# Art. 52b Überprüfung des Mitarbeitergesprächs
+1 Mitarbeiterinnen und Mitarbeiter, welche die Leistungs- und Verhaltensbeurteilung als unzutreffend oder unkorrekt erachten, können innert zehn Tagen nach Erhalt der schriftlich festgehaltenen Ergebnisse des Mitarbeitergesprächs eine Überprüfung der Beurteilung bei der oder beim nächsthöheren Vorgesetzten verlangen.
+2 Die Überprüfung gemäss Absatz 1 erfolgt im Rahmen einer Aussprache, deren Ergebnis schriftlich festzuhalten ist.
+3 Ist die beurteilte Person mit dem Ergebnis der Überprüfung nicht einverstanden, kann sie zuhanden des Personaldossiers eine schriftliche Erklärung abgeben.

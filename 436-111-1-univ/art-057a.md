@@ -1,0 +1,4 @@
+# Art. 57a Freistellung von befristet angestellten Mitarbeiterinnen und Mitarbeitern
+1 Die Universitätsleitung kann eine befristet angestellte Mitarbeiterin oder einen befristet angestellten Mitarbeiter bis zur Beendigung des Arbeitsverhältnisses freistellen, wenn es im öffentlichen Interesse liegt.
+2 Eine Freistellung kann längstens für die letzten drei Monate vor Beendigung des Arbeitsverhältnisses infolge Zeitablauf erfolgen.
+3 Im Übrigen gelten die Bestimmungen der Personalgesetzgebung zur Freistellung analog.

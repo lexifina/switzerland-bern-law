@@ -1,0 +1,5 @@
+# Art. 90b Beendigung des Arbeitsverhältnisses
+1 Die vorgesetzte Person hat eine Drittmittelangestellte oder einen Drittmittelangestellten mindestens drei Monate vor Ende der Vertragsdauer über das Ende der Anstellung zu informieren, wenn
+a kein neuer Arbeitsvertrag begründet wird, und
+b die oder der Drittmittelangestellte befristet angestellt und während über fünf Jahren ununterbrochen an der Universität angestellt gewesen ist.
+2 Bei späterer Mitteilung endet das Arbeitsverhältnis am Ende des dritten Monats nach dieser Mitteilung, spätestens drei Monate nach dem ursprünglichen Vertragsende.
