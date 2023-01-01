@@ -1,0 +1,4 @@
+# Art. 67c Zulassung bei ausgeschöpfter Aufnahmekapazität
+1 Ist die Aufnahmekapazität der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern ausgeschöpft, kommt das Verfahren gemäss den Artikeln 30 bis 31a zur Anwendung. Der Antrag für eine Zulassungsbeschränkung erfolgt durch den Verein NMS Bern.
+2 Übersteigt die Anzahl der die Zulassungsvoraussetzungen erfüllenden Studienanwärterinnen und Studienanwärter mit stipendienrechtlichem Wohnsitz im Kanton die Höchstzahl der im Leistungsvertrag für diese Studierenden festgelegten Studienplätze, richtet sich deren Zuteilung nach dem Zeitpunkt des Eingangs der Anmeldung.
+3 Die Studienanwärterinnen und Studienanwärter gemäss Absatz 2, welche die Zulassungsvoraussetzungen erfüllen und keinen Studienplatz zugeteilt erhalten, sind auf Verlangen von der Pädagogischen Hochschule für deren entsprechenden Studiengang aufzunehmen.

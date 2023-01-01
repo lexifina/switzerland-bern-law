@@ -1,0 +1,5 @@
+# Art. 67d Zulassung im Falle von Zulassungsbeschränkungen an der Pädagogischen Hochschule
+1 Sofern der Regierungsrat Zulassungsbeschränkungen für den entsprechenden Studiengang der Grundausbildung von Lehrkräften der Primarstufe an der Pädagogischen Hochschule festlegt, haben Studienanwärterinnen und Studienanwärter, die sich bei der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern anmelden, die gleiche Eignungsabklärung zu absolvieren wie diejenigen der Pädagogischen Hochschule.
+2 Die Zuweisung aller Studienplätze der Pädagogischen Hochschule und der Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern richtet sich nach den Ergebnissen der Eignungsabklärung aller Studienanwärterinnen und Studienanwärter.
+3 Im Rahmen der Zuweisung gemäss Absatz 2 sind die Pädagogische Hochschule und die Lehrerinnen- und Lehrerbildungsinstitution des Vereins NMS Bern verpflichtet, Studierende auf Verlangen aufzunehmen, die sich bei der jeweils anderen Institution angemeldet haben.
+4 Der Regierungsrat regelt das Nähere durch Verordnung.
