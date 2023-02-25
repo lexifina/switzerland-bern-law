@@ -1,4 +1,4 @@
-Liestal, 5. März 2021
-Im Namen des Arbeitsausschusses der Interparlamentarischen Konferenz der Nordwestschweiz
-Die Präsidentin: Lachenmeier
+Liestal, 14. Juni 2022
+Im Namen der Interparlamentarischen Konferenz der Nordwestschweiz
+Der Präsident: Schilt
 Der Sekretär: Schmidt

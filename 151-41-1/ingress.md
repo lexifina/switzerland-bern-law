@@ -1,4 +1,4 @@
 # Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
-vom 05.03.2021
-Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft und der Grosse Rat des Kantons Aargau
+vom 14.06.2022
+Der Grosse Rat des Kantons Bern, der Kantonsrat des Kantons Solothurn, der Grosse Rat des Kantons Basel-Stadt, der Landrat des Kantons Basel-Landschaft, der Grosse Rat des Kantons Aargau und das Parlament des Kantons Jura
 vereinbaren:
