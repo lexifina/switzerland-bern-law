@@ -10,4 +10,5 @@
 ## 5 Gebiete mit Jagdverboten
 ## 6 Schlussbestimmung
 ## T1 Übergangsbestimmung der Änderung vom 17.09.2009
+## T2 Übergangsbestimmung der Änderung vom 29.08.2022
 ## A1 Anhang 1: zu Artikel 21
