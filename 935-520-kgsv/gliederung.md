@@ -35,6 +35,7 @@
 ## 5 Finanzrecht
 ### 5.1 Allgemeine Bestimmungen
 ### 5.2 Fondsbewirtschaftung
+## 5a Digitaler Geschäftsverkehr
 ## 6 Übergangsbestimmungen
 ## 7 Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 25.05.2022
