@@ -1,0 +1,3 @@
+# Art. 16a Bearbeitung von Daten aus zentralen Personendatensammlungen
+1 Zur Erfüllung der sich aus diesem Gesetz ergebenden Aufgaben steht dem Grundbuchamt das Basisprofil gemäss Artikel 4 Absatz 1 Buchstabe d des Gesetzes vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG) einschliesslich früherer Daten im Abrufverfahren zu Verfügung.
+2 Zur Beurteilung, ob die Voraussetzungen zur Gewährung der nachträglichen Steuerbefreiung gemäss Artikel 11a erfüllt sind, stehen dem Grundbuchamt zudem insbesondere die Angaben zum Zivilstand, zur Eltern-Kind-Beziehung sowie zum Haushalt einschliesslich früherer Daten im Abrufverfahren zur Verfügung.
