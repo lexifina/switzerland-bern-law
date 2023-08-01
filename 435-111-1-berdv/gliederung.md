@@ -6,7 +6,10 @@
 #### 2.1.3 …
 ### 2.2 Bildung in beruflicher Praxis
 ### 2.3 Berufsfachschulen
-#### 2.3.1 Kurse für Erweiterte Allgemeinbildung (EA-Kurse)
+#### 2.3.1a Allgemeines
+#### 2.3.1 …
+#### 2.3.2 Kurse für Erweiterte Allgemeinbildung (EA-Kurse)
+#### 2.3.3 Bildung in beruflicher Praxis an Handelsmittelschulen (HMS) mit Berufsmaturität (BM)
 ### 2.4 Handelsmittelschulen (HMS) ohne Berufsmaturität (BM)
 #### 2.4.1 Aufnahmeverfahren
 #### 2.4.2 Promotionen
@@ -40,3 +43,4 @@
 ## T6 Übergangsbestimmungen der Änderung vom 30.03.2021
 ## T7 Übergangsbestimmungen der Änderung vom 25.02.2022
 ## T6a Übergangsbestimmungen der Änderung vom 30.11.2021
+## T8 Übergangsbestimmung der Änderung vom 15.06.2023

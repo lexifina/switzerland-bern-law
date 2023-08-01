@@ -3,7 +3,7 @@
 a höchstens 25 Jahre alt ist,
 b über keinen Abschluss der Sekundarstufe II verfügt,
 c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
-d über einen Sprachstand A1 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) mündlich und schriftlich verfügt und
+d …
 e eine hohe Motivation für den Unterrichtsbesuch aufweist.
 f …
 2 Erfüllen mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach folgender Priorisierung:
