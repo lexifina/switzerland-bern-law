@@ -50,6 +50,7 @@
 ## 7 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 26.06.2019
 ## T2 Übergangsbestimmungen der Änderung vom 06.07.2021
+## T3 Übergangsbestimmungen der Änderung vom 09.05.2023
 ## A1 Anhang 1: Zeugnisbemerkungen (Artikel 15 und Artikel 18)
 ## A2 Anhang 2: Einzelheiten zum Empfehlungsverfahren für den Besuch des ersten Jahrs des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 24)
 ## A3 Anhang 3: Prüfungsverfahren für die Aufnahme in das erste Jahr des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 25)
