@@ -26,7 +26,7 @@
 ### 5.2 Grosser Rat
 ### 5.3 Regierungsrat
 ### 5.4 Kantonale Verwaltung
-### 5.5 Gerichte
+### 5.5 Gerichte und Staatsanwaltschaft
 ## 6 Finanzordnung
 ## 7 Gemeinden
 ### 7.1 Allgemeine Bestimmungen
