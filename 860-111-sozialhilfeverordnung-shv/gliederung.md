@@ -4,9 +4,9 @@
 ### 2.1a Sicherheitsleistung bei Wohnungsmieten
 ### 2.2 Zuständigkeit
 ### 2.3 Sozialinspektion
-## 3 Leistungsangebote der institutionellen Sozialhilfe (Art. 58 bis 77 SHG)
-### 3.1 Leistungserbringer
-### 3.2 Leistungsabgeltung
+## 3 …
+### 3.1 …
+### 3.2 …
 ## 3a …
 ## 4 Lastenausgleich (Art. 78 bis 83 SHG )
 ### 4.1 Aufwand des Kantons
@@ -27,3 +27,4 @@
 ## T6 Übergangsbestimmung der Änderung vom 19.10.2016
 ## T7 Übergangsbestimmungen der Änderung vom 20.05.2020
 ## T8 Übergangsbestimmung der Änderung vom 07.12.2022
+## T9 Übergangsbestimmung der Änderung vom 06.12.2023
