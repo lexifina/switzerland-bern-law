@@ -24,7 +24,7 @@
 ### 4.3 Auskunftspflicht
 ## 5 Geschäftsverkehr
 ### 5.1 Geschäftsverkehr mit dem Regierungsrat
-### 5.2 Geschäftsverkehr mit den obersten Gerichten, der Generalstaatsanwaltschaft und der Justizleitung
+### 5.2 Geschäftsverkehr mit den obersten Gerichten, der Generalstaatsanwaltschaft und der Justizverwaltungsleitung
 ## 6 Parlamentarische Instrumente
 ### 6.1 Grundsätze
 ### 6.2 Parlamentarische Initiative

@@ -1,9 +1,9 @@
 ## 1 Allgemeines
-## 2 Grundsätze der Organisation und Führung
+## 2 Grundsätze der Organisation, Führung und Zusammenarbeit
 ## 3 Steuerung von Finanzen und Leistungen
 ## 4 Aufsicht und Oberaufsicht
 ## 5 Sprache
-## 6 Justizleitung
+## 6 Justizverwaltungsleitung
 ## 7 Behördenmitglieder und Personal
 ## 8 Oberste Gerichte
 ### 8.1 Obergericht

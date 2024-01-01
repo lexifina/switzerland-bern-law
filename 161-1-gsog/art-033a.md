@@ -1,0 +1,5 @@
+# Art. 33a Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie Assistenzjugendanwältinnen und Assistenzjugendanwälte
+1 Die Staatsanwaltschaft verfügt über Assistenzstaatsanwältinnen und Assistenzstaatsanwälte. Deren Anzahl wird von der Generalstaatsanwaltschaft im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
+2 Die Jugendanwaltschaft verfügt über Assistenzjugendanwältinnen und Assistenzjugendanwälte. Deren Anzahl wird von der leitenden Jugendanwältin oder vom leitenden Jugendanwalt im Rahmen der zur Verfügung stehenden Mittel festgesetzt.
+3 Die Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie die Assistenzjugendanwältinnen und Assistenzjugendanwälte müssen über ein Anwaltspatent oder das bernische Notariatspatent verfügen.
+4 Die Aufgaben und Kompetenzen der Assistenzstaatsanwältinnen und Assistenzstaatsanwälte sowie der Assistenzjugendanwältinnen und Assistenzjugendanwälte werden durch das Einführungsgesetz vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordung (EG ZSJ) geregelt.
