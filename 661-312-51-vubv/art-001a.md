@@ -1,6 +1,5 @@
-# Art. 1a Rückbaukosten im Hinblick auf einen Ersatzneubau
-1 Als abziehbare Rückbaukosten im Hinblick auf den Ersatzneubau (Art. 1 Abs. 1 Bst. h) gelten die Kosten der Demontage von Installationen, des Abbruchs des vorbestehenden Gebäudes sowie des Abtransports und der Entsorgung des Bauabfalls.
-2 Nicht abziehbar sind insbesondere die Kosten von Altlastensanierungen des Bodens sowie von Geländeverschiebungen, Rodungen, Planierungsarbeiten und Aushubarbeiten im Hinblick auf den Ersatzneubau.
-3 Die steuerpflichtige Person hat der zuständigen Steuerbehörde die abziehbaren Kosten, gegliedert nach Demontage-, Abbruch-, Abtransport- und Entsorgungskosten, in einer separaten Abrechnung auszuweisen.
-4 Rückbaukosten sind nur insoweit abziehbar, als der Ersatzneubau durch dieselbe steuerpflichtige Person vorgenommen wird.
-5 Als Ersatzneubau gilt ein Bau, der nach Abschluss des Rückbaus eines Wohngebäudes oder eines gemischt genutzten Gebäudes innert angemessener Frist auf dem gleichen Grundstück errichtet wird und eine gleichartige Nutzung aufweist.
+# Art. 1a Investitionskosten, die dem Energiesparen und dem Umweltschutz dienen
+1 Als Investitionskosten, die dem Energiesparen und dem Umweltschutz dienen (Art. 36 Abs. 1a StG), gelten Aufwendungen für Massnahmen, die zur rationellen Energieverwendung oder zur Nutzung erneuerbarer Energien beitragen.
+2 Diese Massnahmen beziehen sich mit Ausnahme derjenigen gemäss Artikel 36 Absatz 1c StG auf den Ersatz von veralteten und die erstmalige Anbringung von neuen Bauteilen oder Installationen in bestehenden Gebäuden.
+3 Werden die Massnahmen durch öffentliche Gemeinwesen subventioniert, so kann die steuerpflichtige Person nur die Kosten abziehen, die sie selbst trägt.
+4–5 …

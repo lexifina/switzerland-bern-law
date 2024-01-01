@@ -1,6 +1,6 @@
-# Art. 1b Übertrag auf zwei nachfolgende Steuerperioden
-1 Können die dem Energiesparen und dem Umweltschutz dienenden Investitionskosten oder die Rückbaukosten im Hinblick auf den Ersatzneubau im Jahr der angefallenen Aufwendungen nicht vollständig steuerlich berücksichtigt werden, so können die verbleibenden Kosten auf die folgende Steuerperiode übertragen werden.
-2 Können die übertragenen Kosten auch in dieser Steuerperiode nicht vollständig steuerlich berücksichtigt werden, so können die verbleibenden Kosten auf die folgende Steuerperiode übertragen werden.
-3 Der Übertrag erfolgt, sofern das Reineinkommen negativ ist.
-4 Werden Kosten auf eine folgende Steuerperiode übertragen, so kann auch in dieser Steuerperiode kein Pauschalabzug geltend gemacht werden.
-5 Erfolgt nach Vornahme des Ersatzneubaus ein Wohnsitzwechsel innerhalb der Schweiz oder eine Eigentumsübertragung der Liegenschaft, so behält die steuerpflichtige Person das Recht, die verbleibenden übertragbaren Kosten abzuziehen. Dies gilt auch bei Wegzug ins Ausland, wenn die Liegenschaft im Eigentum der steuerpflichtigen Person verbleibt.
+# Art. 1b Rückbaukosten im Hinblick auf einen Ersatzneubau
+1 Als abziehbare Rückbaukosten im Hinblick auf einen Ersatzneubau (Art. 36 Abs. 1a StG) gelten die Kosten der Demontage von Installationen, des Abbruchs des vorbestehenden Gebäudes sowie des Abtransports und der Entsorgung des Bauabfalls.
+2 Nicht abziehbar sind insbesondere die Kosten von Altlastensanierungen des Bodens sowie von Geländeverschiebungen, Rodungen, Planierungsarbeiten und Aushubarbeiten im Hinblick auf den Ersatzneubau.
+3 Die steuerpflichtige Person hat der zuständigen Steuerbehörde die abziehbaren Kosten, gegliedert nach Demontage-, Abbruch-, Abtransport- und Entsorgungskosten, in einer separaten Abrechnung auszuweisen.
+4 Rückbaukosten sind nur insoweit abziehbar, als der Ersatzneubau durch dieselbe steuerpflichtige Person vorgenommen wird.
+5 Als Ersatzneubau gilt ein Bau, der nach Abschluss des Rückbaus eines Wohngebäudes oder eines gemischt genutzten Gebäudes innert angemessener Frist auf dem gleichen Grundstück errichtet wird und eine gleichartige Nutzung aufweist.
