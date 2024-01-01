@@ -1,0 +1,2 @@
+# Art. 114d
+1 Die Direktion, die Staatskanzlei oder die ermächtigte Organisationseinheit kann den Ersatz von weiteren Auslagen bewilligen, sofern diese für die Aufgabenerfüllung notwendig sind.

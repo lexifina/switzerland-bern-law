@@ -15,7 +15,7 @@
 ### 4.3 Veränderung der Einreihung
 ### 4.4 Individueller Gehaltsaufstieg
 ### 4.5 Gehaltsausrichtung bei Krankheit und Unfall
-### 4.6 Gehaltsausrichtung bei Mutterschafts-, Vaterschafts- und Adoptionsurlaub
+### 4.6 Gehaltsausrichtung bei Mutterschaftsurlaub, Urlaub des andern Elternteils und Adoptionsurlaub
 ### 4.7 Gehaltsausrichtung während des Militär-, Zivilschutz- und Zivildienstes
 ### 4.8 Gehalt für Personal in Ausbildung und Personal bis zum 18. Altersjahr
 ### 4.9 Naturalien
@@ -36,6 +36,7 @@
 #### 5.3.3 Fahrkosten
 #### 5.3.4 Infrastruktur
 #### 5.3.5 Besondere Spesenregelungen
+#### 5.3.6 Weitere Auslagen
 ### 5.4 …
 ### 5.5 Zeitgutschrift für Nachtarbeit
 ### 5.6 Schaden- und Kostenersatz
