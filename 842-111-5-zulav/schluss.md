@@ -1,4 +1,4 @@
-Bern, 29. Januar 2014
+Bern, 22. November 2023
 Im Namen des Regierungsrates
-Der Präsident: Neuhaus
+Der Präsident: Müller
 Der Staatsschreiber: Auer
