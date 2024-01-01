@@ -1,0 +1,2 @@
+# Art. 56b Bewilligungsvoraussetzungen
+1 Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über einen eidgenössischen Fachausweis oder einen Fachausweis nach den Richtlinien des Schweizerischen Roten Kreuzes als medizinische Masseurin oder als medizinischer Masseur oder einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis verfügen.

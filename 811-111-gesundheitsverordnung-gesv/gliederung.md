@@ -10,21 +10,24 @@
 ### 2.3 Apothekerinnen und Apotheker
 ### 2.4 Chiropraktorinnen und Chiropraktoren
 ### 2.5 Psychotherapeutinnen und Psychotherapeuten
-### 2.6 Hebammen und Entbindungspfleger
-### 2.7 Diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner
+### 2.6 Hebammen
+### 2.7 Pflegefachfrauen und Pflegefachmänner
 ### 2.8 Physiotherapeutinnen und Physiotherapeuten
 ### 2.9 Ergotherapeutinnen und Ergotherapeuten
-### 2.10 Augenoptikerinnen und Augenoptiker
+### 2.10 …
+### 2.10a Optometristinnen und Optometristen
 ### 2.11 Drogistinnen und Drogisten
 ### 2.12 Rettungssanitäterinnen und Rettungssanitäter
 ### 2.13 Ernährungsberaterinnen und Ernährungsberater
 ### 2.14 Podologinnen und Podologen
 ### 2.15 Dentalhygienikerinnen und Dentalhygieniker
-### 2.16 Heilpraktikerinnen und Heilpraktiker
-### 2.17 Homöopathinnen und Homöopathen
-### 2.18 Akupunkteurinnen und Akupunkteure
-### 2.19 Therapeutinnen und Therapeuten der TCM
+### 2.16 …
+### 2.17 …
+### 2.18 …
+### 2.19 …
 ### 2.20 Osteopathinnen und Osteopathen
+### 2.21 Medizinische Masseurinnen und Masseure
+### 2.22 Naturheilpraktikerinnen und Naturheilpraktiker
 ## 3 Heilmittelversorgung
 ### 3.1 Apotheken und Drogerien
 #### 3.1.1 Begriffe
@@ -42,3 +45,4 @@
 ## 4 Gebühren, Aufsicht und Rechtspflege
 ## 5 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 27.10.2010
+## T2 Übergangsbestimmungen der Änderung vom 22.11.2023
