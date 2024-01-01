@@ -1,4 +1,4 @@
-# Reglement der Justizleitung
+# Reglement der Justizverwaltungsleitung
 (JLR)
 vom 26.05.2010
 Die Justizleitung des Kantons Bern,
