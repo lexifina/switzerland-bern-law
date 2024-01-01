@@ -6,6 +6,16 @@
 #### 2.1.3 Bewilligungsverfahren
 #### 2.1.4 Betriebsführung
 #### 2.1.5 Aufsicht
+### 2.1a Betreuung in Tagesfamilien
+#### 2.1a.1 Allgemeines
+#### 2.1a.2 Voraussetzungen
+#### 2.1a.3 Aufsicht
+### 2.1b Bewilligung und Aufsicht Tagesfamilienorganisationen
+#### 2.1b.1 Allgemeines
+#### 2.1b.2 Bewilligungsvoraussetzungen
+#### 2.1b.3 Bewilligungsverfahren
+#### 2.1b.4 Betriebsführung
+#### 2.1b.5 Aufsicht
 ### 2.2 Betreuungsgutscheine
 #### 2.2.1 Allgemeines
 #### 2.2.2 Bedarf
@@ -32,3 +42,4 @@
 ### 7.1 Familienergänzende Kinderbetreuung
 ### 7.2 Offene Kinder- und Jugendarbeit sowie pädagogisch-therapeutische Massnahmen
 ## 8 Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderung vom 15.11.2023
