@@ -1,7 +1,7 @@
-# Verordnung über die Information der Bevölkerung
-(Informationsverordnung; IV)
-vom 26.10.1994
+# Verordnung über die Information und die Medienförderung
+(IMV)
+vom 15.11.2023
 Der Regierungsrat des Kantons Bern,
-gestützt auf Artikel 32 Absatz 3 und Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz; IG) und auf Artikel 78 des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 24. Juli 2004 (KBZG)
+gestützt auf Artikel 15b Absatz 3, Artikel 16a Absatz 4, Artikel 31a Absatz 2, Artikel 34e Absatz 1, Artikel 34l Absatz 1 und Artikel 36 Absatz 1 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG),
 auf Antrag der Staatskanzlei,
 beschliesst:

@@ -1,4 +1,4 @@
-Bern, 26. Oktober 1994
+Bern, 15. November 2023
 Im Namen des Regierungsrates
-Der Präsident: Annoni
-Der Staatsschreiber: Nuspliger
+Der Präsident: Müller
+Der Staatsschreiber: Auer

@@ -6,6 +6,7 @@ c koordiniert den Geschäftsverkehr zwischen Kantonsverwaltung, Regierungsrat, G
 d wirkt bei der Planung und Dokumentation der Sessionen des Grossen Rates mit und unterstützt den Grossen Rat, seine Organe und die Parlamentsdienste in weiteren wichtigen Belangen;
 e betreut die Vor- und Nachbereitung der Sitzungen des Regierungsrates;
 f besorgt die Durchführung von Wahlen und Abstimmungen;
+f1 betreut in Zusammenarbeit mit den Direktionen die Förderung der politischen Bildung;
 g bearbeitet Rechtsfragen und erteilt Rechtsauskünfte in den Aufgabenbereichen der Staatskanzlei;
 h bereitet die Gesetzgebung der Staatskanzlei vor, soweit sie nicht in den Aufgabenbereich eines anderen Amts fällt;
 i instruiert Beschwerdeverfahren zuhanden des Regierungsrates und der Staatsschreiberin oder des Staatsschreibers;
