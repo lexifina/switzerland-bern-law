@@ -29,7 +29,7 @@
 ## 9a …
 ## 10 Gemeinden des Berner Juras, Biel/Bienne und Leubringen
 ## 11 Finanzhilfen
-### 11.1 Lokale und regionale Veranstalter von Radioprogrammen
+### 11.1 Medienförderung
 ### 11.2 Statistikstelle des Berner Juras
 ### 11.3 In den Bereichen Entwicklung und Zusammenarbeit tätige Dachorganisationen
 ## 12 Vollzug und Rechtspflege
