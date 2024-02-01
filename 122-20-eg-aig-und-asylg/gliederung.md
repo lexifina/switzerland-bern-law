@@ -1,5 +1,6 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Aufgaben und Zuständigkeiten beim Vollzug des AIG
+## 2a Meldungen von Kollektivhaushalten
 ## 3 Nothilfe für Personen im Asylbereich
 ### 3.1 Grundsätze
 ### 3.2 Vollzug
