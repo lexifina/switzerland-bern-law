@@ -54,5 +54,6 @@
 ## T2 Übergangsbestimmung der Änderung vom 06.12.2017
 ## T3 Übergangsbestimmung der Änderung vom 19.12.2018
 ## T4 Übergangsbestimmungen der Änderung vom 16.11.2022
+## T5 Übergangsbestimmungen der Änderung vom 22.05.2024
 ## A1 …
 ## A2 zu Artikel 17a

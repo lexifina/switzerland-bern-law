@@ -32,3 +32,4 @@
 #### 8.7.6 Weitere Gebühren und Abgaben
 ## 9 Disziplinarrecht
 ## 10 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmung der Änderung vom 22.05.2024
