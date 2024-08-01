@@ -1,0 +1,4 @@
+# Art. 146a 3a. Datenaustausch im Bereich des Bedrohungsmanagements
+1 Die von kantonalen und kommunalen Behörden und Institutionen sowie Gesundheits- und Betreuungseinrichtungen bezeichneten Ansprechpersonen für das kantonale Bedrohungsmanagement sind berechtigt, Meldungen über mögliche Gefährdungen der physischen, psychischen oder sexuellen Integrität entgegenzunehmen und an die Kantonspolizei weiterzuleiten.
+2 Die Kantonspolizei kann mit betroffenen öffentlichen und privaten Stellen zusammenarbeiten und Fallkonferenzen durchführen, um konkrete Gefahren gemäss Absatz 1 zu erkennen und schwere Delikte gegen Leib und Leben zu verhindern.
+3 Die an einer Fallkonferenz beteiligten Personen und Stellen dürfen einander Personendaten bekanntgeben, soweit dies für die Zweckerreichung gemäss Absatz 2 erforderlich ist; dabei dürfen auch besonders schützenswerte Personendaten bekanntgegeben werden, sofern dies zwingend erforderlich ist.

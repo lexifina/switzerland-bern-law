@@ -1,0 +1,4 @@
+# Art. 118a Einsatz technischer Überwachungsgeräte zur Standortermittlung
+1 Die Kantonspolizei kann zum Zweck der Observation in der Vorermittlung zur Verfolgung einer Straftat gemäss Artikel 269 Absatz 2 StPO technische Überwachungsgeräte einsetzen, um den Standort von Personen oder Sachen festzustellen, wenn die Schwere der Straftat dies rechtfertigt.
+2 Der Einsatz darf nur gegenüber einer Person angeordnet werden, bei der ernsthafte Anzeichen bestehen, dass sie vor der Ausführung einer Straftat gemäss Artikel 269 Absatz 2 StPO steht. Für den Schutz von Berufsgeheimnissen gilt Artikel 271 Absatz 1 StPO sinngemäss.
+3 Gegenüber Sachen wie insbesondere Fahrzeugen von Drittpersonen darf der Einsatz nur angeordnet werden, wenn aufgrund bestimmter Tatsachen angenommen werden muss, dass die Person gemäss Absatz 2 die Sache der Drittperson benutzt. Für den Schutz von Berufsgeheimnissen gilt Artikel 271 Absatz 3 StPO sinngemäss.

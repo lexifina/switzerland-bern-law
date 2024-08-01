@@ -32,7 +32,7 @@
 ### 7.1 Grundsätze
 ### 7.2 Polizeiliche Massnahmen
 #### 7.2.1 Personenkontrolle und Identitätsfeststellung durch die Kantonspolizei
-#### 7.2.2 Personenkontrolle und Identitätsfeststellung durch die Gemeinden
+#### 7.2.2 Identitätsfeststellung durch die Gemeinden
 #### 7.2.3 Vorladung, Vorführung und Zuführung
 #### 7.2.4 Erkennungsdienstliche Massnahmen
 #### 7.2.5 Befragung
@@ -42,11 +42,11 @@
 #### 7.2.9 Durchsuchung
 #### 7.2.10 Betreten von Grundstücken und Räumlichkeiten
 #### 7.2.11 Sicherstellung
-#### 7.2.12 Fahndung
+#### 7.2.12 Fahndung in der Vorermittlung
 #### 7.2.13 Verdeckte Registrierung und gezielte Kontrolle
 #### 7.2.14 Verdeckte Fahndung in der Vorermittlung
 #### 7.2.15 Verdeckte Vorermittlung und Legendierung
-#### 7.2.16 Observation
+#### 7.2.16 Observation in der Vorermittlung
 #### 7.2.17 Video- und Audioüberwachung
 #### 7.2.18 Prüfung von Hotelmeldescheinen
 #### 7.2.19 Zusammenarbeit mit Privatpersonen
