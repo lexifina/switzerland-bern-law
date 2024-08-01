@@ -47,6 +47,7 @@
 ## 6 Finanzierung der kantonalen Bildungsangebote
 ### 6.1 Finanzierung von Mensen und Internaten
 ### 6.2 Entschädigungen und Spesen
+### 6.3 Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften
 ## 7 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 26.06.2019
 ## T2 Übergangsbestimmungen der Änderung vom 06.07.2021
