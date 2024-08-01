@@ -1,9 +1,10 @@
 # Art. 2a Aufnahmekriterien BPI 1
 1 In das BPI 1 kann aufgenommen werden, wer
-a höchstens 25 Jahre alt ist,
+a das 25. Altersjahr noch nicht vollendet hat,
 b über keinen Abschluss der Sekundarstufe II verfügt,
 c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 d …
+d1 über einen Sprachstand A1 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) mündlich und schriftlich verfügt und
 e eine hohe Motivation für den Unterrichtsbesuch aufweist.
 f …
 2 Erfüllen mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach folgender Priorisierung:
@@ -11,4 +12,4 @@ a 1. Priorität: Schülerinnen und Schüler, die direkt aus der Volksschule komm
 b 2. Priorität: Minderjährige, ungeachtet ihres Aufenthaltsstatus,
 c 3. Priorität: Volljährige, mit einer Aufenthaltsbewilligung (Ausweis B) oder mit vorläufiger Aufnahme (Ausweis F oder S),
 d 4. Priorität: Volljährige, während des Asylverfahrens (Ausweis N).
-3 Erfüllen innerhalb dieser Priorisierung mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach einem von der Berufsfachschule bestimmten Kriterienkatalog .
+3 Erfüllen innerhalb dieser Priorisierung mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach einem von der Berufsfachschule bestimmten Kriterienkatalog.

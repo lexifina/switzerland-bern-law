@@ -1,6 +1,6 @@
 # Art. 2c Aufnahmekriterien BPI 2 für Erwachsene
 1 In das BPI 2 für Erwachsene kann aufgenommen werden, wer
-a 20 bis 35 Jahre alt ist,
+a mindestens das 20. Altersjahr vollendet und das 35. Altersjahr noch nicht vollendet hat,
 b über keinen Abschluss der Sekundarstufe II verfügt,
 c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 d über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt,

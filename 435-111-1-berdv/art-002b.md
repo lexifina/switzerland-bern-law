@@ -1,6 +1,6 @@
 # Art. 2b Aufnahmekriterien BPI 2
 1 In das BPI 2 kann aufgenommen werden, wer
-a höchstens 25 Jahre alt ist,
+a das 25. Altersjahr noch nicht vollendet hat,
 b über keinen Abschluss der Sekundarstufe II verfügt,
 c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 d über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt und

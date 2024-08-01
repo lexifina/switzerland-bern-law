@@ -1,9 +1,10 @@
-## 1 Allgemeines
+## 1 Zuständigkeit für den französischsprachigen Kantonsteil
 ## 2 Grundbildung
 ### 2.1 Brückenangebote
 #### 2.1.1 Berufsvorbereitendes Schuljahr
 #### 2.1.2 Vorlehren
 #### 2.1.3 …
+#### 2.1.4 Brückenangebote zur Vorbereitung auf bestimmte Grundbildungen
 ### 2.2 Bildung in beruflicher Praxis
 ### 2.3 Berufsfachschulen
 #### 2.3.1a Allgemeines
@@ -34,6 +35,7 @@
 ### 6.2 Mensen und Internate
 ### 6.3 …
 ### 6.4 Entschädigungen
+### 6.5 Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften
 ## 7 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmungen der Änderung vom 27.05.2011
 ## T2 Übergangsbestimmungen der Änderung vom 18.06.2013
