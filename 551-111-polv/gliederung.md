@@ -14,13 +14,14 @@
 ### 2.3 Informatikbasierte Zusammenarbeit
 ### 2.4 Veranstaltungen
 #### 2.4.1 Kostenerlass
-#### 2.4.2 Kostentragung bei gemeindeübergreifenden Veranstaltungen
+#### 2.4.2 …
 #### 2.4.3 Veranstaltungen mit Gewalttätigkeiten
 ### 2.5 Kontaktgremium Sicherheit Kanton-Gemeinden
 ## 3 Polizeiliche Massnahmen
 ### 3.1 Identitätsfeststellung durch die Gemeinden
 ### 3.2 Erkennungsdienstliche Massnahmen
 ### 3.3 Verwertung nach Sicherstellung
+### 3.3a Automatisierte Fahrzeugfahndung
 ### 3.4 Verdeckte Vorermittlung und Legendierung
 ### 3.5 Video- und Audioüberwachung
 #### 3.5.1 Bei Massenveranstaltungen
@@ -35,9 +36,11 @@
 ### 5.5 Sonderregelung für die Aufnahme in den Polizeidienst
 ### 5.6 Entschädigung von besonderen Leistungen
 #### 5.6.1 Pikettdienst
-#### 5.6.2 Nebenfunktionen
+#### 5.6.2 Zusätzliche Aufgaben
 #### 5.6.3 Andere Entschädigungen
 #### 5.6.4 Gemeinsame Bestimmungen
+#### 5.6.4a Private Nutzung von zivilen Dienstfahrzeugen
 #### 5.6.5 Ausrüstung
 ## 6 Schlussbestimmungen
+## T1 Übergangsbestimmung zur Änderung vom 03.07.2024
 ## A1 Anhang 1 zu Artikel 73
