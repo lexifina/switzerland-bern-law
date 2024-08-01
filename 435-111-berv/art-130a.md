@@ -5,4 +5,4 @@ b ihr stipendienrechtlicher Wohnsitz zum Zeitpunkt der Absolvierung der eidgenö
 2 Das Mittelschul- und Berufsbildungsamt legt den Beitrag so fest, dass die vorbereitenden Kurse zu Gebühren oder Kosten besucht werden können, die denjenigen von vergleichbaren inner- oder ausserkantonalen Angeboten bezüglich Berufsfeld und Lektionenzahl entsprechen. Der Beitrag beträgt aber höchstens die Hälfte des Bundesbeitrags.
 3 Der Beitrag wird nach Absolvierung der eidgenössischen Prüfung ausgerichtet, unabhängig von deren Bestehen.
 4 …
-3a Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts verfügt auf entsprechendes Gesuch hin.
+3a Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts verfügt auf entsprechendes Gesuch hin.
