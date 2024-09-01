@@ -1,5 +1,6 @@
 ## 1 Geltungsbereich
 ## 2 Allgemeine Grundsätze
+## 2a Lohngleichheitskontrollen
 ## 3 Vergabeverfahren
 ## 4 Sprachen
 ## 5 Aufsicht und Vollzug
