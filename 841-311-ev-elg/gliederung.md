@@ -1,4 +1,7 @@
 ## 1 Jährliche Ergänzungsleistung
+### 1.1 In Heimen oder Spitälern lebende Personen
+### 1.2 Tatsächliche Prämie für die obligatorische Krankenpflegeversicherung
+### 1.3 Rückerstattung rechtmässig bezogener Ergänzungsleistungen
 ## 2 Vergütung der Krankheits- und Behinderungskosten
 ### 2.1 Allgemeine Bestimmungen
 ### 2.2 Die einzelnen Kostenarten
