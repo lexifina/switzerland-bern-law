@@ -1,4 +1,4 @@
-Bern, 3. September 2008
+Bern, 13. November 2024
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Die Präsidentin: Allemann
+Der Staatsschreiber: Auer
