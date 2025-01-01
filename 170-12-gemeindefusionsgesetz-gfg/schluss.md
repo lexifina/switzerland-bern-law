@@ -1,6 +1,4 @@
-Bern, 25. November 2004
+Bern, 5. März 2024
 Im Namen des Grossen Rates
-Der Präsident: Dätwyler
-Der Staatsschreiber: Nuspliger
-RRB Nr. 1368 vom 27. April 2005:
-Inkraftsetzung auf den 1. Juni 2005
+Der Präsident: Rappa
+Der Generalsekretär: Trees
