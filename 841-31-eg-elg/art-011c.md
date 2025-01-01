@@ -1,0 +1,4 @@
+# Art. 11c Mitwirkung der Gemeinden und Regierungsstatthalterämter
+1 Die für die Siegelung zuständige Gemeindebehörde vermerkt bei einem Todesfall im Siegelungsprotokoll, ob die verstorbene Person, ihre vorverstorbene Ehegattin bzw. ihr vorverstorbener Ehegatte oder beide in den zehn Jahren vor dem Tod der zweitverstorbenen Person Ergänzungsleistungen bezogen haben.
+2 Der Regierungsrat regelt durch Verordnung, welche Unterlagen die Regierungsstatthalterämter der AKB zur Verfügung stellen müssen, wenn eine verstorbene Person alleinstehend gewesen ist und sie, ihre vorverstorbene Ehegattin bzw. ihr vorverstorbener Ehegatte oder beide in den zehn Jahren vor dem Tod der zweitverstorbenen Person Ergänzungsleistungen bezogen haben.
+3 Die Absätze 1 und 2 gelten auch für verstorbene Personen, die in eingetragener Partnerschaft gelebt haben.
