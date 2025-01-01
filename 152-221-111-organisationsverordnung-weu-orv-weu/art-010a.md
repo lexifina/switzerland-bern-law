@@ -9,4 +9,4 @@ b die Logistikstelle für arbeitsmarktliche Massnahmen (LAM),
 c die Kantonale Amtsstelle (KAST),
 d die kantonale Arbeitslosenkasse (ALK),
 e die Steuerungsgruppe für interinstitutionelle Zusammenarbeit (IIZ).
-3 Es ist zuständig für die Führungsunterstützung und Querschnittsaufgaben im eigenen Zuständigkeitsbereich
+3 Es ist zuständig für die Führungsunterstützungs- und Querschnittsaufgaben in seinem Zuständigkeitsbereich.

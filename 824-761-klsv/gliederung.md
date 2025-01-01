@@ -7,6 +7,6 @@
 ### 3.4 Industrie- und Gewerbelärm
 ### 3.5 Schiessanlagen in kantonaler Zuständigkeit
 ### 3.6 Militärische Anlagen
-### 3.7 Immissionen nach der Schall- und Laserverordnung des Bundes
+### 3.7 Immissionen nach der Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall
 ## 4 Rechtspflege
 ## 5 Schlussbestimmungen
