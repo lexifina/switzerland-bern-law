@@ -6,7 +6,7 @@
 ### 3.3 Klassische Stiftungen
 ### 3.4 Familienausgleichskassen
 ### 3.5 Vergütung eines Gebührenüberschusses
-## 4 Oberaufsichtsabgabe
+## 4 …
 ## 5 Übergangs- und Schlussbestimmungen
 ## A1 Anhang 1 zu Artikel 4
 ## T1 Übergangsbestimmungen der Änderung vom 15.11.2016
