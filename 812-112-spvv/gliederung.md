@@ -13,7 +13,7 @@
 ### 3.5 Pflichten der Listenspitäler und Listengeburtshäuser
 ### 3.6 Finanzierung
 #### 3.6.1 Pauschale Abgeltung
-#### 3.6.2 Ambulante psychiatrische Spitalversorgungsleistungen
+#### 3.6.2 Ambulante Spitalversorgungsleistungen
 #### 3.6.3 …
 #### 3.6.4 Darlehen
 ## 4 Rettungswesen

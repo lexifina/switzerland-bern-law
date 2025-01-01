@@ -4,4 +4,4 @@ a ambulante Leistungen,
 b tagesklinische Leistungen,
 c nicht fallbezogene Leistungen,
 d Vorhalteleistungen.
-2 Der Leistungsvertrag legt die einzelnen psychiatrischen Leistungen einer Leistungskategorie fest.
+2 Der Leistungsvertrag legt die einzelnen Leistungen einer Leistungskategorie fest.

@@ -15,4 +15,5 @@ f pro Leistungserbringer.
 4 Er kann die Pauschale für jede einzelne Leistung differenzieren nach
 a dem Ort der Leistungserbringung,
 b der Zeit der Leistungserbringung,
-c dem behandlungsmässigen Schweregrad der Patientin oder des Patienten.
+c dem behandlungsmässigen Schweregrad der Patientin oder des Patienten,
+d dem Alter der Patientin oder des Patienten.
