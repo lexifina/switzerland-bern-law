@@ -32,5 +32,6 @@
 ### 11.1 Medienförderung
 ### 11.2 Statistikstelle des Berner Juras
 ### 11.3 In den Bereichen Entwicklung und Zusammenarbeit tätige Dachorganisationen
+### 11.4 In den Bereichen wirtschaftliche Entwicklung und Förderung tätige Dachorganisationen
 ## 12 Vollzug und Rechtspflege
 ## 13 Übergangs- und Schlussbestimmungen
