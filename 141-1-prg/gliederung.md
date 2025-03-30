@@ -19,6 +19,7 @@
 ### 3.3 Stimmregister
 ### 3.4 Anordnung von Wahlen und Abstimmungen
 ### 3.5 Wahl-, Abstimmungs- und Werbematerial
+### 3.5a Transparenz bei der Finanzierung von Wahl- und Abstimmungskampagnen
 ### 3.6 Abstimmungsräume und Urnen
 ### 3.7 Technische Hilfsmittel
 ## 4 Abstimmungen
@@ -44,5 +45,6 @@
 ## 9 Strafbestimmungen
 ## 10 Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 19.11.2018
+## T2 Übergangsbestimmung der Änderung vom 25.11.2024
 ## A1 Anhang 1: zu Artikel 63 Absatz 1
 ## A2 Anhang 2: zu Artikel 63 Absatz 1
