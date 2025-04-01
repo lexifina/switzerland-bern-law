@@ -1,5 +1,6 @@
-# Vereinbarung zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK)
-vom 17.12.2008
-Der Regierungsrat des Kantons Bern und der Staatsrat des Kantons Jura,
-gestützt auf die Resolution Nr. 55 «Gemeinsame Kulturförderung» der Interjurassischen Versammlung (IJV) vom 20. Dezember 2001 sowie auf die Schlussfolgerungen des sogenannten Ruedin-Berichts vom 26. März 2003 («Rapport intermédiaire du groupe de travail intercantonal ayant charge de définir les conditions cadres pour la mise en place et la réalisation d’une politique culturelle interjurassienne»),
-vereinbaren Folgendes:
+Dieser Erlass ist nur auf Französisch verfügbar.
+# Accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature
+(Accord CiLi BEJUNE)
+vom 31.03.2025
+Le Conseil-exécutif du canton de Berne, le Gouvernement de la République et canton du Jura, le Conseil d'État de la République et canton de Neuchâtel,
+conviennent de ce qui suit:
