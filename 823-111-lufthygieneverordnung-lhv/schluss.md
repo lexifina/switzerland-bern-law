@@ -1,4 +1,4 @@
-Bern, 25. Juni 2008
+Bern, 22. November 2023
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Der Präsident: Müller
+Der Staatsschreiber: Auer
