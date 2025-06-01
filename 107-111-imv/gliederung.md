@@ -8,5 +8,5 @@
 ## 2 Öffentlichkeit der Sitzungen
 ## 3 Förderungsmassnahmen in den Bereichen Medien und politische Bildung
 ### 3.1 Massnahmen zur Medienförderung
-### 3.2 Massnahmen zur Förderung der politischen Bildung
+### 3.2 Massnahmen zur Förderung der politischen Bildung (Art. 34l IMG)
 ## 4 Schlussbestimmungen
