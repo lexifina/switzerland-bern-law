@@ -6,4 +6,4 @@ b die Betreuung durch Personen, die in gerader Linie im ersten oder zweiten Grad
 c die Unterbringung bei Pflegeeltern gemäss Artikel 8 KFSG.
 3 Als regelmässig im Sinne von Absatz 1 gilt die Betreuung eines Kindes, die
 a während mindestens zwei Monaten pro Jahr am Stück oder gesamthaft 39 Wochen pro Jahr stattfindet und
-b einen Umfang von mehr als drei Stunden pro Tag oder mehr als sechs Stunden pro Woche hat.
+b einen Umfang von mehr als drei Stunden pro Tag oder mehr als neun Stunden pro Woche hat.
