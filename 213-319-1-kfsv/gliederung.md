@@ -30,5 +30,5 @@
 ### 7.2 Schlussbestimmungen
 #### A1 Anhang 1 zu Artikel 16 Absatz 1
 #### A2 Anhang 2 zu Artikel 22 Absatz 1
-#### A3 Anhang 3 zu Artikel 32 Absatz 1
-#### A4 Anhang 4 zu Artikel 33 Absatz 1
+#### A3 …
+#### A4 …
