@@ -6,3 +6,4 @@ b die entstehenden Synergien der Anbieter im Management und im infrastrukturelle
 c die Ausbildungstätigkeit der Anbieter als Lehrbetrieb,
 d ein eingeführtes funktionierendes Qualitätsmanagementsystem und
 e der Preis für die Durchführung des Angebots.
+6.2 Leistungsvereinbarungen und Leistungsverträge
