@@ -1,0 +1,6 @@
+# Art. 23k Weiterentwicklungskosten
+1 Die Kosten für die Weiterentwicklung des Fallführungssystems nach Artikel 23e Absatz 1 werden verursacherspezifisch getragen durch
+a die GSI, wenn eine Weiterentwicklung dem Vollzug des SHG, des einvernehmlichen Kindesschutzes nach dem Gesetz vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG), des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen oder von Leistungsangeboten der beruflichen oder sozialen Integration nach SLG dient und kantonsweit zum Einsatz kommt,
+b die DIJ, wenn eine Weiterentwicklung dem Vollzug des Schweizerischen Zivilgesetzbuches (ZGB), des Bundesgesetzes vom 17. Dezember 2004 über Voraussetzungen und Verfahren bei Sterilisationen (Sterilisationsgesetz), des Gesetzes vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG) oder des KFSG mit Ausnahme des einvernehmlichen Kindesschutzes dient und kantonsweit zum Einsatz kommt,
+c die einzelnen Nutzerorganisationen bei anderen Weiterentwicklungen.
+2 Weiterentwicklungen, welche allen Bereichen nach Absatz 1 dienen, werden zu 64,5 Prozent von der GSI und zu 35,5 Prozent von der DIJ getragen.

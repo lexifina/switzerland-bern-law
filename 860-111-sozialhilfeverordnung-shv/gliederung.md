@@ -4,6 +4,7 @@
 ### 2.1a Sicherheitsleistung bei Wohnungsmieten
 ### 2.2 Zuständigkeit
 ### 2.3 Sozialinspektion
+## 2a Fallführungssystem
 ## 3 …
 ### 3.1 …
 ### 3.2 …
@@ -28,3 +29,4 @@
 ## T7 Übergangsbestimmungen der Änderung vom 20.05.2020
 ## T8 Übergangsbestimmung der Änderung vom 07.12.2022
 ## T9 Übergangsbestimmung der Änderung vom 06.12.2023
+## T10 Übergangsbestimmungen der Änderung vom 22.10.2025
