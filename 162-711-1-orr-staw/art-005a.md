@@ -1,0 +1,2 @@
+# Art. 5a Tragen sichtbarer religiöser Symbole und religiöser Kleidung
+1 Allen Mitarbeiterinnen und Mitarbeitern der Staatsanwaltschaft des Kantons Bern ist das sichtbare Tragen von religiösen Symbolen und religiöser Kleidung in öffentlichen Sitzungen, bei Verhandlungen, bei Einvernahmen und in Kontakt mit den Verfahrensbeteiligten, den Parteivertreterinnen und Parteivertretern sowie im Rahmen öffentlicher Kommunikationsaufgaben nicht gestattet.
