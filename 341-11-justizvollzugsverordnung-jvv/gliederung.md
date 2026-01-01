@@ -6,7 +6,7 @@
 #### 1.2.1 Im Allgemeinen
 #### 1.2.2 Gefängnisse
 #### 1.2.3 Justizvollzugsanstalten
-#### 1.2.4 Jugendheim Lory
+#### 1.2.4 …
 #### 1.2.5 Weitere Vollzugseinrichtungen
 ### 1.3 Beizug von Privaten
 #### 1.3.1 Bewilligung an private Einrichtungen zum Vollzug von Freiheitsstrafen und freiheitsentziehenden strafrechtlichen Massnahmen an Erwachsenen
