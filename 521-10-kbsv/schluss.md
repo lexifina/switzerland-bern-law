@@ -1,4 +1,4 @@
-Bern, 22. Oktober 2014
+Bern, 26. November 2025
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
+Der Präsident: Neuhaus
 Der Staatsschreiber: Auer
