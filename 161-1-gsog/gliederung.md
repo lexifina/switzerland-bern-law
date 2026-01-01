@@ -21,6 +21,7 @@
 ### 10.2 Regionalgerichte
 ### 10.3 Regionale Zwangsmassnahmengerichte
 ### 10.4 Regionale Schlichtungsbehörden
+### 10.5 Vorübergehende Unterbringung der Aussenstellen der regionalen Gerichtsbehörden des Berner Juras im Verwaltungskreis Biel/Bienne
 ## 11 Staatsanwaltschaft
 ## 12 Rechtspflege
 ## 13 Übergangs- und Schlussbestimmungen

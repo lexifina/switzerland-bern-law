@@ -1,0 +1,2 @@
+# Art. 88a
+1 Im Zuge des Wechsels der Gemeinde Moutier zum Kanton Jura können die Aussenstelle des Regionalgerichts Berner Jura-Seeland (Art. 81 Abs. 1) und die Aussenstelle der Schlichtungsbehörde Berner Jura-Seeland (Art. 84 Abs. 4) für eine begrenzte Zeit im Verwaltungskreis Biel/Bienne untergebracht werden, bis die notwendigen Räumlichkeiten für ihre definitive Ansiedlung im Berner Jura zur Verfügung stehen.
