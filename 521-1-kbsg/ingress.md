@@ -1,7 +1,7 @@
-# Kantonales Bevölkerungsschutz- und Zivilschutzgesetz
-(KBZG)
-vom 19.03.2014
+# Kantonales Bevölkerungsschutzgesetz
+(KBSG)
+vom 11.09.2024
 Der Grosse Rat des Kantons Bern,
-in Ausführung von Artikel 37 der Kantonsverfassung, gestützt auf Artikel 6, 27 Absatz 3, 27a Absatz 4, 38 Absatz 1, 47, 67 Absatz 1 und 75 Absatz 3 des Bundesgesetzes vom 4. Oktober 2002 über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG), auf Artikel 4 Absatz 1, 10, 11 und 14 des Bundesgesetzes vom 6. Oktober 1966 über den Schutz der Kulturgüter bei bewaffneten Konflikten sowie auf Artikel 54 des Bundesgesetzes vom 8. Oktober 1982 über die wirtschaftliche Landesversorgung (Landesversorgungsgesetz, LVG),
+gestützt auf Artikel 14 bis 16 und 96 des Bundesgesetzes vom 20. Dezember 2019 über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) sowie Artikel 3 Absatz 2 und Artikel 59 Absatz 1 des Bundesgesetzes vom 17. Juni 2016 über die wirtschaftliche Landesversorgung (Landesversorgungsgesetz, LVG),
 auf Antrag des Regierungsrates,
 beschliesst:
