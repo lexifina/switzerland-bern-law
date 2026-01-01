@@ -83,3 +83,4 @@
 ## T7 Übergangsbestimmung der Änderung vom 11.11.2020
 ## T8 Übergangsbestimmung der Änderung vom 06.04.2022
 ## T9 Übergangsbestimmung der Änderung vom 23.11.2022
+## T10 Übergangsbestimmungen der Änderung vom 26.11.2025
