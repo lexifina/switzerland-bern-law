@@ -1,3 +1,1 @@
-# Art. 11a Covid-19-Impfungen in Apotheken
-1 Apothekerinnen und Apotheker, die gestützt auf Artikel 19 Absatz 2 der Verordnung vom 24. Oktober 2001 über die beruflichen Tätigkeiten im Gesundheitswesen (Gesundheitsverordnung, GesV) über eine Bewilligung zur Durchführung von Impfungen verfügen, sind ermächtigt und beauftragt, an gesunden Personen ab 16 Jahren Covid-19-Impfungen in der Apotheke vorzunehmen.
-2 Sie können die Durchführung der Covid-19-Impfungen sowie der saisonalen Grippeimpfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten sowie an diplomierte Pflegefachpersonen übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
+# Art. 11a …
