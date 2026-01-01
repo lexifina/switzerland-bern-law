@@ -26,7 +26,7 @@
 #### 3.3.7 Assistentinnen und Assistenten
 ##### 3.3.7.1 Gemeinsame Bestimmungen
 ###### 3.3.7.1a Postdoktorandinnen und Postdoktoranden
-##### 3.3.7.2 Oberärztinnen II und Oberärzte II, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
+##### 3.3.7.2 Oberärztinnen II und Oberärzte II, Oberärztinnen und Oberärzte Veterinärmedizin, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
 ##### 3.3.7.3 Wissenschaftliche Assistentinnen und Assistenten
 ##### 3.3.7.4 Angestellte Doktorandinnen und Doktoranden
 ##### 3.3.7.5 Hilfsassistentinnen und Hilfsassistenten
@@ -55,5 +55,6 @@
 ## T3 Übergangsbestimmung der Änderung vom 19.12.2018
 ## T4 Übergangsbestimmungen der Änderung vom 16.11.2022
 ## T5 Übergangsbestimmungen der Änderung vom 22.05.2024
+## T6 Übergangsbestimmungen der Änderung vom 19.11.2025
 ## A1 …
 ## A2 zu Artikel 17a

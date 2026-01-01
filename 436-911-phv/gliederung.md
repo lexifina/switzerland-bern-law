@@ -25,7 +25,7 @@
 ### 8.6 Liegenschaften
 ### 8.7 Gebühren und Abgaben
 #### 8.7.1 Gebühren für Vorbereitungskurs, Aufnahmeverfahren und Eignungsabklärung
-#### 8.7.2 Anmelde-, Immatrikulations- und Studiengebühren
+#### 8.7.2 Anmelde- und Studiengebühren
 #### 8.7.3 Prüfungs- und Weiterbildungsgebühren
 #### 8.7.4 Beurlaubungsgebühr und Gebührenbefreiung
 #### 8.7.5 Verwaltungsgebühr
@@ -33,3 +33,4 @@
 ## 9 Disziplinarrecht
 ## 10 Übergangs- und Schlussbestimmungen
 ## T1 Übergangsbestimmung der Änderung vom 22.05.2024
+## T2 Übergangsbestimmung der Änderung vom 19.11.2025

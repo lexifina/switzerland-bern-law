@@ -27,7 +27,7 @@
 #### 5.3.4 Finanzierung
 #### 5.3.5 Liegenschaften
 ### 5.4 Gebühren
-#### 5.4.1 Anmelde-, Eigungsabklärungs- und Studiengebühren
+#### 5.4.1 Anmelde-, Eignungsabklärungs- und Studiengebühren
 #### 5.4.2 Ausstattungspauschale und Verwaltungsgebühr
 #### 5.4.3 Beurlaubungsgebühr und Gebührenbefreiung
 #### 5.4.4 Prüfungs- und Weiterbildungsgebühren
@@ -37,3 +37,4 @@
 ### 6.1 Rekurskommission
 ### 6.2 Disziplinarrecht
 ## 7 Übergangs- und Schlussbestimmungen
+## T1 Übergangsbestimmungen der Änderung vom 19.11.2025
