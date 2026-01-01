@@ -14,3 +14,4 @@ grösser als 60 Millionen Franken grösser als 80 Millionen Franken 100'000 Fran
 3 Ergeben die Bilanzsumme und der Umsatz der Erfolgsrechnung gemäss Absatz 2 für eine Gemeinde unterschiedliche Aktivierungsgrenzen ist der tiefere Wert massgebend.
 4 Massgebend für die Aktivierungsgrenzen gemäss Absatz 2 ist der Durchschnitt des Umsatzes der Erfolgsrechnung und der Bilanzsumme der drei vorangehenden Rechnungsjahre.
 5 Die Gemeinden verfolgen eine konstante Praxis.
+8.2.4.5 Geldflussrechnung
