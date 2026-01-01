@@ -1,4 +1,4 @@
-Bern, 17. März 1999
+Bern, 26. November 2025
 Im Namen des Regierungsrates
-Der Präsident: Annoni
-Der Staatsschreiber: Nuspliger
+Der Präsident: Neuhaus
+Der Staatsschreiber: Auer

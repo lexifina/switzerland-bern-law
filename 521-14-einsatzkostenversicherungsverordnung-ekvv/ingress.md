@@ -1,7 +1,8 @@
-# Verordnung über die Einsatzkostenversicherung der Gemeinden bei Katastrophen und in Notlagen
-(Einsatzkostenverordnung; EKV)
-vom 17.03.1999
+# Verordnung über die Einsatzkostenversicherung der Einwohnergemeinden bei Katastrophen und in Notlagen
+(Einsatzkostenversicherungsverordnung, EKVV)
+vom 26.11.2025
 Der Regierungsrat des Kantons Bern,
-gestützt auf Artikel 73 und 78 des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes (KBZG),
-auf Antrag der Polizei-und Militärdirektion,
+gestützt auf Artikel 76, 77 und 78 des Kantonalen Bevölkerungsschutzgesetzes vom 11. September 2024 (KBSG),
+auf Antrag der Sicherheitsdirektion,
 beschliesst:
+1 Allgemeine Bestimmungen
