@@ -46,3 +46,4 @@
 ## T7 Übergangsbestimmungen der Änderung vom 25.02.2022
 ## T6a Übergangsbestimmungen der Änderung vom 30.11.2021
 ## T8 Übergangsbestimmung der Änderung vom 15.06.2023
+## T9 Übergangsbestimmung der Änderung vom 12. Februar 2026
