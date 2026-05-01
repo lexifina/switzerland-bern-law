@@ -1,0 +1,4 @@
+# Art. 45a 2. Handelsgericht
+1 Die Urteile des Handelsgerichts werden durch drei Richterinnen oder Richter gefällt, davon zwei Fachrichterinnen oder Fachrichter. Auf Antrag aller Parteien im Schriftenwechsel oder auf Anordnung der Instruktionsrichterin oder des Instruktionsrichters wirken eine weitere hauptamtliche Richterin oder ein weiterer hauptamtlicher Richter und eine dritte Fachrichterin oder ein dritter Fachrichter mit.
+2 Dem Handelsgericht gehören kaufmännische Fachrichterinnen und Fachrichter an.
+3 Für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit sowie für alle im summarischen Verfahren zu beurteilenden Angelegenheiten ist die Präsidentin oder der Präsident des Handelsgerichts oder eine von ihr oder ihm bezeichnete hauptamtliche Richterin bzw. ein von ihr oder ihm bezeichneter hauptamtlicher Richter zuständig.

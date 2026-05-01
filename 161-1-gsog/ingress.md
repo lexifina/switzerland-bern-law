@@ -4,3 +4,4 @@ vom 11.06.2009
 Der Grosse Rat des Kantons Bern,
 auf Antrag des Regierungsrates,
 beschliesst:
+1 Allgemeines
