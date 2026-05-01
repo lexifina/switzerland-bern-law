@@ -1,3 +1,4 @@
 # Art. 46b Löschung von biometrischen erkennungsdienstlichen Daten des Bundes
 1 Die zuständige Stelle der Justizverwaltungsleitung ist die zentrale kantonale Stelle, die der verantwortlichen Bundesbehörde das Eintreten der gesetzlichen Voraussetzungen für die Löschung von biometrischen erkennungsdienstlichen Daten nach den Artikeln 17 bis 21 der Verordnung des Bundesrates vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten zu melden hat.
 2 Die Behörde, die zuletzt mit der Sache befasst war, informiert die zentrale kantonale Stelle umgehend über das Eintreten der gesetzlichen Löschungsvoraussetzungen und holt gegebenenfalls die nach Artikel 19 der Verordnung nach Absatz 1 erforderliche richterliche Zustimmung ein.
+3.5 Vorverfahren

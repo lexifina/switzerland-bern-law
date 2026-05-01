@@ -7,3 +7,4 @@ d Anordnung von Zwangsmassnahmen,
 e Sistierung und Einstellung des Verfahrens,
 f Erhebung und Vertretung der Anklage,
 g Klage auf Ungültigkeit einer Ehe oder einer eingetragenen Partnerschaft.
+3.2 Rechtshängigkeit der Zivilklage
