@@ -5,6 +5,7 @@
 ### 4.1 Vorsorgevermögen und Staatsgarantie
 ### 4.2 Beiträge
 ### 4.3 Massnahmen bei Nichterreichen des Finanzierungsplans
+### 4.4 Massnahmen zur Behebung der Unterdeckung im System der Vollkapitalisierung
 ## 5 Organisation
 ### 5.1 Organe
 ### 5.2 Verwaltungskommission
