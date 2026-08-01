@@ -6,3 +6,4 @@ b legt die Art und den Umfang der notwendigen Massnahmen fest,
 c bezeichnet die Durchführungsstelle,
 d sichert die Kostenübernahme zu.
 3 Die Zusicherung der Kostenübernahme wird befristet.
+15 Übergangs- und Schlussbestimmungen
