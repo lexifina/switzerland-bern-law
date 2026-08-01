@@ -1,4 +1,4 @@
-Bern, 8. Juni 1994
+Bern, 1. April 2026
 Im Namen des Regierungsrates
-Der Präsident:Annoni
-Der Staatsschreiber:Nuspliger
+Der Präsident: Neuhaus
+Der Staatsschreiber: Auer
