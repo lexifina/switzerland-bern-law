@@ -1,6 +1,6 @@
 # Art. 27o Aufgaben der Tagesfamilienorganisation
 1 Der Betrieb einer Tagesfamilienorganisation beinhaltet insbesondere die Erfüllung der nachfolgenden Aufgaben:
-a Abschliessen von Arbeitsverträgen mit Betreuungspersonen in Tagesfamilien, welche die Anforderungen nach Artikel 27e erfüllen,
+a Abschliessen von Anstellungsverträgen mit Betreuungspersonen in Tagesfamilien, welche die Anforderungen nach Artikel 27e erfüllen,
 b Vermitteln einer regelmässigen Betreuung von Kindern durch bei ihr angestellte Betreuungspersonen in Tagesfamilien,
 c Abschliessen der Betreuungsverträge mit den Erziehungsberechtigten,
 d Rechnungsstellung über die Betreuungskosten bei den Erziehungsberechtigten,

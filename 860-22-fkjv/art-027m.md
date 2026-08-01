@@ -8,5 +8,5 @@ b eine Dokumentation zur Betriebsorganisation,
 c ein pädagogisches Konzept,
 d ein Konzept zur Sicherstellung der Betreuungsqualität,
 e die Eröffnungsbilanz, das Budget für das erste Betriebsjahr und ein Finanzplan über die ersten drei Betriebsjahre,
-f die Personalien sowie die Anstellungsverträge und die Qualifikationsnachweise der geschäftsführenden und der mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der TFO,
-g von den geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der TFO unterzeichnete Selbstverpflichtungserklärungen nach Artikel 19 Absatz 2.
+f die Personalien sowie die Anstellungsverträge und die Qualifikationsnachweise der geschäftsführenden und der mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der Tagesfamilienorganisation,
+g von den geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der Tagesfamilienorganisation unterzeichnete Selbstverpflichtungserklärungen analog zu Artikel 19 Absatz 2.
