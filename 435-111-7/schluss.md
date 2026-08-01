@@ -1,2 +1,2 @@
-Bern, 8. Januar 2018
-Der Erziehungsdirektor: Pulver
+Bern, 26. Mai 2026
+Die Bildungs- und Kulturdirektorin: Häsler
