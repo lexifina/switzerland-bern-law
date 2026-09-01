@@ -5,3 +5,4 @@
 a die aufschiebende Wirkung gilt bzw.
 b der Genehmigungsbeschluss in Rechtskraft erwachsen ist (Rechtskraftbescheinigung).
 4 Für das Verfahren vor dem Verwaltungsgericht gelten die Absätze 1 bis 3 sinngemäss.
+2.1.3 Planungszone

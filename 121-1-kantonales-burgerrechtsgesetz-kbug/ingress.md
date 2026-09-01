@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Bern,
 gestützt auf Artikel 7 der Kantonsverfassung sowie Artikel 12 Absatz 3 und Artikel 15 Absatz 1 des Bundesgesetzes vom 20. Juni 2014 über das Schweizer Bürgerrecht (Bürgerrechtsgesetz, BüG),
 auf Antrag des Regierungsrates,
 beschliesst:
+1 Allgemeine Bestimmungen

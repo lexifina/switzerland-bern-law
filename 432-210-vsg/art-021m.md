@@ -16,3 +16,4 @@ n die anzuwendenden Hilfsmittel zur Vereinfachung oder Vereinheitlichung des Vol
 o die Schülertransporte,
 p den schulärztlichen und den schulzahnärztlichen Dienst.
 2 Der Regierungsrat regelt die Qualitätsanforderungen durch Verordnung.
+4a.7 Aufsicht und Rechtspflege

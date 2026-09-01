@@ -3,3 +3,4 @@
 a das Volksschulangebot,
 b die private Schulung,
 c weitere Bereiche, welche die Volksschule betreffen.
+2 Volksschulangebot

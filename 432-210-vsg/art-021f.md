@@ -5,3 +5,4 @@ a die Kindes- und Erwachsenenschutzbehörde oder ein Gericht, wenn die Unterbrin
 b die Jugendstrafbehörde bei jugendstrafrechtlichen Massnahmen.
 3 Braucht ein Kind für längere Zeit Spitalpflege, gilt es als dem besonderen Volksschulangebot zugewiesen.
 4 Der Regierungsrat regelt das Nähere durch Verordnung.
+4a.4 Schullaufbahn

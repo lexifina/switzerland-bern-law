@@ -3,3 +3,4 @@
 2 Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
 3 Bei Beschwerden gegen Ergebnisse von Prüfungen ist die Rüge der Unangemessenheit unzulässig.
 4 Der Regierungsrat regelt die Zusammensetzung und Organisation der Rekurskommission durch Verordnung.
+13 Übergangs- und Schlussbestimmungen

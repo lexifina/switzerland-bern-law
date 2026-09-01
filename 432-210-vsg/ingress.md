@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Bern,
 gestützt auf Artikel 87 der Staatsverfassung,
 auf Antrag des Regierungsrates,
 beschliesst:
+1 Geltungsbereich und Gegenstand

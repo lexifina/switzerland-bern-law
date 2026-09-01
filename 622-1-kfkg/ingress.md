@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Bern,
 gestützt auf Artikel 106 der Kantonsverfassung (KV),
 auf Antrag des Regierungsrates,
 beschliesst:
+1 Allgemeines

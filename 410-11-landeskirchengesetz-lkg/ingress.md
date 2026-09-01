@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Bern,
 gestützt auf Artikel 121 bis 125 der Kantonsverfassung,
 auf Antrag des Regierungsrates,
 beschliesst:
+1. Allgemeines

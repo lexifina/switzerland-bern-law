@@ -4,3 +4,4 @@ a Artikel 100 Absatz 1 Buchstabe a bis d,
 b Artikel 100 Absatz 1 Buchstabe e bei polizeilichen Vorführungen gemäss Artikel 79,
 c Artikel 107 Absatz 1 Buchstabe d.
 2 Das Handeln gemäss Absatz 1 ohne schriftliche Genehmigung ist zu begründen und protokollieren.
+7.2.11 Sicherstellung

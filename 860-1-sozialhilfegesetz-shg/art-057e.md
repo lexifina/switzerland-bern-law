@@ -12,3 +12,4 @@ b der Ansprüche dieser Personen gegenüber Dritten,
 c der Integration dieser Personen,
 d der Rückerstattungspflichten nach diesem Gesetz.
 3 Die in Absatz 1 genannten Behörden und Personen können den für den Vollzug dieses Gesetzes zuständigen Behörden von sich aus Informationen zukommen lassen, wenn sie sichere Kenntnis haben, dass die von der Meldung betroffenen Personen Sozialhilfe beziehen und die Informationen für die Abklärung der Ansprüche nach diesem Gesetz zwingend erforderlich sind.
+3.10 Besondere Massnahmen

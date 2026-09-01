@@ -6,7 +6,7 @@ a die religiöse Zugehörigkeit,
 b die politischen Ansichten und Zugehörigkeiten,
 c die Leistungsbeurteilung,
 d die Gesundheit,
-e Massnahmen zur sozialen Hilfe oder fürsorgerischen Betreuung,
+e Massnahmen zur sozialen Hilfe oder zum Kindes- und Erwachsenenschutz,
 f Strafverfahren sowie administrative und strafrechtliche Sanktionen.
 4 Soweit es zur Aufgabenerfüllung gemäss diesem Gesetz zwingend notwendig ist,
 a können im Personalinformationssystem aus zentralen Personendatensammlungen des Kantons besonders schützenswerte Daten nach Absatz 3 abgerufen werden, einschliesslich früherer Daten,

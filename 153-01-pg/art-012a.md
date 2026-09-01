@@ -1,5 +1,5 @@
 # Art. 12a Grundsätze
-1 Personendaten von Mitarbeiterinnen und Mitarbeitern, die bei der Nutzung der elektronischen Infrastruktur (Art. 12b) anfallen, dürfen von den nach Artikel 8 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG) verantwortlichen kantonalen Behörden
+1 Personendaten von Mitarbeiterinnen und Mitarbeitern, die bei der Nutzung der elektronischen Infrastruktur (Art. 12b) anfallen, dürfen von den nach der Datenschutzgesetzgebung verantwortlichen kantonalen Behörden
 a ausschliesslich zu bestimmten Zwecken aufgezeichnet (Art. 12c) und ausgewertet (Art. 12d) werden,
 b nur so lange wie nötig aufbewahrt werden.
 2 Die Datenbearbeitung nach diesem Abschnitt kann auch besonders schützenswerte Personendaten enthalten und ermöglichen, dass Persönlichkeitsprofile erstellt werden.

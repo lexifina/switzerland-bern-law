@@ -3,3 +3,5 @@
 a der Allgemeinheit zugänglich sind,
 b nach redaktionellen und publizistischen Grundsätzen erarbeitet werden und
 c die Branchenregeln der journalistischen Praxis erfüllen.
+2 Öffentlichkeit der Sitzungen
+2.1 Grosser Rat

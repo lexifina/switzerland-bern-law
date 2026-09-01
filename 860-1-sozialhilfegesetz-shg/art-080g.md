@@ -10,5 +10,5 @@ b der Reihenauswertung der erhobenen Daten,
 c der Durchführung eines Benchmarkings,
 d …
 e der Berechnung der Besoldungsaufwendungen.
-6 Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 KDSG trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
+6 Die Verantwortung für den Datenschutz im Sinne der Datenschutzgesetzgebung trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 7 …

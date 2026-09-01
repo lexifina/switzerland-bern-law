@@ -5,3 +5,5 @@ Der Grosse Rat des Kantons Bern,
 in Ausführung von Artikel 100 der Kantonsverfassung,
 auf Antrag des Regierungsrates,
 beschliesst:
+1 Grundlagen
+1.1 Geltungsbereich

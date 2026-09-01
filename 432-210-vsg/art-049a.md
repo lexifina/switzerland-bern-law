@@ -7,3 +7,4 @@ b extreme Verhältnisse bezüglich der Kriterien nach Absatz 1 vorliegen.
 4 Der Kanton kann die Beiträge zur Erhaltung eines ausgeglichenen Finanzhaushalts plafonieren. Eine allfällige Priorisierung richtet sich nach den Kriterien gemäss Absatz 1.
 5 Der Regierungsrat bewilligt die Beiträge unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend.
 6 Er regelt die Berechtigung für Beiträge, die Beitragsbemessung und den Vollzug durch Verordnung.
+9.3 Betreuung während der Ferienzeit

@@ -3,3 +3,4 @@
 a in den bestehenden Baurechtsverträgen keinen Baurechtszins,
 b in den zu erneuernden Mietverträgen einen Mietzins, der sich an der Höhe des Mietzinses orientiert, den die Parteien im Vertrag für die Jahre 2017 bis 2021 vereinbart hatten.
 2 In allen anderen Fällen vereinbart der Kanton die Baurechts- oder Mietzinse im Einzelfall.
+2.3 Weitere Organisationen

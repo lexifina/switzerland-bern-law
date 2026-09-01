@@ -7,3 +7,4 @@ d die Dringlichkeitsordnung, nach welcher der Regierungsrat dem Grossen Rat wich
 e die Entwicklung der Kantonsfinanzen,
 f die Visionen über die Legislaturperiode hinaus.
 2 Die Richtlinien der Regierungspolitik werden mit dem Aufgaben- und Finanzplan, mit dem kantonalen Richtplan und mit den wesentlichen Sachplanungen abgestimmt.
+1.1.2 Organisation und Verfahren
