@@ -2,3 +2,4 @@
 1 Werden an die Kosten von Weiterbildungen Beiträge von über 3000 Franken geleistet oder wird ein bezahlter Urlaub von insgesamt mehr als zehn Arbeitstagen gewährt, hat sich die Lehrkraft an Schulen gemäss Artikel 2 Absatz 1 Buchstaben e bis h LAG vor der Veranstaltung schriftlich zur Rückzahlung der Aufwendungen zu verpflichten.
 2 Die Artikel 176 und 178a bis 182 PV sind sinngemäss anwendbar. Für die Befreiung von der Rückzahlungspflicht sowie Berechnung und Rechnungsstellung gemäss den Artikeln 181 und 182 PV ist das Amt für zentrale Dienste der Bildungs- und Kulturdirektion zuständig.
 3 Die Rückzahlungspflicht entsteht, wenn die betroffene Lehrkraft die Ausbildung aus privaten Gründen abbricht oder während der Ausbildung oder nach deren Abschluss innerhalb einer bestimmten Frist die Lehrtätigkeit an einer der Lehreranstellungsgesetzgebung unterstellten Schule beendet.
+7.2.3 Bildungsurlaub

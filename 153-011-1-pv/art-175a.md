@@ -3,3 +3,4 @@
 2 Von der Meldepflicht gemäss Absatz 1 ausgenommen sind
 a Beiträge, die direkt an Dritte bezahlt werden, sofern die Rechnung auf den Arbeitgeber ausgestellt ist;
 b Beiträge für interne Weiterbildungen gemäss Kursangebot des Personalamts, die von der jeweiligen Organisationseinheit an das Personalamt bezahlt werden.
+7.2.4 Rückzahlungspflicht

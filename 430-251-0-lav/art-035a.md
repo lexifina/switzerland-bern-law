@@ -3,3 +3,5 @@
 2 Die Abteilung Personaldienstleistungen des Amtes für zentrale Dienste der Bildungs- und Kulturdirektion leitet das Arztzeugnis und weitere dienliche Informationen an die von der Direktion bezeichnete Stelle gemäss Absatz 1 weiter.
 3 Sie kann zur weiteren Abklärung eine vertrauensärztliche Untersuchung anordnen.
 4 Die betroffenen Lehrkräfte unterstützen die Bemühungen zur Wiedereingliederung in den Arbeitsprozess kooperativ und aktiv, insbesondere auch indem sie die vereinbarten Massnahmen umsetzen.
+4 Besondere Leistungen
+4.1 Zulagen und Prämien

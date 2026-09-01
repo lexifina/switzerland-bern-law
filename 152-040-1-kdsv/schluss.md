@@ -1,4 +1,4 @@
-Bern, 22. Oktober 2008
+Bern, 24. Juni 2026
 Im Namen des Regierungsrates
-Die Präsidentin: Egger-Jenzer
-Der Staatsschreiber: Nuspliger
+Der Präsident: Schnegg
+Der Staatsschreiber: Auer
