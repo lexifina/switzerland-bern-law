@@ -11,3 +11,4 @@ a die Beschlussfassung dringlich ist,
 b sich ein Geschäft für eine solche Beschlussfassung eignet,
 c die Vertraulichkeit und der Datenschutz gewahrt bleiben.
 4 Das Büro des Grossen Rates kann Präzisierungen dieser Vorgaben vornehmen.
+9 Wahlen durch den Grossen Rat

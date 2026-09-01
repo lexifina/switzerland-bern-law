@@ -5,3 +5,5 @@ Der Grosse Rat des Kantons Bern,
 gestützt auf Artikel 3 des Gesetzes vom 4. Juni 2013 über den Grossen Rat (Grossratsgesetz, GRG),
 auf Antrag der Kommission Parlamentsrechtsrevision,
 beschliesst:
+1 Allgemeine Bestimmungen
+1.1 Konstituierung
