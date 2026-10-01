@@ -9,7 +9,7 @@ c Fest zugeteilte Flächen für Gewerbe
 2. Restaurationsbetriebe, Bars und dgl. CHF 100/m²/Jahr
 d Benutzung von Leerrohren durch Dritte CHF 35/m (einmalig)
 e Temporäre Erdanker, Nägel und dgl. CHF 40/Stück (einmalig)
-f Unterirdische Leitungen ausgenommen Fernwärmeleitungen
+f Unterirdische Leitungen ausgenommen Fernwärmeleitungen sowie öffentliche Wasser- und Abwasserleitungen
 1. einzelne Leitungen CHF 20/m (einmalig)
 2. Kabelkanäle und dgl. CHF 30/m (einmalig)
 3. Kabelblöcke CHF 50/m (einmalig)
@@ -22,3 +22,5 @@ a gewerbliche und nicht gewerbliche Anlässe,
 b Parkierfläche für nicht gewerbliche Anlässe,
 c sportliche Veranstaltungen,
 d Bau und Betrieb von Bauten und Anlagen zur Nutzung von erneuerbarer Energie.
+7 Verkehrsmassnahmen
+7.1 Geltungsbereich
