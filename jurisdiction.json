@@ -1,0 +1,11 @@
+{
+  "path": "ch-be",
+  "code": "CH-BE",
+  "name": "Bern",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-bern-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (502 acts, 1839 versions) from the BSG",
+  "language": "de",
+  "sources": 1
+}

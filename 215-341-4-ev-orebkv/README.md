@@ -1,0 +1,18 @@
+# Einführungsverordnung zur eidgenössischen Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
+
+EV ÖREBKV · 6 versions, from 2014-01-01 (latest in force: 2025-11-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.4>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 1 | 2019-01-01 |
+| Art. 2 | [art-002.md](art-002.md) | 1 | 2020-11-01 |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 6 | [art-006.md](art-006.md) | 2 | 2022-04-01 |
+| Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Art. 8 | [art-008.md](art-008.md) | 3 | 2022-04-01 |
+| Art. 8a | [art-008a.md](art-008a.md) | 2 | 2025-11-01 |
+| Art. 9 | [art-009.md](art-009.md) | 0 |  |
+| Art. 10 | [art-010.md](art-010.md) | 0 |  |
+| Art. 4–5 | [art-045.md](art-045.md) | 1 | 2019-01-01 |
+| Titel und Ingress | [ingress.md](ingress.md) | 1 | 2019-01-01 |
+| Schlussformel | [schluss.md](schluss.md) | 0 |  |
