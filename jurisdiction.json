@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-bern-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (502 acts, 1839 versions) from the BSG",
+  "build": "691 acts, 2028 versions in the assembled corpus: existing dated histories plus 189 current consolidated texts and a separately proposed correction restoring the DAFAV textual annex at its existing 2026-11-01 version date. Published baseline: 502 acts, 1839 versions. Five duplicate same-date updates are reconciled to published inputs; additions and correction await independent review.",
   "language": "de",
   "sources": 1
 }

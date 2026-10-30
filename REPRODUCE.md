@@ -529,7 +529,7 @@ Other counts:
 - 5 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
 - 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2099 laws in the record.
-- 2755 tags.
+- 2756 tags.
 
 ## Dates
 
@@ -542,8 +542,8 @@ When a law gives no date of its own, the default rule applies: Each version is d
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
 - Corpus: sha256 `836f0a58c26f2ddd1634619802d1ff4c42dc475a52318da06e21dd3ae33c3007` (21262497 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
