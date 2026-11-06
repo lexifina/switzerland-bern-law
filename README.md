@@ -1,5 +1,7 @@
 # Bern: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Bern, Switzerland, which global-law reads at `switzerland/bern/acts/`.
+
 The law of the canton of Bern (Kanton Bern, Switzerland) as a git history: existing article-based histories use one file per article, while the 189 current consolidated additions each use a single `text.md` file. Dated histories record amending acts when they took effect and credit them as commit authors. `git blame` names the act behind a paragraph; `git log` lists changes to a file; checking out a date gives the text recorded for that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ch-be/`. The federal law is in [lexifina/switzerland-law](https://github.com/lexifina/switzerland-law).
