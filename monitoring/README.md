@@ -6,7 +6,7 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Bern: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:06 UTC, Bern: Systematische Sammlung (www.belex.sites.be.ch): 403 Adressen gelesen; 208 hinzugefügt, 4 geändert, 1 entfernt; die Prüfung ist fehlgeschlagen; 218 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-24 14:44 UTC, Bern: Systematische Sammlung (www.belex.sites.be.ch): 227 Adressen gelesen; 208 hinzugefügt, 2 geändert, 1 entfernt; die Prüfung ist fehlgeschlagen; 213 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
@@ -18,6 +18,7 @@ Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.co
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:40](checks/2026-11.md#ch-lexwork-bern-20261124t144009z) | lexwork-bern | 227 | 208 | 2 | 1 | 213 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 11:58](checks/2026-11.md#ch-lexwork-bern-20261124t115847z) | lexwork-bern | 403 | 208 | 4 | 1 | 218 (0) | die Prüfung ist fehlgeschlagen | — |
 
 ## Selbst prüfen

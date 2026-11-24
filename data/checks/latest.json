@@ -1,36 +1,36 @@
 {
- "generated": "2026-11-24T12:06:01Z",
+ "generated": "2026-11-24T15:04:35Z",
  "latest": {
   "lexwork-bern|switzerland/bern/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 72,
-    "current": 497,
+    "current": 499,
     "gone": 1,
     "held": 502,
     "not_at_source": 0,
     "out_of_scope": 3,
-    "pending": 212,
+    "pending": 210,
     "repo": 501,
     "source_in_scope": 709
    },
-   "check_id": "ch-lexwork-bern-20261124T115847Z",
+   "check_id": "ch-lexwork-bern-20261124T144009Z",
    "commits": null,
    "corpus": "switzerland/bern/acts",
-   "error": "RuntimeError: the kit's append gate: error: append-only: refusing to replace existing tag 102-1-sonderstatutsgesetz-sstg/2014-06-01",
-   "finished": "2026-11-24T12:06:00Z",
+   "error": "RuntimeError: the kit's append gate: error: published head c182dd818dda89fe3b9aa5f70424a577ac32a4a0 timestamp 1795521962 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:44:12Z",
    "flags": [],
-   "gap": 218,
-   "note": "www.belex.sites.be.ch: index of 712 acts (712 in force); held 502; 208 in force and in scope not held yet, 3 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 72 held acts compared with the collection this check (every one within 7 days); 208 candidate acts read",
+   "gap": 213,
+   "note": "www.belex.sites.be.ch: index of 712 acts (712 in force); held 502; 208 in force and in scope not held yet, 3 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 72 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 403,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 227,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -244,10 +244,8 @@
      "945.4-1"
     ],
     "changed": [
-     "152.053.2",
-     "152.053.3",
-     "152.053.4",
-     "152.053.7"
+     "169.11",
+     "169.81"
     ],
     "removed": [
      "152.040.2"
@@ -255,13 +253,13 @@
    },
    "snapshot": "712 entries, 712 in force (www.belex.sites.be.ch)",
    "source": "lexwork-bern",
-   "started": "2026-11-24T11:58:47Z",
+   "started": "2026-11-24T14:40:09Z",
    "unexplained": 0,
    "update": {
-    "left_for_next_check": 62,
+    "left_for_next_check": 60,
     "letters_check_dropped": {},
-    "new": 146,
-    "nothing_new": 4,
+    "new": 148,
+    "nothing_new": 2,
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
