@@ -1,6 +1,6 @@
 # Verordnung über die digitale Verwaltung
 
-DVV · 3 versions, from 2023-03-01 (latest in force: 2026-09-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/109.111>
+DVV · 3 versions, from 2023-03-01 (latest in force: 2026-11-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/109.111>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

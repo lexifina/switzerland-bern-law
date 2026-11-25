@@ -1,6 +1,6 @@
 # How this repository was made (Bern)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -516,20 +516,168 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `941-11-mgv` | Verordnung über das Mass- und Gewichtswesen | 11 | 2014-01-01 to 2026-01-01 |
 | `943-511-1-kantonale-waffenverordnung-kwv` | Verordnung über den Vollzug des eidgenössischen Waffenrechts | 3 | 2012-01-01 to 2021-04-01 |
 | `943-521-kantonale-sprengstoffverordnung-ksprstv` | Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe | 2 | 2009-01-01 to 2021-04-01 |
+| `102-1-sonderstatutsgesetz-sstg` | Gesetz über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne | 5 | 2014-06-01 to 2025-03-01 |
+| `102-111-1-go-bjr` | Geschäftsordnung des Bernjurassischen Rats | 7 | 2015-10-01 to 2026-06-01 |
+| `102-111-2-go-rfb` | Geschäftsordnung des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne | 4 | 2014-10-01 to 2026-06-01 |
+| `105-42` | Grossratsbeschluss betreffend den Beitritt zum Gebietsänderungskonkordat über den Wechsel der bernischen Einwohnergemeinde Clavaleyres zum Kanton Freiburg | 1 | 2020-02-09 to 2020-02-09 |
+| `105-42-1` | Gebietsänderungskonkordat über den Wechsel der bernischen Einwohnergemeinde Clavaleyres zum Kanton Freiburg | 1 | 2022-01-01 to 2022-01-01 |
+| `105-43` | Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen den Kantonen Bern und Freiburg über den Vollzug des Wechsels der Gemeinde Clavaleyres zum Kanton Freiburg | 1 | 2022-01-01 to 2022-01-01 |
+| `105-43-1` | Vereinbarung zwischen den Kantonen Bern und Freiburg über den Vollzug des Wechsels der Gemeinde Clavaleyres zum Kanton Freiburg | 1 | 2022-01-01 to 2022-01-01 |
+| `105-234` | Grossratsbeschluss betreffend den Beitritt zum Konkordat zwischen den Kantonen Bern und Jura über den Wechsel der Einwohnergemeinde Moutier zum Kanton Jura | 1 | 2024-09-22 to 2024-09-22 |
+| `105-234-1-moutier-konkordat` | Konkordat zwischen den Kantonen Bern und Jura über den Wechsel der Einwohnergemeinde Moutier zum Kanton Jura | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1` | Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura | 6 | 2025-01-01 to 2026-05-01 |
+| `105-235-1-1-vollzugsvereinbarung-nr-1` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die evangelisch-reformierte Kirchgemeinde Moutier | 1 | 2025-01-01 to 2025-01-01 |
+| `105-235-1-2-vollzugsvereinbarung-nr-2` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die römisch-katholische Kirchgemeinde Moutier | 1 | 2025-01-01 to 2025-01-01 |
+| `105-235-1-3-vollzugsvereinbarung-nr-3` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Steuerbereich | 1 | 2025-01-01 to 2025-01-01 |
+| `105-235-1-4-vollzugsvereinbarung-nr-4` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Volksschulbereich | 1 | 2025-07-01 to 2025-07-01 |
+| `105-235-1-5-vollzugsvereinbarung-nr-5` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Sekundarstufe II | 2 | 2025-07-01 to 2026-05-01 |
+| `105-235-1-6-vollzugsvereinbarung-nr-6` | Rahmenvereinbarung zwischen den Kantonen Bern und Jura für sämtliche Vollzugsvereinbarungen im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier | 1 | 2025-07-01 to 2025-07-01 |
+| `105-235-1-7-vollzugsvereinbarung-nr-7` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Burgergemeinde Moutier | 1 | 2025-07-01 to 2025-07-01 |
+| `105-235-1-8-vollzugsvereinbarung-nr-8` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend das Bürgerrecht | 1 | 2025-10-01 to 2025-10-01 |
+| `105-235-1-9-vollzugsvereinbarung-nr-9` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Verwaltung der in der Gemeinde Moutier gelegenen belasteten Standorte | 1 | 2025-10-01 to 2025-10-01 |
+| `105-235-1-10-vollzugsvereinbarung-nr-10` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Besteuerung und Zulassungsänderung von Fahrzeugen | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-11-vollzugsvereinbarung-nr-11` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Übertragung der Kantonsstrassen und den Winterdienst | 1 | 2025-10-01 to 2025-10-01 |
+| `105-235-1-12-vollzugsvereinbarung-nr-12` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Modalitäten der Übertragung an den Kanton Jura von Grundstücken des Kantons Bern | 1 | 2025-10-01 to 2025-10-01 |
+| `105-235-1-13-vollzugsvereinbarung-nr-13` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend archäologische Objekte und Baudenkmäler | 1 | 2025-10-01 to 2025-10-01 |
+| `105-235-1-14-vollzugsvereinbarung-nr-14` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend das Zivilstandswesen | 1 | 2025-10-01 to 2025-10-01 |
+| `105-235-1-16-vollzugsvereinbarung-nr-16` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Übertragung von Archiven | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-17-vollzugsvereinbarung-nr-17` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den polizeilichen Bereich | 1 | 2025-11-15 to 2025-11-15 |
+| `105-235-1-18-vollzugsvereinbarung-nr-18` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Aufnahme und Unterbringung von Personen aus dem Asylbereich, die in Privatunterkünften in Moutier untergebracht sind | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-19-vollzugsvereinbarung-nr-19` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Vermögensausscheidung | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-20-vollzugsvereinbarung-nr-20` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Anpassung der Finanzflüsse | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-21-vollzugsvereinbarung-nr-21` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Bereich der Musikschulen | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-22-vollzugsvereinbarung-nr-22` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Bereich Natur- und Waldschutz | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-23-vollzugsvereinbarung-nr-23` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Änderung von rechtskräftigen öffentlich-rechtlichen Entscheiden und Urteilen | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-24-vollzugsvereinbarung-nr-24` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Bereiche des Grundbuchs und des Notariatsrechts | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-25-vollzugsvereinbarung-nr-25` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend das Rettungswesen | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-26-vollzugsvereinbarung-nr-26` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Ausbildung von medizinischem und Pflegepersonal | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-27-vollzugsvereinbarung-nr-27` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Landwirtschaft | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-28-vollzugsvereinbarung-nr-28` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die vor Gerichtsbehörden hängigen Verfahren | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-29-vollzugsvereinbarung-nr-29` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Bereich des Sozialwesens | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-30-vollzugsvereinbarung-nr-30` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Behandlung hängiger Schuldbetreibungs- und Konkursverfahren | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-31-vollzugsvereinbarung-nr-31` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend Strafverfahren in der Phase des Vorverfahrens | 1 | 2026-01-01 to 2026-01-01 |
+| `105-235-1-32-vollzugsvereinbarung-nr-32` | Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend den Gesundheitsbereich | 1 | 2026-01-01 to 2026-01-01 |
+| `122-30` | Grossratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands | 1 | 2008-11-01 to 2008-11-01 |
+| `122-30-1` | Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands | 1 | 2008-11-01 to 2008-11-01 |
+| `141-221` | Regierungsratsbeschluss betreffend die Nummerierung der Listen bei Nationalratswahlen | 1 | 1987-08-12 to 1987-08-12 |
+| `151-41` | Grossratsbeschluss betreffend den Beitritt zur Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz | 3 | 1979-01-01 to 2022-09-05 |
+| `151-41-1` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz | 3 | 1979-01-01 to 2023-02-25 |
+| `151-42-1` | Vereinbarung über die Nordwestschweizer Regierungskonferenz | 2 | 2012-07-01 to 2025-07-01 |
+| `151-43-1` | Leitbild der Westschweizer Regierungskonferenz | 1 | 2005-06-09 to 2005-06-09 |
+| `151-211-go` | Geschäftsordnung des Grossen Rates | 6 | 2014-06-01 to 2026-09-01 |
+| `151-212` | Geschäftsordnung der Deputation des Berner Juras und Welschbiels | 1 | 2014-10-22 to 2014-10-22 |
+| `152-09-icsg` | Gesetz über die Informations- und Cybersicherheit | 1 | 2026-11-01 to 2026-11-01 |
+| `152-010-adsd` | Dekret über die Aufgaben der Direktionen und der Staatskanzlei und die Direktionsbezeichnungen | 3 | 2020-01-01 to 2024-01-01 |
+| `152-091-idsv` | Verordnung über die Informations- und Datensicherheit | 1 | 2026-11-01 to 2026-11-01 |
+| `154-11-gebd-gr-rr` | Dekret über die Gebühren des Grossen Rates und des Regierungsrates | 2 | 2013-10-01 to 2020-10-01 |
+| `161-12-verfahrenskostendekret-vkd` | Dekret betreffend die Verfahrenskosten und die Verwaltungsgebühren der Gerichtsbehörden und der Staatsanwaltschaft | 3 | 2013-06-01 to 2026-05-01 |
+| `161-13-gsd` | Dekret über die Gerichtssprachen | 2 | 2013-06-01 to 2026-05-01 |
+| `162-111` | Grossratsbeschluss betreffend die Verlängerung der Amtsdauer der Mitglieder und Ersatzmitglieder des Obergerichtes und Festlegung des Beginns der Amtsdauer auf den 1. Januar | 1 | 1986-08-25 to 1986-08-25 |
+| `162-112` | Grossratsbeschluss betreffend die Verlängerung der Amtsdauer der Mitglieder und Ersatzmitglieder des Obergerichts | 1 | 1999-01-01 to 1999-01-01 |
+| `166-1-enrd` | Dekret über die Entschädigung der nebenamtlichen Richterinnen und Richter | 2 | 2013-06-01 to 2024-01-01 |
+| `173-11` | Grossratsbeschluss betreffend den Beitritt zum Karlsruher Übereinkommen | 1 | 2005-10-01 to 2005-10-01 |
+| `173-11-1-karlsruher-ubereinkommen` | Übereinkommen zwischen der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik, der Regierung des Grossherzogtums Luxemburg und dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen | 1 | 2005-10-01 to 2005-10-01 |
+| `212-223-4` | Grossratsbeschluss betreffend die Genehmigung der Vereinbarung zwischen dem Kanton Bern und dem Kanton Freiburg über die Aufsicht über die Einrichtungen der beruflichen Vorsorge mit Sitz im Kanton Freiburg | 1 | 2012-01-01 to 2012-01-01 |
+| `212-223-4-1` | Interkantonale Vereinbarung zwischen dem Kanton Bern und dem Kanton Freiburg über die Aufsicht über die Einrichtungen der beruflichen Vorsorge mit Sitz im Kanton Freiburg | 1 | 2012-01-01 to 2012-01-01 |
+| `212-225-11` | Dekret über die Bestätigung von Legaten | 1 | 1994-01-01 to 1994-01-01 |
+| `222-153-21-nav-landwirtschaft` | Normalarbeitsvertrag für die Landwirtschaft | 1 | 2012-01-01 to 2012-01-01 |
+| `222-153-22-nav-hausdienst` | Normalarbeitsvertrag für den Hausdienst | 2 | 2012-01-01 to 2020-01-01 |
+| `222-153-23-nav-detailhandel` | Normalarbeitsvertrag für den Detailhandel | 1 | 2012-01-01 to 2012-01-01 |
+| `222-153-24-nav-24-stunden-betreuung` | Normalarbeitsvertrag für die 24-Stunden-Betreuung | 1 | 2020-01-01 to 2020-01-01 |
+| `224-11` | Dekret über die Organisation des Handelsregisters | 2 | 2007-09-01 to 2020-11-01 |
+| `271-1-eg-zsj` | Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung | 10 | 2013-06-01 to 2026-09-01 |
+| `322-1-vhis` | Grossratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz | 1 | 2025-07-01 to 2025-07-01 |
+| `322-1-1-vhis` | Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz | 1 | 2025-07-01 to 2025-07-01 |
+| `349-1` | Grossratsbeschluss betreffend den Beitritt zum Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen | 1 | 2008-01-01 to 2008-01-01 |
+| `349-1-1` | Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen | 1 | 2008-01-01 to 2008-01-01 |
+| `410-291` | Grossratsbeschluss betreffend Konvention zwischen dem Staat Bern und der Evangelisch-reformierten Landeskirche des Kantons Bern, einerseits, und der Evangelisch-reformierten Kirche des Kantons Jura, anderseits, über den Synodalverband | 1 | 1981-01-01 to 1981-01-01 |
+| `410-291-1` | Konvention zwischen dem Staat Bern und der Evangelischreformierten Landeskirche des Kantons Bern, einerseits, und der Evangelisch-reformierten Kirche des Kantons Jura, anderseits, über den Synodalverband | 1 | 1981-01-01 to 1981-01-01 |
+| `410-331` | Übereinkunft wegen der Herstellung und neuen Umschreibung des Bistums Basel | 1 | 1828-03-26 to 1828-03-26 |
+| `410-332` | Übereinkunft zwischen den hohen Ständen Luzern, Bern, Solothurn und Zug für die Organisation des Bistums Basel | 1 | 1828-03-28 to 1828-03-28 |
+| `410-333` | Dekret über Promulgation der päbstlichen Bulle | 1 | 1828-08-17 to 1828-08-17 |
+| `410-334` | Übereinkunft betreffend die Einverleibung des alten Kantonsteiles Bern in das Bistum Basel | 1 | 1864-06-22 to 1864-06-22 |
+| `411-231-91` | Übereinkunft mit dem hohen Stande Freiburg zu näherer Bestimmung der kirchlichen Verhältnisse der gemischten Gemeinden Ferenbalm, Kerzers und Murten | 1 | 1889-02-06 to 1889-02-06 |
+| `411-232-11` | Übereinkunft mit Solothurn betreffend die Verhältnisse der ehemaligen Kollaturpfarrei Oberwil | 1 | 1851-07-04 to 1851-07-04 |
+| `411-232-12` | Grossratsbeschluss zur Übereinkunft zwischen den Ständen Bern und Solothurn vom 23. Dezember 1958 betreffend die kirchlichen Verhältnisse in den evangelisch-reformierten Kirchgemeinden des Bucheggberges und der Bezirke Solothurn, Lebern und Kriegstetten; Änderung und Ergänzung vom 24. September 1979 | 1 | 1980-01-08 to 1980-01-08 |
+| `411-232-12-1` | Übereinkunft zwischen den Ständen Bern und Solothurn betreffend die kirchlichen Verhältnisse in den evangelisch-reformierten Kirchgemeinden des Bucheggberges und der Bezirke Solothurn, Lebern und Kriegstetten vom 23. Dezember 1958 | 1 | 1959-02-18 to 1959-02-18 |
+| `412-11` | Grossratsbeschluss über die Zahl der vom Kanton besoldeten Pfarrstellen | 1 | 2015-01-01 to 2015-01-01 |
+| `421-228` | Vereinbarung zwischen dem Eidgenössischen Departement des Innern und dem Regierungsrat des Kantons Bern betreffend die Archivierung der Akten, die von der Pro Juventute im Zusammenhang mit der Aktion «Kinder der Landstrasse» angelegt wurden | 1 | 1996-03-06 to 1996-03-06 |
+| `436-111-2-universitatsstatut-unist` | Statut der Universität Bern | 1 | 2011-08-01 to 2011-08-01 |
+| `439-12` | Regierungsratsbeschluss betreffend Abschluss eines Vertrages mit dem Kanton Jura über die Sekundarschule La Courtine in Bellelay | 1 | 1996-01-01 to 1996-01-01 |
+| `439-12-1` | Vertrag zwischen den Kantonen Bern und Jura über die Sekundarschule La Courtine in Bellelay | 1 | 2002-01-01 to 2002-01-01 |
+| `439-13` | Grossratsbeschluss über den Beitritt des Kantons Bern zum Konkordat vom 29. Oktober 1970 über die Schulkoordination | 1 | 1988-11-22 to 1988-11-22 |
+| `439-13-1` | Konkordat über die Schulkoordination | 1 | 1988-11-22 to 1988-11-22 |
+| `439-14` | Grossratsbeschluss betreffend den Beitritt zum Regionalen Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009) | 2 | 2009-08-01 to 2020-11-01 |
+| `439-14-1-rsa-2009` | Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen | 11 | 2015-08-01 to 2025-08-01 |
+| `439-15-bejune-vereinbarung` | Regierungsratsbeschluss über die Vereinbarung zwischen den Kantonen Bern, Jura und Neuenburg über die Beiträge an die Unterrichtskosten | 2 | 2015-08-01 to 2020-11-01 |
+| `439-15-1-bejune-vereinbarung` | Vereinbarung zwischen den Kantonen Bern, Jura und Neuenburg über die Beiträge an die Unterrichtskosten | 10 | 2015-08-01 to 2025-08-01 |
+| `439-16` | Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (Berufsfachschulvereinbarung, BFSV) | 1 | 2007-08-01 to 2007-08-01 |
+| `439-16-1-berufsfachschulvereinbarung-bfsv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 9 | 2015-08-01 to 2026-08-01 |
+| `439-18` | Grossratsbeschluss betreffend den Beitritt des Kantons Bern zur interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (Diplomanerkennungsvereinbarung) | 1 | 2015-05-20 to 2015-05-20 |
+| `439-18-1-diplomanerkennungsvereinbarung` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 3 | 2015-05-20 to 2020-02-01 |
+| `439-20` | Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 1998-01-01 to 2020-01-01 |
+| `439-20-1-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 1998-01-01 to 2022-01-01 |
+| `439-21-fhv` | Grossratsbeschluss über den Beitritt des Kantons Bern zur Interkantonalen Fachhochschulvereinbarung vom 12. Juni 2003 | 1 | 2005-09-01 to 2005-09-01 |
+| `439-21-1-fhv` | Interkantonale Fachhochschulvereinbarung ab 2005 | 1 | 2005-09-01 to 2005-09-01 |
+| `439-27` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über den schweizerischen Hochschulbereich (Hochschulkonkordat) | 1 | 2015-01-01 to 2015-01-01 |
+| `439-27-1-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `439-28-g-konkordat-hep-bejune` | Gesetz über den Beitritt zum Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg | 2 | 2005-09-01 to 2021-08-01 |
+| `439-28-1-konkordat-hep-bejune` | Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg | 2 | 2001-08-01 to 2021-08-01 |
+| `439-31` | Regierungsratsbeschluss betreffend die Genehmigung der Zusammenarbeitsvereinbarung zwischen den Kantonen Bern und Jura mit dem Ziel, jungen Artistinnen und Artisten sowie jungen Sportlerinnen und Sportlern zu ermöglichen, Schulausbildung und Künstler- oder Sportlerkarriere zu vereinbaren | 1 | 2001-11-21 to 2001-11-21 |
+| `439-31-1` | Zusammenarbeitsvereinbarung zwischen den Kantonen Bern und Jura mit dem Ziel, jungen Artistinnen und Artisten sowie jungen Sportlerinnen und Sportlern zu ermöglichen, Schulausbildung und Künstler- oder Sportlerkarriere zu vereinbaren | 1 | 2001-11-21 to 2001-11-21 |
+| `439-32` | Gesetz über den Beitritt des Kantons Bern zur interkantonalen Vereinbarung über die Fachhochschule der Westschweiz und zur interkantonalen Vereinbarung über die Hochschule Arc Bern-Jura-Neuenburg | 1 | 2014-08-01 to 2014-08-01 |
+| `439-32-1-hes-so` | Interkantonale Vereinbarung über die Fachhochschule der Westschweiz | 1 | 2014-08-01 to 2014-08-01 |
+| `439-32-2-he-arc` | Interkantonale Vereinbarung über die Hochschule Arc Bern-Jura-Neuenburg | 1 | 2014-08-01 to 2014-08-01 |
+| `439-33` | Grossratsbeschluss Beitritt des Kantons Bern zur Interkantonalen Vereinbarung vom 27. September 2001 über die Herstellung und den Vertrieb von Informationsmitteln in der Studien- und Berufsberatung | 1 | 2003-04-01 to 2003-04-01 |
+| `439-33-1` | Interkantonale Vereinbarung vom 27. September 2001 über die Herstellung und den Vertrieb von Informationsmitteln in der Studien- und Berufsberatung | 1 | 2003-04-01 to 2003-04-01 |
+| `439-34` | Grossratsbeschluss betreffend den Abschluss der Vereinbarung zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH) | 3 | 2015-01-01 to 2026-03-01 |
+| `439-34-1` | Vereinbarung zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH) | 3 | 2015-01-01 to 2026-08-01 |
+| `439-35` | Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung über den Sprachaustausch von Schülerinnen und Schülern in den Regionen Pays-d'Enhaut und Obersimmental-Saanen | 2 | 2004-08-01 to 2020-05-01 |
+| `439-35-1` | Vereinbarung über den Sprachaustausch von Schülerinnen und Schülern in den Regionen Pays-d'Enhaut und Obersimmental-Saanen | 2 | 2004-08-01 to 2020-05-01 |
+| `439-36` | Grossratsbeschluss über den Beitritt zur Vereinbarung über die Vetsuisse-Fakultät der Universitäten Bern und Zürich | 2 | 2006-09-01 to 2020-07-01 |
+| `439-36-1` | Vereinbarung über die Vetsuisse-Fakultät der Universitäten Bern und Zürich | 1 | 2006-09-01 to 2006-09-01 |
+| `439-38` | Gesetz betreffend den Beitritt zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 1 | 2013-08-01 to 2013-08-01 |
+| `439-38-1` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 2 | 2015-08-01 to 2022-08-01 |
+| `439-51` | Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen den Kantonen Bern und Jura zur Errichtung der interjurassischen Kommission für land- und hauswirtschaftliche Berufsbildung (IKOLAB) | 2 | 2007-01-01 to 2026-01-01 |
+| `439-51-1` | Vereinbarung zwischen den Kantonen Bern und Jura zur Errichtung der interjurassischen Kommission für die land- und hauswirtschaftliche Berufsbildung (IKOLAB) | 2 | 2007-01-01 to 2026-01-01 |
+| `439-52` | Regierungsratsbeschluss betreffend den Vertrag zwischen den Kantonen Bern und Jura über das interjurassische Zentrum für Medien und Informations- und Kommunikationstechnologien (MIKT) | 1 | 2007-03-01 to 2007-03-01 |
+| `439-52-1` | Vertrag zwischen den Kantonen Bern und Jura über das interjurassische MIKT-Zentrum | 1 | 2007-03-01 to 2007-03-01 |
+| `439-54` | Regierungsratsbeschluss betreffend den Beitritt zur interkantonalen Vereinbarung für schulische Angebote in Spitälern | 1 | 2025-03-01 to 2025-03-01 |
+| `439-54-1-interkantonale-spitalschulvereinbarung-isv` | Interkantonale Vereinbarung für schulische Angebote in Spitälern | 1 | 2026-01-01 to 2026-01-01 |
+| `439-60` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Harmonisierung der Volksschule | 1 | 2009-08-01 to 2009-08-01 |
+| `439-60-1` | Interkantonale Vereinbarung über die Harmonisierung der Volksschule | 1 | 2009-08-01 to 2009-08-01 |
+| `439-61` | Grossratsbeschluss betreffend den Beitritt zur Westschweizer Schulvereinbarung | 1 | 2009-08-01 to 2009-08-01 |
+| `439-61-1` | Westschweizer Schulvereinbarung | 1 | 2009-08-01 to 2009-08-01 |
+| `439-63` | Grossratsbeschluss betreffend die Genehmigung des Statuts der Interkantonalen Lehrmittelzentrale ilz (ilz-Statut) | 2 | 2014-01-01 to 2021-11-01 |
+| `439-63-1-ilz-statut` | Statut der Interkantonalen Lehrmittelzentrale ilz | 1 | 2014-01-01 to 2014-01-01 |
+| `439-71-accord-cili-bejune` | Arrêté du Conseil-exécutif concernant l'accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature | 3 | 2009-01-01 to 2022-10-01 |
+| `439-71-1-accord-cili-bejune` | Accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature | 3 | 2009-01-01 to 2025-04-01 |
+| `439-121-1` | Convention entre le Canton de Berne et la République et Canton du Jura concernant les écolages liés aux fréquentations scolaires transfrontalières dans le cadre de la scolarité obligatoire | 3 | 2016-08-01 to 2022-08-01 |
+| `439-175` | Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV) | 2 | 2014-10-01 to 2020-11-01 |
+| `439-175-1-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-10-01 to 2014-10-01 |
+| `439-179` | Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zwischen dem Kanton Bern und dem Kanton Solothurn betreffend Höhere Fachschule für Technik Mittelland (HFTM-AG) | 2 | 2012-08-01 to 2020-11-01 |
+| `439-179-1` | Interkantonale Vereinbarung zwischen dem Kanton Bern und dem Kanton Solothurn betreffend Höhere Fachschule für Technik Mittelland (HFTM-AG) | 1 | 2012-08-01 to 2012-08-01 |
+| `439-181-1-edk` | Erlasse der Organe der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren | 1 | 2015-11-01 to 2015-11-01 |
+| `439-182-8` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 2 | 2011-08-01 to 2021-11-01 |
+| `439-182-8-1` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2011-08-01 to 2011-08-01 |
+| `515-81` | Grossratsbeschluss über die Errichtung der Laupenstiftung | 2 | 1993-01-01 to 2021-04-01 |
+| `521-91` | Grossratsbeschluss betreffend Abschluss eines Vertrages mit dem Kanton Jura über die Benützung der Zivilschutz-Ausbildungszentren von Tramelan, Laufen und Lyss/Kappelen | 1 | 1981-01-01 to 1981-01-01 |
 
-The build made 1239 commits:
+The build made 1483 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 502 | first version of an act |
-| 737 | one law on its in-force day |
+| 318 | baseline texts where the record starts |
+| 1165 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 5 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2099 laws in the record.
-- 2756 tags.
+- 5 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 9 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 2340 laws in the record.
+- 3174 tags.
 
 ## Dates
 
@@ -541,13 +689,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `836f0a58c26f2ddd1634619802d1ff4c42dc475a52318da06e21dd3ae33c3007` (21262497 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `cd67701d94c198af5b12732d9cd4cde508949889cf77c617ff7a0da6caa533ac` (23495089 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-1839 versions of 502 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -561,7 +709,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

@@ -1,6 +1,6 @@
 # Verordnung über die Ausgleichskasse des Kantons Bern und ihre Zweigstellen
 
-AKBV · 2 versions, from 2012-01-01 (latest in force: 2012-01-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/841.111>
+AKBV · 2 versions, from 2012-01-01 (latest in force: 2026-11-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/841.111>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,6 +29,5 @@ AKBV · 2 versions, from 2012-01-01 (latest in force: 2012-01-01) · <https://ww
 | Art. 22 | [art-022.md](art-022.md) | 0 |  |
 | Art. 23 | [art-023.md](art-023.md) | 0 |  |
 | Art. 24 | [art-024.md](art-024.md) | 0 |  |
-| Gliederung | [gliederung.md](gliederung.md) | 1 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2026-11-01 |
 | Schlussformel | [schluss.md](schluss.md) | 0 |  |

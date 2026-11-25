@@ -1,6 +1,6 @@
 # Verordnung über die Leistungen für Menschen mit Behinderungen
 
-BLV · 5 versions, from 2024-01-01 (latest in force: 2026-01-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/860.31>
+BLV · 5 versions, from 2024-01-01 (latest in force: 2026-11-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/860.31>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -56,6 +56,8 @@ BLV · 5 versions, from 2024-01-01 (latest in force: 2026-01-01) · <https://www
 | Art. 50 | [art-050.md](art-050.md) | 3 | 2026-11-01 |
 | Art. 51 | [art-051.md](art-051.md) | 3 | 2026-11-01 |
 | Art. 52 | [art-052.md](art-052.md) | 3 | 2026-11-01 |
+| Art. 52a | [art-052a.md](art-052a.md) | 1 | 2026-11-01 |
+| Art. 52b | [art-052b.md](art-052b.md) | 1 | 2026-11-01 |
 | Art. 53 | [art-053.md](art-053.md) | 0 |  |
 | Art. 54 | [art-054.md](art-054.md) | 1 | 2026-11-01 |
 | Art. 55 | [art-055.md](art-055.md) | 1 | 2026-11-01 |
@@ -100,6 +102,5 @@ BLV · 5 versions, from 2024-01-01 (latest in force: 2026-01-01) · <https://www
 | Art. 94 | [art-094.md](art-094.md) | 1 | 2026-11-01 |
 | Art. A1-1 | [art-a001-001.md](art-a001-001.md) | 3 | 2026-11-01 |
 | Art. A2-1 | [art-a002-001.md](art-a002-001.md) | 2 | 2026-01-01 |
-| Gliederung | [gliederung.md](gliederung.md) | 1 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 1 | 2026-11-01 |
 | Schlussformel | [schluss.md](schluss.md) | 0 |  |

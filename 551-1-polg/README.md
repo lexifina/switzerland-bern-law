@@ -1,6 +1,6 @@
 # Polizeigesetz
 
-PolG · 8 versions, from 2013-01-01 (latest in force: 2026-09-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/551.1>
+PolG · 8 versions, from 2013-01-01 (latest in force: 2026-11-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/551.1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -176,9 +176,7 @@ PolG · 8 versions, from 2013-01-01 (latest in force: 2026-09-01) · <https://ww
 | Art. 157 | [art-157.md](art-157.md) | 2 | 2026-09-01 |
 | Art. 158 | [art-158.md](art-158.md) | 2 | 2026-09-01 |
 | Art. 159 | [art-159.md](art-159.md) | 4 | 2026-11-01 |
-| Art. 160 | [art-160.md](art-160.md) | 2 | 2026-11-01 |
-| Art. 161 | [art-161.md](art-161.md) | 2 | 2026-11-01 |
-| Art. 162 | [art-162.md](art-162.md) | 3 | 2026-11-01 |
+| Art. 160–162 | [art-160162.md](art-160162.md) | 1 | 2026-11-01 |
 | Art. 163 | [art-163.md](art-163.md) | 4 | 2026-09-01 |
 | Art. 164 | [art-164.md](art-164.md) | 2 | 2026-09-01 |
 | Art. 165 | [art-165.md](art-165.md) | 1 | 2020-01-01 |

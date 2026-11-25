@@ -1,6 +1,6 @@
 # Verordnung über die Datenbearbeitung im Asyl-, Flüchtlings- und Ausländerbereich
 
-DAFAV · 4 versions, from 2020-07-01 (latest in force: 2026-09-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/861.112>
+DAFAV · 4 versions, from 2020-07-01 (latest in force: 2026-11-01) · <https://www.belex.sites.be.ch/app/de/texts_of_law/861.112>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
