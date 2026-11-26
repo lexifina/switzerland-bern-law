@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Bern: Systematische Sammlung (www.belex.sites.be.ch) · `switzerland/bern/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 06:30 UTC**.
-- Vorschriften hier: 502; aktuell gegenüber der Quelle: 497; an der Quelle geändert seit der Fassung hier: 212; nicht mehr an der Quelle: 1.
-- In diesem Lesen mit der Quelle verglichen: 218 der 502 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 82 (von einer Prüfung zurückgehalten: 1, neu an der Quelle, hier noch nicht veröffentlicht: 62, an der Quelle geändert seit der Fassung hier: 4, tritt später in Kraft: 15); ohne Grund: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 06:10 UTC**.
+- Vorschriften hier: 648; aktuell gegenüber der Quelle: 647; an der Quelle geändert seit der Fassung hier: 62; nicht mehr an der Quelle: 1.
+- In diesem Lesen mit der Quelle verglichen: 155 der 648 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Nicht veröffentlicht: 15 (von einer Prüfung zurückgehalten: 1, tritt später in Kraft: 14); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).
