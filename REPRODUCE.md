@@ -1,6 +1,6 @@
 # How this repository was made (Bern)
 
-This file is written by the build on 2026-11-25, the day the source data was retrieved.
+This file is written by the build on 2026-11-26, the day the source data was retrieved.
 
 ## Sources
 
@@ -662,22 +662,84 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `439-182-8-1` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2011-08-01 to 2011-08-01 |
 | `515-81` | Grossratsbeschluss über die Errichtung der Laupenstiftung | 2 | 1993-01-01 to 2021-04-01 |
 | `521-91` | Grossratsbeschluss betreffend Abschluss eines Vertrages mit dem Kanton Jura über die Benützung der Zivilschutz-Ausbildungszentren von Tramelan, Laufen und Lyss/Kappelen | 1 | 1981-01-01 to 1981-01-01 |
+| `521-91-1` | Vertrag zwischen dem Kanton Bern, vertreten durch den Regierungsrat, und der Republik und dem Kanton Jura, vertreten durch die Regierung, betreffend die Benützung der Zivilschutz-Ausbildungszentren von Tramelan, Laufen und Lyss/Kappelen | 1 | 1981-01-01 to 1981-01-01 |
+| `559-11` | Regierungsratsbeschluss betreffend Beitritt des Kantons Bern zum Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz | 1 | 1999-04-01 to 1999-04-01 |
+| `559-11-1` | Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz | 1 | 1999-04-01 to 1999-04-01 |
+| `559-12` | Grossratsbeschluss betreffend den Beitritt zum Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch | 1 | 2005-01-01 to 2005-01-01 |
+| `559-12-1` | Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch | 1 | 2005-01-01 to 2005-01-01 |
+| `559-13` | Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL) | 2 | 2006-08-01 to 2024-07-01 |
+| `559-13-1-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2006-08-01 to 2024-07-01 |
+| `559-14` | Grossratsbeschluss betreffend den Beitritt zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2014-03-12 to 2014-03-12 |
+| `559-14-1` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2014-03-12 to 2014-03-12 |
+| `559-15` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) | 1 | 2010-05-01 to 2010-05-01 |
+| `559-15-1-viclas-konkordat` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2010-05-01 to 2010-05-01 |
+| `559-16` | Grossratsbeschluss betreffend den Beitritt zur interkantonalen bzw. interbehördlichen Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität | 1 | 2020-09-01 to 2020-09-01 |
+| `559-16-1` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität | 1 | 2020-09-01 to 2020-09-01 |
+| `559-17` | Grossratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (VPTI) | 1 | 2021-04-01 to 2021-04-01 |
+| `559-17-1-vpti` | Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz | 1 | 2021-01-01 to 2021-01-01 |
+| `620-03-brdd` | Dekret über die Besondere Rechnung der kantonalen Aufsichtsstelle für Datenschutz | 2 | 2014-06-01 to 2020-11-01 |
+| `621-4` | Dekret über die Verwaltung von Geldhinterlagen und Wertsachen durch die Gerichte, Grundbuch-, Betreibungs- und Konkursämter | 1 | 2010-01-01 to 2010-01-01 |
+| `632-1` | Grossratsbeschluss betreffend den Beitritt zur Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV) | 1 | 2007-07-01 to 2007-07-01 |
+| `632-1-1-rahmenvereinbarung-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-07-01 to 2007-07-01 |
+| `661-543-and` | Dekret über die allgemeine Neubewertung der nichtlandwirtschaftlichen Grundstücke und Wasserkräfte | 3 | 1998-01-01 to 2021-12-21 |
+| `669-11` | Grossratsbeschluss über den Beitritt des Kantons Bern zum Konkordat zwischen den Kantonen über den Ausschluss von Steuerabkommen | 1 | 1949-02-21 to 1949-02-21 |
+| `669-811` | Grossratsbeschluss betreffend die Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern vom 11. April 1983 | 1 | 1986-09-10 to 1986-09-10 |
+| `682-2` | Gesetz über den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung vom 22. November 1973 über den Salzverkauf in der Schweiz | 1 | 1974-12-25 to 1974-12-25 |
+| `682-2-1` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `704-111-sfv` | See- und Flussuferverordnung | 4 | 2015-01-01 to 2023-01-01 |
+| `721-2` | Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe und Messweisen (IVHB) | 2 | 2008-03-12 to 2015-05-01 |
+| `721-2-1-ivhb` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 2 | 2010-11-26 to 2015-05-01 |
+| `723-13-nbrd` | Dekret über das Normalbaureglement | 3 | 2009-09-01 to 2020-08-01 |
+| `725-1-baubewilligungsdekret-bewd` | Dekret über das Baubewilligungsverfahren | 6 | 2012-01-01 to 2023-04-01 |
+| `728-1-baulandumlegungsdekret-bud` | Dekret über die Umlegung von Baugebiet, die Grenzregulierung und die Ablösung oder Verlegung von Dienstbarkeiten | 3 | 2012-01-01 to 2023-01-01 |
+| `731-2-ivobg` | Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 3 | 2014-10-01 to 2022-02-01 |
+| `731-2-1-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 2 | 2010-07-01 to 2021-07-01 |
+| `732-123-44-grundeigentumerbeitragsdekret-gbd` | Dekret über die Beiträge der Grundeigentümer an Erschliessungsanlagen und an weitere öffentliche Werke und Massnahmen | 2 | 2012-01-01 to 2017-04-01 |
+| `751-112-1` | Interkantonale Vereinbarung zwischen den Kantonen Freiburg, Waadt, Neuenburg, Bern und Solothurn über den gemeinsamen Unterhalt und die Aufsicht des interkantonalen Werkes der II. Juragewässerkorrektion sowie über die Regulierung der dadurch betroffenen Gewässer (Interkantonale Vereinbarung 1985 über die II. Juragewässerkorrektion) | 1 | 1994-01-01 to 1994-01-01 |
+| `752-413-rend` | Renaturierungsdekret | 2 | 2000-01-01 to 2021-04-01 |
+| `752-461-wad` | Dekret über die Wassernutzungsabgaben | 2 | 2015-01-01 to 2020-08-01 |
+| `752-511` | Beschluss des Regierungsrates betreffend Verbot der Verwendung von Tritium für hydrologische Untersuchungen | 1 | 1971-09-22 to 1971-09-22 |
+| `767-2-schiffssteuerdekret-ssd` | Dekret über die Besteuerung der Schiffe | 2 | 1991-01-01 to 2021-04-01 |
+| `767-11-schifffahrtsdekret` | Dekret über die Beschränkungen der Schifffahrt | 2 | 1992-01-01 to 2025-01-01 |
+| `811-08` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die hoch spezialisierte Medizin (IVHSM) | 1 | 2009-01-01 to 2009-01-01 |
+| `811-08-1-ivhsm` | Interkantonale Vereinbarung über die hoch spezialisierte Medizin | 1 | 2009-01-01 to 2009-01-01 |
+| `812-12-weiterbildungsfinanzierungsvereinbarung-wfv` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2018-04-01 to 2018-04-01 |
+| `812-12-1-weiterbildungsfinanzierungsvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-25 to 2022-01-25 |
+| `813-113` | Grossratsbeschluss betreffend den Beitritt zur Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorats | 1 | 2003-02-13 to 2003-02-13 |
+| `813-113-1` | Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates | 1 | 2003-02-13 to 2003-02-13 |
+| `854-13-dekret-ii-zum-gesetz-uber-die-verbesserung-des-wohnungsangebotes` | Dekret über die Verbesserung der Wohnverhältnisse in Berggebieten | 2 | 1998-01-01 to 2021-04-01 |
+| `854-17-dekret-vi-zum-gesetz-uber-die-verbesserung-des-wohnungsangebotes` | Dekret über die Wohnbau- und Eigentumsförderung | 2 | 2004-01-01 to 2021-04-01 |
+| `862-71` | Regierungsratsbeschluss betreffend den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) | 4 | 2006-01-01 to 2021-08-01 |
+| `862-71-1-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 2 | 2008-01-01 to 2020-06-01 |
+| `871-111-ffv` | Feuerschutz- und Feuerwehrverordnung | 3 | 2014-09-01 to 2025-04-01 |
+| `873-111-2` | Prämientarif der Gebäudeversicherung | 4 | 2015-04-01 to 2025-01-01 |
+| `923-919-1` | Vereinbarung zwischen den Kantonen Bern und Freiburg betreffend die Fischerei in den Grenzgewässern der Sense und Saane | 1 | 2010-01-01 to 2010-01-01 |
+| `923-921-1` | Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare | 3 | 1996-01-01 to 2026-01-01 |
+| `923-933-1` | Vereinbarung zwischen den Kantonen Bern und Neuenburg betreffend die Fischerei im Grenzgewässer des Zihlkanals | 1 | 1996-01-01 to 1996-01-01 |
+| `923-941-1` | Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen den Kantonen Bern und Jura über die Fischerei im interkantonalen Abschnitt der Birs | 1 | 2026-02-01 to 2026-02-01 |
+| `923-941-1-1` | Vereinbarung zwischen den Kantonen Bern und Jura über die Fischerei im interkantonalen Abschnitt der Birs | 1 | 2026-02-01 to 2026-02-01 |
+| `945-1` | Grossratsbeschluss betreffend den Beitritt zur interkantonalen Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2001-11-05 to 2001-11-05 |
+| `945-1-1-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2001-11-05 to 2001-11-05 |
+| `945-3` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020) | 2 | 2003-01-01 to 2020-09-01 |
+| `945-3-1-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 2 | 2003-01-01 to 2021-01-01 |
+| `945-4` | Grossratsbeschluss betreffend den Beitritt zum Gesamtschweizerischen Geldspielkonkordat (GSK) | 2 | 2006-01-01 to 2020-09-01 |
+| `945-4-1-gsk` | Gesamtschweizerisches Geldspielkonkordat | 2 | 2006-01-01 to 2021-01-01 |
 
-The build made 1483 commits:
+The build made 1579 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 318 | baseline texts where the record starts |
-| 1165 | named laws, court decisions and treaties |
+| 336 | baseline texts where the record starts |
+| 1243 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 5 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
-- 9 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2340 laws in the record.
-- 3174 tags.
+- 5 commits on the branch `zukunft`: laws not yet in force on 2026-11-26.
+- 10 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 2454 laws in the record.
+- 3334 tags.
 
 ## Dates
 
@@ -689,7 +751,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cd67701d94c198af5b12732d9cd4cde508949889cf77c617ff7a0da6caa533ac` (23495089 bytes).
+- Corpus: sha256 `644300e6872057fcf82d264b36c980988ef4b6ee24198e38663b480cc784ad3c` (24556518 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 

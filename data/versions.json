@@ -23976,6 +23976,1456 @@
      "sha256": "660464431e667cc0aea99e8b63d97f0488cd601fb5b2bcedaab67454752c29a6"
     }
    ]
+  },
+  {
+   "slug": "521-91-1",
+   "short": "BSG 521.91-1",
+   "title": "Vertrag zwischen dem Kanton Bern, vertreten durch den Regierungsrat, und der Republik und dem Kanton Jura, vertreten durch die Regierung, betreffend die Benützung der Zivilschutz-Ausbildungszentren von Tramelan, Laufen und Lyss/Kappelen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/521.91-1",
+   "versions": [
+    {
+     "from": "1981-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/521.91-1",
+     "sha256": "8a70660cd8c8fda1a26540f0f82c70a6be881626025f498f2b75ed59031df3fe"
+    }
+   ]
+  },
+  {
+   "slug": "559-11",
+   "short": "BSG 559.11",
+   "title": "Regierungsratsbeschluss betreffend Beitritt des Kantons Bern zum Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.11",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.11",
+     "sha256": "ba1e4464d83ae2d489cc558eecb5619292c578df44b8aa9922638b566eb5ac32"
+    }
+   ]
+  },
+  {
+   "slug": "559-11-1",
+   "short": "BSG 559.11-1",
+   "title": "Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.11-1",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.11-1",
+     "sha256": "4a8c8af80b89468dc9b223b9430051d7a477f72247269b285a40113371aa6f59"
+    }
+   ]
+  },
+  {
+   "slug": "559-12",
+   "short": "BSG 559.12",
+   "title": "Grossratsbeschluss betreffend den Beitritt zum Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.12",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.12",
+     "sha256": "6bc571fae0f96334424fa198be3aca19c2acd09945aea3f6265e23e1a71bb46d"
+    }
+   ]
+  },
+  {
+   "slug": "559-12-1",
+   "short": "BSG 559.12-1",
+   "title": "Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.12-1",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.12-1",
+     "sha256": "31712de965a774e9e1751d1e898b2e5b6125c93cb554a4e6144fdc08cedc6e38"
+    }
+   ]
+  },
+  {
+   "slug": "559-13",
+   "short": "BSG 559.13",
+   "title": "Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.13",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "to": "2024-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.13/versions/648",
+     "sha256": "1fa5503d85903f8945355860e2bcaf686b15e180ef3c29d686ce0a6ae02ba167"
+    },
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.13",
+     "sha256": "4b8d6d845126c1be49abc3e19d52a28ca3a065493f002a70a32b1369517c0baf"
+    }
+   ]
+  },
+  {
+   "slug": "559-13-1-ikapol",
+   "short": "IKAPOL",
+   "title": "Vereinbarung über die interkantonalen Polizeieinsätze",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.13-1",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "to": "2024-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.13-1/versions/649",
+     "sha256": "647cebbff68cb6abda0c20cd3c821e8e2b01e647b6a1e5f8fb65c26aef243db9"
+    },
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.13-1",
+     "sha256": "5b19fe35d47b7c51072575b82e07cc46fa60caba8092009b26b7053797dfd28c"
+    }
+   ]
+  },
+  {
+   "slug": "559-14",
+   "short": "BSG 559.14",
+   "title": "Grossratsbeschluss betreffend den Beitritt zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.14",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.14",
+     "sha256": "3f9f0bf4db79edf09ed7d9bfec4805f4f235a305af48f9d3a931985b6b3f62f7"
+    }
+   ]
+  },
+  {
+   "slug": "559-14-1",
+   "short": "BSG 559.14-1",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.14-1",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.14-1",
+     "sha256": "4eeddda182c036f4e386c9be33c83367dc4a12dc3db270592c815df3e6137b88"
+    }
+   ]
+  },
+  {
+   "slug": "559-15",
+   "short": "BSG 559.15",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.15",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.15",
+     "sha256": "817e3c54de6237ed906108ce6c013a43ab1a8f496ab774582d82ed8ac8115c48"
+    }
+   ]
+  },
+  {
+   "slug": "559-15-1-viclas-konkordat",
+   "short": "ViCLAS-Konkordat",
+   "title": "Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.15-1",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.15-1",
+     "sha256": "558b1e2d4634195f1137955479c97a6fa7d5e3bcdee273b6b9bbbd082eeea2e4"
+    }
+   ]
+  },
+  {
+   "slug": "559-16",
+   "short": "BSG 559.16",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur interkantonalen bzw. interbehördlichen Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.16",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.16",
+     "sha256": "c9d5ed01405813701870f9e95af471dfafac8f87231b85696ac9ef0197aba622"
+    }
+   ]
+  },
+  {
+   "slug": "559-16-1",
+   "short": "BSG 559.16-1",
+   "title": "Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.16-1",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 24,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.16-1",
+     "sha256": "fc48de58cdd499c010b7d3f6f7fbde64c860ba0441f20dfc23b371ab5c8ac8d0"
+    }
+   ]
+  },
+  {
+   "slug": "559-17",
+   "short": "BSG 559.17",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (VPTI)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.17",
+   "versions": [
+    {
+     "from": "2021-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.17",
+     "sha256": "c4a4574646c1efc946efa56164830125171af20631a34e31f6f649a9f529fc17"
+    }
+   ]
+  },
+  {
+   "slug": "559-17-1-vpti",
+   "short": "VPTI",
+   "title": "Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/559.17-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 39,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/559.17-1",
+     "sha256": "89fa350be1d9c680a0d20a1f5e6aa068ae5abab6e8ad001fc888b574f76666a6"
+    }
+   ]
+  },
+  {
+   "slug": "620-03-brdd",
+   "short": "BRDD",
+   "title": "Dekret über die Besondere Rechnung der kantonalen Aufsichtsstelle für Datenschutz",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/620.03",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "to": "2020-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/620.03/versions/472",
+     "sha256": "3b010e0230a8fe56f75e210d77882b3c9c20eb02d002c9ac704f7cf0f371e18f"
+    },
+    {
+     "from": "2020-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/620.03",
+     "sha256": "75c2bb71f8089384d710be29ae4f1184230b6510ab86ef0fa0879aeb177a3ba8"
+    }
+   ]
+  },
+  {
+   "slug": "621-4",
+   "short": "BSG 621.4",
+   "title": "Dekret über die Verwaltung von Geldhinterlagen und Wertsachen durch die Gerichte, Grundbuch-, Betreibungs- und Konkursämter",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/621.4",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/621.4",
+     "sha256": "f53e9de132e4a5c2c21d5d40abcd8f727bb01a7e793dd34385690655c979997f"
+    }
+   ]
+  },
+  {
+   "slug": "632-1",
+   "short": "BSG 632.1",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/632.1",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/632.1",
+     "sha256": "134329080c2a936ba870dc497148efeb785577d465886ea4e2c0ff740128fd72"
+    }
+   ]
+  },
+  {
+   "slug": "632-1-1-rahmenvereinbarung-irv",
+   "short": "Rahmenvereinbarung, IRV",
+   "title": "Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/632.1-1",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 41,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/632.1-1",
+     "sha256": "5f98d73bb17c7ac1c06981948990e408a2204655bf382ca9ebd839be5571431d"
+    }
+   ]
+  },
+  {
+   "slug": "661-543-and",
+   "short": "AND",
+   "title": "Dekret über die allgemeine Neubewertung der nichtlandwirtschaftlichen Grundstücke und Wasserkräfte",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/661.543",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 38,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/661.543/versions/208",
+     "sha256": "69a1fdaf2d267efee525d444c4787cac6a23dc5188f9bad70f4dfc16c943849d"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2021-12-20",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/661.543/versions/1831",
+     "sha256": "bdce4ad60abb879b38f6620b89ee1bd8e5377f14f1ecaf55bb496edf8c04a687"
+    },
+    {
+     "from": "2021-12-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/661.543",
+     "sha256": "fd4773a4006a9e2b402b0ff688f0e84355fab4a88c2e3ec5b617dadf138d7022"
+    }
+   ]
+  },
+  {
+   "slug": "669-11",
+   "short": "BSG 669.11",
+   "title": "Grossratsbeschluss über den Beitritt des Kantons Bern zum Konkordat zwischen den Kantonen über den Ausschluss von Steuerabkommen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/669.11",
+   "versions": [
+    {
+     "from": "1949-02-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/669.11",
+     "sha256": "cab90c5fd5bb58ded16af64a2f3397a7a0f27a7c3ea7545c09e3e8a860bb2167"
+    }
+   ]
+  },
+  {
+   "slug": "669-811",
+   "short": "BSG 669.811",
+   "title": "Grossratsbeschluss betreffend die Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern vom 11. April 1983",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/669.811",
+   "versions": [
+    {
+     "from": "1986-09-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/669.811",
+     "sha256": "5e44416830bf15552911bd12e9b2adc0e4920028e1baaa6e047fab7f0b5f35a0"
+    }
+   ]
+  },
+  {
+   "slug": "682-2",
+   "short": "BSG 682.2",
+   "title": "Gesetz über den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung vom 22. November 1973 über den Salzverkauf in der Schweiz",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/682.2",
+   "versions": [
+    {
+     "from": "1974-12-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/682.2",
+     "sha256": "d80b7fed24874ef5e68fe2268a3065b05de1f35e6f3c6dcdc556efef784c91c9"
+    }
+   ]
+  },
+  {
+   "slug": "682-2-1",
+   "short": "BSG 682.2-1",
+   "title": "Interkantonale Vereinbarung über den Salzverkauf in der Schweiz",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/682.2-1",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/682.2-1",
+     "sha256": "929a44fceae71a3937107634ad0e4d2296283c600619946478a9509b130a81ff"
+    }
+   ]
+  },
+  {
+   "slug": "704-111-sfv",
+   "short": "SFV",
+   "title": "See- und Flussuferverordnung",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/704.111",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/704.111/versions/561",
+     "sha256": "af0aff30ca7c1a2a21ca91cae77287b344215c6b415428f6a889c9f93c9999fb"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2020-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/704.111/versions/1372",
+     "sha256": "4e6401348a8d38d6311393f122ed91c45a5827095a15214e342b58ddcf517d93"
+    },
+    {
+     "from": "2020-11-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/704.111/versions/1990",
+     "sha256": "11eb7c3995e8d12b3bbf7a8ae12eb5de85eea137e224fee6b0415b9e05f45a55"
+    },
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/704.111",
+     "sha256": "6f3b79d83f23b81785bf7a2c488ecd7cf39a4aa8921c7cdc1b8e4c0e10974b96"
+    }
+   ]
+  },
+  {
+   "slug": "721-2",
+   "short": "BSG 721.2",
+   "title": "Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe und Messweisen (IVHB)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/721.2",
+   "versions": [
+    {
+     "from": "2008-03-12",
+     "to": "2015-04-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/721.2/versions/566",
+     "sha256": "236c24c826ad1acde9fb410bf4bbd0e5121ca2152eab796ccde42c354d9d3be7"
+    },
+    {
+     "from": "2015-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/721.2",
+     "sha256": "b0209ad176ff0502936b6270af3bb0dc89d2db4dada41cd4e7cad86dc019b795"
+    }
+   ]
+  },
+  {
+   "slug": "721-2-1-ivhb",
+   "short": "IVHB",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/721.2-1",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "to": "2015-04-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/721.2-1/versions/929",
+     "sha256": "83f49624db69312c81ce5f9a369c5feac769f270060735bd44b192beb3291893"
+    },
+    {
+     "from": "2015-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/721.2-1",
+     "sha256": "f4c608250ca536a4f0987592cd05375479eaccd79981fc258b2b4f02999eefd6"
+    }
+   ]
+  },
+  {
+   "slug": "723-13-nbrd",
+   "short": "NBRD",
+   "title": "Dekret über das Normalbaureglement",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/723.13",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "to": "2017-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/723.13/versions/568",
+     "sha256": "74eb9cf50249bbb2ef369b3581b1d63ea851f9995b5692713b18dab2a912ed35"
+    },
+    {
+     "from": "2017-04-01",
+     "to": "2020-07-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/723.13/versions/1260",
+     "sha256": "625aeff1fb70ca73131ebe7e090c40836948fc527236c4d4f6108a253b78078a"
+    },
+    {
+     "from": "2020-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/723.13/versions/1920",
+     "sha256": "471fc2d2f46edd9ae398ba9fe713297429b6fa124531918b0917cfae317648ef"
+    }
+   ]
+  },
+  {
+   "slug": "725-1-baubewilligungsdekret-bewd",
+   "short": "Baubewilligungsdekret, BewD",
+   "title": "Dekret über das Baubewilligungsverfahren",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/725.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "to": "2017-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 62,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/725.1/versions/569",
+     "sha256": "c3f914784a4c521f295b1e7de80c8ae9563f1630dfd498e89352a36ed16a2918"
+    },
+    {
+     "from": "2017-04-01",
+     "to": "2020-07-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 64,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/725.1/versions/1317",
+     "sha256": "512a0c1e12ed71325851b421a7126cc8798b1f8dd8899de20aa4ab9bd9647859"
+    },
+    {
+     "from": "2020-08-01",
+     "to": "2022-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 64,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/725.1/versions/1919",
+     "sha256": "4e0cde6f731fd5041905457cf309cea4c90a122e8d8b1ce2b68662cfe95b8f5b"
+    },
+    {
+     "from": "2022-03-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 64,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/725.1/versions/2385",
+     "sha256": "fa88deeee0d6c20b4d41efb0ee7ae67d6f536e3e9cf52b9c7db55133515c2ce3"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2023-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 64,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/725.1/versions/3026",
+     "sha256": "6dc605db46bb3d42b296f69feb84aa08f093e367a87cc20047388f56082e429c"
+    },
+    {
+     "from": "2023-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 64,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/725.1",
+     "sha256": "4b46417704268128384b2396478a618591c93a78f3b6f611db38eebd9f492780"
+    }
+   ]
+  },
+  {
+   "slug": "728-1-baulandumlegungsdekret-bud",
+   "short": "Baulandumlegungsdekret/BUD",
+   "title": "Dekret über die Umlegung von Baugebiet, die Grenzregulierung und die Ablösung oder Verlegung von Dienstbarkeiten",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/728.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "to": "2020-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 85,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/728.1/versions/570",
+     "sha256": "87b786b6007827515bf825ae592a4917e9953a45aa0ad213fb6bd01352399260"
+    },
+    {
+     "from": "2020-11-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 85,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/728.1/versions/1992",
+     "sha256": "2c43adf7eed2ebf32e0aa72e1bfe2b4650fdc292442baf23af0a74d9502d29bc"
+    },
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 85,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/728.1",
+     "sha256": "a54a4d0f9d591902a49b9e7ac8b43dbd43436a3babfb71b113e9c27e332dbf41"
+    }
+   ]
+  },
+  {
+   "slug": "731-2-ivobg",
+   "short": "IVöBG",
+   "title": "Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/731.2",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/731.2/versions/934",
+     "sha256": "d2f20f093128607c46ac8ed9bb2f84dea26b9814227dd52cea8cc99fcc4a5d10"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2022-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/731.2/versions/1518",
+     "sha256": "1cc8105109f2fd3d1834a7908615e7a032d41dc54235f22e57126dfada5882a0"
+    },
+    {
+     "from": "2022-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/731.2",
+     "sha256": "fd083b588cd93109554e3243fef5817817cebc8ce42fa706f646b7cfd1196be9"
+    }
+   ]
+  },
+  {
+   "slug": "731-2-1-ivob",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/731.2-1",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "to": "2021-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 29,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/731.2-1/versions/391",
+     "sha256": "4a3499bf6d0b206940560244831c6cb34081cc98249afd722affa7c580b3a56d"
+    },
+    {
+     "from": "2021-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 72,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/731.2-1/versions/2465",
+     "sha256": "81d8a970b7ca1eaea033cd82c3338fe36fa11cae27d3a5ca35629796fe09e25c"
+    }
+   ]
+  },
+  {
+   "slug": "732-123-44-grundeigentumerbeitragsdekret-gbd",
+   "short": "Grundeigentümerbeitragsdekret/GBD",
+   "title": "Dekret über die Beiträge der Grundeigentümer an Erschliessungsanlagen und an weitere öffentliche Werke und Massnahmen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/732.123.44",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "to": "2017-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 38,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/732.123.44/versions/571",
+     "sha256": "bf499a7f270f4831daf6156da22b6ee75c1161076f6e70389f8c7ef89ea4ded2"
+    },
+    {
+     "from": "2017-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 38,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/732.123.44",
+     "sha256": "cf25b6375383890b5d30d8b73f9c1324232fffc1e382bfacb1e1d9d7adcdf5b9"
+    }
+   ]
+  },
+  {
+   "slug": "751-112-1",
+   "short": "BSG 751.112-1",
+   "title": "Interkantonale Vereinbarung zwischen den Kantonen Freiburg, Waadt, Neuenburg, Bern und Solothurn über den gemeinsamen Unterhalt und die Aufsicht des interkantonalen Werkes der II. Juragewässerkorrektion sowie über die Regulierung der dadurch betroffenen Gewässer (Interkantonale Vereinbarung 1985 über die II. Juragewässerkorrektion)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/751.112-1",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/751.112-1",
+     "sha256": "afdd2c5bd28461d715045d5e6a566fe4ebf0507eff5e7301ab8b55844a6140cc"
+    }
+   ]
+  },
+  {
+   "slug": "752-413-rend",
+   "short": "RenD",
+   "title": "Renaturierungsdekret",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/752.413",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "to": "2021-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/752.413/versions/383",
+     "sha256": "2e99dc8100ac35ee813c34c48a85ad83ac96d25518d161dc1c10dce039907d15"
+    },
+    {
+     "from": "2021-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/752.413",
+     "sha256": "db218d85e9acb475e5e68ecfda375a839281ff30b7d78e704e35c10cfda08452"
+    }
+   ]
+  },
+  {
+   "slug": "752-461-wad",
+   "short": "WAD",
+   "title": "Dekret über die Wassernutzungsabgaben",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/752.461",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2020-07-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/752.461/versions/382",
+     "sha256": "2c1f8fd5d8a327789e934c5c51e896b39f09e5533c955e3b418914a6d6b17667"
+    },
+    {
+     "from": "2020-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/752.461",
+     "sha256": "81ad92afb644097c6acd897831d1c0fee895854c64896965f420b6555ead4d63"
+    }
+   ]
+  },
+  {
+   "slug": "752-511",
+   "short": "BSG 752.511",
+   "title": "Beschluss des Regierungsrates betreffend Verbot der Verwendung von Tritium für hydrologische Untersuchungen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/752.511",
+   "versions": [
+    {
+     "from": "1971-09-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/752.511",
+     "sha256": "e5b768630bfe775b3553786692f07b57db4fc0593842ebd48c8caab76a3cb27b"
+    }
+   ]
+  },
+  {
+   "slug": "767-2-schiffssteuerdekret-ssd",
+   "short": "Schiffssteuerdekret, SSD",
+   "title": "Dekret über die Besteuerung der Schiffe",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/767.2",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "to": "2021-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/767.2/versions/1608",
+     "sha256": "4f26a22a5c8a76283f6f08ac014302447634fd12f9a88e88b5f7e4ac2cc60d11"
+    },
+    {
+     "from": "2021-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/767.2",
+     "sha256": "035113d9dcce72a9f930b6cd6b69099e61f79d98386abc274052345a4285a299"
+    }
+   ]
+  },
+  {
+   "slug": "767-11-schifffahrtsdekret",
+   "short": "Schifffahrtsdekret",
+   "title": "Dekret über die Beschränkungen der Schifffahrt",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/767.11",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/767.11/versions/366",
+     "sha256": "1bfc156a78c799bf5c64968bcef6f5ca71ec8324619d9767020371eac08ed886"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/767.11",
+     "sha256": "54f77b00d803adc487e614f7d7ad3e53605f87692370d8be671d31cf595df02d"
+    }
+   ]
+  },
+  {
+   "slug": "811-08",
+   "short": "BSG 811.08",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die hoch spezialisierte Medizin (IVHSM)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/811.08",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/811.08",
+     "sha256": "a7932f9d416255d7342633bd274ab31c23c0d43a65542622693c38ceae88f8e1"
+    }
+   ]
+  },
+  {
+   "slug": "811-08-1-ivhsm",
+   "short": "IVHSM",
+   "title": "Interkantonale Vereinbarung über die hoch spezialisierte Medizin",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/811.08-1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/811.08-1",
+     "sha256": "3a5d6af401592fe6b9d0be6267e3a34c40824274ef1090a3ad30012c1b49e41b"
+    }
+   ]
+  },
+  {
+   "slug": "812-12-weiterbildungsfinanzierungsvereinbarung-wfv",
+   "short": "Weiterbildungsfinanzierungsvereinbarung, WFV",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/812.12",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/812.12",
+     "sha256": "9755ef0ff6eac6f8c622acbe0b883a4c255d0040273373f7f1ef942e3dea8030"
+    }
+   ]
+  },
+  {
+   "slug": "812-12-1-weiterbildungsfinanzierungsvereinbarung-wfv",
+   "short": "Weiterbildungsfinanzierungsvereinbarung; WFV",
+   "title": "Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/812.12-1",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/812.12-1",
+     "sha256": "7ed59b54c4b5420d766c9564fe1a8f55c7250a80e994f1f34b28eb1751a0eddc"
+    }
+   ]
+  },
+  {
+   "slug": "813-113",
+   "short": "BSG 813.113",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorats",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/813.113",
+   "versions": [
+    {
+     "from": "2003-02-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/813.113",
+     "sha256": "aab326f6363d1f8df7370bb2b09c1c96f3dd87f1fa17fff4011d4e11a761adfb"
+    }
+   ]
+  },
+  {
+   "slug": "813-113-1",
+   "short": "BSG 813.113-1",
+   "title": "Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/813.113-1",
+   "versions": [
+    {
+     "from": "2003-02-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/813.113-1",
+     "sha256": "54a6b8ed3f158e70c3c441beffadabaf36f184419f1325c5679242a91f71e673"
+    }
+   ]
+  },
+  {
+   "slug": "854-13-dekret-ii-zum-gesetz-uber-die-verbesserung-des-wohnungsangebotes",
+   "short": "Dekret II zum Gesetz über die Verbesserung des Wohnungsangebotes",
+   "title": "Dekret über die Verbesserung der Wohnverhältnisse in Berggebieten",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/854.13",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "to": "2021-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/854.13/versions/229",
+     "sha256": "25e684c3f4e8cd0f681e09065e0143da302a876e17a92a92f45b421ad5cf343d"
+    },
+    {
+     "from": "2021-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/854.13",
+     "sha256": "6d512cbd0f4a151b82ae67de1da4501449f5f1403ddf531e73b51ee04152952f"
+    }
+   ]
+  },
+  {
+   "slug": "854-17-dekret-vi-zum-gesetz-uber-die-verbesserung-des-wohnungsangebotes",
+   "short": "Dekret VI zum Gesetz über die Verbesserung des Wohnungsangebotes",
+   "title": "Dekret über die Wohnbau- und Eigentumsförderung",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/854.17",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "to": "2021-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/854.17/versions/227",
+     "sha256": "9f00c50cc946b8cd2bc3b2b040ed6ebbc10ae17099c727bc225e15aa979794c9"
+    },
+    {
+     "from": "2021-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/854.17",
+     "sha256": "9930c51472c16aa62d0f40bdd2f899beea63b210ba09abb507de15f10738859c"
+    }
+   ]
+  },
+  {
+   "slug": "862-71",
+   "short": "BSG 862.71",
+   "title": "Regierungsratsbeschluss betreffend den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/862.71",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "to": "2019-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/862.71/versions/578",
+     "sha256": "53fe3b7272b8c93b74ccb6f3f7ae18d76ecbd1e2c86b3792dd3d45769a81db41"
+    },
+    {
+     "from": "2019-06-01",
+     "to": "2021-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/862.71/versions/1653",
+     "sha256": "5e8a4c5f751ee216107bef3fc2f24132083854097be1179e346bbc66ef3af697"
+    },
+    {
+     "from": "2021-03-01",
+     "to": "2021-07-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/862.71/versions/2133",
+     "sha256": "1ff6a9a893b29f18d540c1ab8f4532e7ae881c9cf549ce274a21006af7894522"
+    },
+    {
+     "from": "2021-08-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/862.71",
+     "sha256": "0f64d4328a01d6d5a140909227da14ee21ca4529e13d41d0b350c27cd0407fad"
+    }
+   ]
+  },
+  {
+   "slug": "862-71-1-ivse",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für soziale Einrichtungen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/862.71-1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": "2020-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 53,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/862.71-1/versions/597",
+     "sha256": "5b03e5f09336487d30eeb3464aaa891433ce10e47585f7e7a08f0a1ee0f25d2b"
+    },
+    {
+     "from": "2020-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 54,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/862.71-1",
+     "sha256": "db55111d813c239b66f91eb27ccc722a8a00567d90e2c9fbf48db1674de88e61"
+    }
+   ]
+  },
+  {
+   "slug": "871-111-ffv",
+   "short": "FFV",
+   "title": "Feuerschutz- und Feuerwehrverordnung",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/871.111",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 49,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/871.111/versions/218",
+     "sha256": "711693a66eac34f3934bff08960c306b7122b1e304f0603fccbaab66b93c826d"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2025-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 53,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/871.111/versions/2076",
+     "sha256": "bc59056a3f9df31da8795f6a521dd1a7e13fd0b5aa1a9695ec11a0a500593a6f"
+    },
+    {
+     "from": "2025-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 54,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/871.111",
+     "sha256": "c1bd90c7c155218f16aaeb9ac9f301ba146323a41778621c1380d190710b1ffa"
+    }
+   ]
+  },
+  {
+   "slug": "873-111-2",
+   "short": "BSG 873.111.2",
+   "title": "Prämientarif der Gebäudeversicherung",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/873.111.2",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/873.111.2/versions/721",
+     "sha256": "f228dbf1e22dff28f2b32ba4fbf5e442e686a68b5533e98518c2aac588479e73"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/873.111.2/versions/2646",
+     "sha256": "75971aa6f62cec48e3d9ef57f2c59fd8c2719c1c5bdd7d9e1b3b4c6476e77a71"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/873.111.2/versions/2744",
+     "sha256": "c38e1fdb10fdab89c827ed37f2071d0f923ec3ed663e1d7950ca451ef6032399"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/873.111.2",
+     "sha256": "e696ef421c5460f8a83ca6ca52b3e7447a6e3abb55b85a69a38b3a0a04811537"
+    }
+   ]
+  },
+  {
+   "slug": "923-919-1",
+   "short": "BSG 923.919.1",
+   "title": "Vereinbarung zwischen den Kantonen Bern und Freiburg betreffend die Fischerei in den Grenzgewässern der Sense und Saane",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/923.919.1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.919.1",
+     "sha256": "625ca06591b01feda31acc4088c5875f5d15605dbe098610b4f90479361da730"
+    }
+   ]
+  },
+  {
+   "slug": "923-921-1",
+   "short": "BSG 923.921.1",
+   "title": "Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/923.921.1",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "to": "2008-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.921.1/versions/603",
+     "sha256": "47f300c08f6ddda9bd356df21520a16f0b062e7b0b7ff5e5af98ab7a46d02e44"
+    },
+    {
+     "from": "2009-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.921.1/versions/3210",
+     "sha256": "a2e3e143e96aacd76c3b9b379bc343211f9bcafb12afbb54ea87fb7b3133758e"
+    },
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.921.1",
+     "sha256": "778ac1f16a3516a36da21b7b60a2d2fdb8ef4364e512dd6b33f2cefc75d73de5"
+    }
+   ]
+  },
+  {
+   "slug": "923-933-1",
+   "short": "BSG 923.933.1",
+   "title": "Vereinbarung zwischen den Kantonen Bern und Neuenburg betreffend die Fischerei im Grenzgewässer des Zihlkanals",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/923.933.1",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.933.1",
+     "sha256": "4daff34d1dc6ffc043638da84a993852b7cc430d3de090c98174082fc9774356"
+    }
+   ]
+  },
+  {
+   "slug": "923-941-1",
+   "short": "BSG 923.941.1",
+   "title": "Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung zwischen den Kantonen Bern und Jura über die Fischerei im interkantonalen Abschnitt der Birs",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/923.941.1",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.941.1",
+     "sha256": "2804f62c298e2713967644702cd1884a3d193da511cfa09ffa75cf83bdd7b244"
+    }
+   ]
+  },
+  {
+   "slug": "923-941-1-1",
+   "short": "BSG 923.941.1-1",
+   "title": "Vereinbarung zwischen den Kantonen Bern und Jura über die Fischerei im interkantonalen Abschnitt der Birs",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/923.941.1-1",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/923.941.1-1",
+     "sha256": "1472bfd891691fc17b96a12da342905b5eb243a282730bd94e2a4345cc53f86d"
+    }
+   ]
+  },
+  {
+   "slug": "945-1",
+   "short": "BSG 945.1",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur interkantonalen Vereinbarung zum Abbau technischer Handelshemmnisse",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/945.1",
+   "versions": [
+    {
+     "from": "2001-11-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.1",
+     "sha256": "170f2011a606946920ebc7781166829de484040f6cb560dabb96b892ed4cdfb5"
+    }
+   ]
+  },
+  {
+   "slug": "945-1-1-ivth",
+   "short": "IVTH",
+   "title": "Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/945.1-1",
+   "versions": [
+    {
+     "from": "2001-11-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.1-1",
+     "sha256": "90c7f2a8ecd8a0a018ee562f356ed25f0508aa3ebd17b5193f62b87335ec68a8"
+    }
+   ]
+  },
+  {
+   "slug": "945-3",
+   "short": "BSG 945.3",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/945.3",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "to": "2020-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.3/versions/623",
+     "sha256": "06f09095db0c55cd234afb04602149493e0367651eb335517161302a4031ae70"
+    },
+    {
+     "from": "2020-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.3",
+     "sha256": "86238a478b5f8be40f655aac611f2d13714ee8d664b44d2bb50b366d34ef800c"
+    }
+   ]
+  },
+  {
+   "slug": "945-3-1-ikv-2020",
+   "short": "IKV 2020",
+   "title": "Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/945.3-1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.3-1/versions/624",
+     "sha256": "b75efcc9ba35cfeb431bee209acf5aa4c2f79c4ccc61d0bff44886b1767d65de"
+    },
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.3-1",
+     "sha256": "bc4f2a0232d02d05a697b74dbc7559de1d5dd6bd88245495fb54df40b5d9abf5"
+    }
+   ]
+  },
+  {
+   "slug": "945-4",
+   "short": "BSG 945.4",
+   "title": "Grossratsbeschluss betreffend den Beitritt zum Gesamtschweizerischen Geldspielkonkordat (GSK)",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/945.4",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "to": "2020-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.4/versions/625",
+     "sha256": "66a97fba59be2b4463974f7f0d8c4456904dbcc581aa401563de21d83e33ad07"
+    },
+    {
+     "from": "2020-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.4",
+     "sha256": "8af33013469fce45919009953b45531bffeeb381c1f896534589636cd7200a15"
+    }
+   ]
+  },
+  {
+   "slug": "945-4-1-gsk",
+   "short": "GSK",
+   "title": "Gesamtschweizerisches Geldspielkonkordat",
+   "url": "https://www.belex.sites.be.ch/app/de/texts_of_law/945.4-1",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 35,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.4-1/versions/635",
+     "sha256": "0248c4fbf9735a57b7b0dcfe662c90f6eadac35040b8dd9332107266e677a28b"
+    },
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 76,
+     "source_url": "https://www.belex.sites.be.ch/api/de/texts_of_law/945.4-1",
+     "sha256": "8ca4a92c4b787e33b7f10cccd5d510c0abed5c938761e9aef28d033ca0a17e86"
+    }
+   ]
   }
  ]
 }
