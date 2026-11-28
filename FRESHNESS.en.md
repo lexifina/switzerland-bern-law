@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Bern: systematic collection (www.belex.sites.be.ch) · `switzerland/bern/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 06:03 UTC**.
-- Acts held here: 710; current at the source: 709; changed at the source since the version held here: 0; no longer at the source: 1.
+- The official source last read and every act held here checked against it: **2026-11-28 05:59 UTC**.
+- Acts held here: 710; current at the source: 708; changed at the source since the version held here: 1; no longer at the source: 1.
 - Compared with the source in this read: 102 of the 710 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 1 (held by a check: 1); with no reason: 0.
+- Not published: 4 (held by a check: 1, changed at the source since the version held here: 1, in force later: 2); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).

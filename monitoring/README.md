@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Bern: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 06:03 UTC, Bern: Systematische Sammlung (www.belex.sites.be.ch): 306 Adressen gelesen; 0 hinzugefügt, 0 geändert, 1 entfernt; Änderungen gefunden; 1 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `audit-disagrees`.
+**Letzte Prüfung:** 2026-11-28 05:59 UTC, Bern: Systematische Sammlung (www.belex.sites.be.ch): 216 Adressen gelesen; 0 hinzugefügt, 1 geändert, 1 entfernt; Änderungen gefunden; 4 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Bern: Systematische Sammlung (www.belex.sites.be.ch)](https://www.belex.sites.be.ch/) | `<act>/` | täglich | 2026-11-27 06:03 UTC | Änderungen gefunden | beobachtet |
+| [Bern: Systematische Sammlung (www.belex.sites.be.ch)](https://www.belex.sites.be.ch/) | `<act>/` | täglich | 2026-11-28 05:59 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:55](checks/2026-11.md#ch-lexwork-bern-20261128t055529z) | lexwork-bern | 216 | 0 | 1 | 1 | 4 (0) | Änderungen gefunden | — |
 | [2026-11-27 05:58](checks/2026-11.md#ch-lexwork-bern-20261127t055815z) | lexwork-bern | 306 | 0 | 0 | 1 | 1 (0) | Änderungen gefunden `audit-disagrees` | — |
 | [2026-11-26 06:02](checks/2026-11.md#ch-lexwork-bern-20261126t060233z) | lexwork-bern | 226 | 62 | 0 | 1 | 15 (0) | Änderungen gefunden | [97](https://github.com/lexifina/switzerland-bern-law/compare/95ad4ca483cf...670e281fe74d) |
 | [2026-11-25 06:18](checks/2026-11.md#ch-lexwork-bern-20261125t061813z) | lexwork-bern | 416 | 208 | 4 | 1 | 82 (0) | Änderungen gefunden | [245](https://github.com/lexifina/switzerland-bern-law/compare/ad98aa0d0025...92f647c8e433) |

@@ -8,6 +8,6 @@ Wie global-law die Quellen jedes Landes beobachtet: [global-law WATCHING.md](htt
 
 | Quelle | Was gelesen wird | Ordner | Wie oft | Zuletzt gelesen | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Bern: Systematische Sammlung (www.belex.sites.be.ch)](https://www.belex.sites.be.ch/) | jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal | `<act>/` | täglich | 2026-11-27 05:58 UTC | beobachtet |
+| [Bern: Systematische Sammlung (www.belex.sites.be.ch)](https://www.belex.sites.be.ch/) | jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal | `<act>/` | täglich | 2026-11-28 05:55 UTC | beobachtet |
 
 Die Quellen werden im Rahmen ihrer robots.txt und Nutzungsbedingungen gelesen, mit Pausen zwischen den Anfragen.
